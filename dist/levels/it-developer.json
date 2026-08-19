@@ -602,7 +602,19 @@
      "note": "원인을 정리하는 문서입니다."
     }
    ]
+  },
+  {
+   "id": "it-developer-051",
+   "sentence": "Let's add a regression test for this bug.",
+   "sentenceKo": "이 버그에 대한 회귀 테스트를 추가합시다.",
+   "idioms": [
+    {
+     "en": "regression test",
+     "ko": "회귀 테스트",
+     "note": "고친 버그가 다시 생기지 않는지 확인하는 테스트입니다."
+    }
+   ]
   }
  ],
- "contentHash": "1ef01ffbe46a8240"
+ "contentHash": "3c95332c0ae5a462"
 }

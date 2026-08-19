@@ -79,8 +79,8 @@
    "name": "IT 개발자",
    "order": 9,
    "description": "개발 실무 · 코드 리뷰, 티켓, 배포",
-   "cards": 50,
-   "contentHash": "1ef01ffbe46a8240",
+   "cards": 51,
+   "contentHash": "3c95332c0ae5a462",
    "path": "levels/it-developer.json"
   },
   {
@@ -93,5 +93,5 @@
    "path": "levels/sv-engineer.json"
   }
  ],
- "manifestHash": "f78ffcbc795b067f"
+ "manifestHash": "53b57ae23d63b099"
 }
