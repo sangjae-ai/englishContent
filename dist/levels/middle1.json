@@ -1,0 +1,608 @@
+{
+ "schema": 3,
+ "level": "middle1",
+ "name": "중1",
+ "cards": [
+  {
+   "id": "middle1-001",
+   "sentence": "I ran into my old friend at the mall.",
+   "sentenceKo": "쇼핑몰에서 옛 친구를 우연히 만났어.",
+   "idioms": [
+    {
+     "en": "run into",
+     "ko": "우연히 마주치다",
+     "note": "약속 없이 마주쳤을 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-002",
+   "sentence": "We put off the picnic because of the rain.",
+   "sentenceKo": "비 때문에 소풍을 미뤘어.",
+   "idioms": [
+    {
+     "en": "put off",
+     "ko": "미루다",
+     "note": "일정을 뒤로 늦추는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-003",
+   "sentence": "I made up my mind to join the club.",
+   "sentenceKo": "동아리에 들어가기로 마음먹었어.",
+   "idioms": [
+    {
+     "en": "make up one's mind",
+     "ko": "결심하다",
+     "note": "고민 끝에 정했을 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-004",
+   "sentence": "She showed up ten minutes late.",
+   "sentenceKo": "그 애는 10분 늦게 나타났어.",
+   "idioms": [
+    {
+     "en": "show up",
+     "ko": "나타나다",
+     "note": "약속 장소에 오는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-005",
+   "sentence": "My parents let me stay up late on Fridays.",
+   "sentenceKo": "부모님이 금요일엔 늦게까지 안 자도 되게 해주셔.",
+   "idioms": [
+    {
+     "en": "stay up",
+     "ko": "안 자고 깨어 있다",
+     "note": "늦게까지 잠들지 않는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-006",
+   "sentence": "I looked up the word in the dictionary.",
+   "sentenceKo": "사전에서 그 단어를 찾아봤어.",
+   "idioms": [
+    {
+     "en": "look up",
+     "ko": "찾아보다",
+     "note": "사전이나 인터넷에서 정보를 찾는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-007",
+   "sentence": "He turned down my invitation.",
+   "sentenceKo": "그는 내 초대를 거절했어.",
+   "idioms": [
+    {
+     "en": "turn down",
+     "ko": "거절하다",
+     "note": "제안을 받아들이지 않는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-008",
+   "sentence": "We got together after the exam.",
+   "sentenceKo": "시험 끝나고 우리 모였어.",
+   "idioms": [
+    {
+     "en": "get together",
+     "ko": "모이다",
+     "note": "친구들이 만나는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-009",
+   "sentence": "I used to play the piano when I was young.",
+   "sentenceKo": "어릴 때 피아노를 치곤 했어.",
+   "idioms": [
+    {
+     "en": "used to",
+     "ko": "~하곤 했다",
+     "note": "지금은 안 하는 과거의 습관입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-010",
+   "sentence": "Please fill out this form first.",
+   "sentenceKo": "먼저 이 양식을 작성해 주세요.",
+   "idioms": [
+    {
+     "en": "fill out",
+     "ko": "작성하다",
+     "note": "빈칸을 채우는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-011",
+   "sentence": "The concert was called off yesterday.",
+   "sentenceKo": "어제 콘서트가 취소됐어.",
+   "idioms": [
+    {
+     "en": "call off",
+     "ko": "취소하다",
+     "note": "예정된 일을 없애는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-012",
+   "sentence": "I came across an interesting article.",
+   "sentenceKo": "흥미로운 기사를 우연히 봤어.",
+   "idioms": [
+    {
+     "en": "come across",
+     "ko": "우연히 발견하다",
+     "note": "찾던 게 아닌데 마주친 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-013",
+   "sentence": "He takes after his father.",
+   "sentenceKo": "그는 아버지를 닮았어.",
+   "idioms": [
+    {
+     "en": "take after",
+     "ko": "닮다",
+     "note": "가족의 외모나 성격을 닮았을 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-014",
+   "sentence": "Let's go over the answers together.",
+   "sentenceKo": "답을 같이 검토해 보자.",
+   "idioms": [
+    {
+     "en": "go over",
+     "ko": "검토하다",
+     "note": "처음부터 다시 살펴보는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-015",
+   "sentence": "I handed in my report on time.",
+   "sentenceKo": "보고서를 제때 제출했어.",
+   "idioms": [
+    {
+     "en": "hand in",
+     "ko": "제출하다",
+     "note": "선생님께 내는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-016",
+   "sentence": "She gave up eating snacks at night.",
+   "sentenceKo": "그 애는 밤에 간식 먹는 걸 끊었어.",
+   "idioms": [
+    {
+     "en": "give up",
+     "ko": "끊다, 포기하다",
+     "note": "뒤에 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-017",
+   "sentence": "We ended up watching a movie instead.",
+   "sentenceKo": "결국 대신 영화를 봤어.",
+   "idioms": [
+    {
+     "en": "end up",
+     "ko": "결국 ~하게 되다",
+     "note": "예상과 다른 결말을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-018",
+   "sentence": "My brother looks after our dog.",
+   "sentenceKo": "형이 우리 개를 돌봐.",
+   "idioms": [
+    {
+     "en": "look after",
+     "ko": "돌보다",
+     "note": "take care of 와 같은 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-019",
+   "sentence": "I found out the truth last night.",
+   "sentenceKo": "어젯밤에 진실을 알게 됐어.",
+   "idioms": [
+    {
+     "en": "find out",
+     "ko": "알아내다",
+     "note": "몰랐던 사실을 알게 되는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-020",
+   "sentence": "Please keep in touch after you move.",
+   "sentenceKo": "이사 가서도 연락하고 지내.",
+   "idioms": [
+    {
+     "en": "keep in touch",
+     "ko": "연락하고 지내다",
+     "note": "헤어질 때 자주 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-021",
+   "sentence": "He broke down and cried.",
+   "sentenceKo": "그는 무너져서 울었어.",
+   "idioms": [
+    {
+     "en": "break down",
+     "ko": "무너지다, 고장 나다",
+     "note": "사람의 감정과 기계 모두에 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-022",
+   "sentence": "I dropped by the library after school.",
+   "sentenceKo": "방과 후에 도서관에 잠깐 들렀어.",
+   "idioms": [
+    {
+     "en": "drop by",
+     "ko": "잠깐 들르다",
+     "note": "짧게 방문하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-023",
+   "sentence": "The teacher pointed out my mistake.",
+   "sentenceKo": "선생님이 내 실수를 지적하셨어.",
+   "idioms": [
+    {
+     "en": "point out",
+     "ko": "지적하다",
+     "note": "틀린 곳을 짚어주는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-024",
+   "sentence": "We set up the tent near the river.",
+   "sentenceKo": "강 근처에 텐트를 쳤어.",
+   "idioms": [
+    {
+     "en": "set up",
+     "ko": "설치하다",
+     "note": "무언가를 세우거나 준비하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-025",
+   "sentence": "I got over my cold in three days.",
+   "sentenceKo": "감기를 사흘 만에 이겨냈어.",
+   "idioms": [
+    {
+     "en": "get over",
+     "ko": "극복하다",
+     "note": "병이나 힘든 일에서 회복하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-026",
+   "sentence": "She takes part in the school band.",
+   "sentenceKo": "그 애는 학교 밴드에 참여해.",
+   "idioms": [
+    {
+     "en": "take part in",
+     "ko": "참여하다",
+     "note": "활동에 끼는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-027",
+   "sentence": "Don't make fun of your classmates.",
+   "sentenceKo": "반 친구를 놀리지 마.",
+   "idioms": [
+    {
+     "en": "make fun of",
+     "ko": "놀리다",
+     "note": "남을 웃음거리로 만드는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-028",
+   "sentence": "I ran out of time during the test.",
+   "sentenceKo": "시험 중에 시간이 부족했어.",
+   "idioms": [
+    {
+     "en": "run out of",
+     "ko": "다 떨어지다",
+     "note": "시간이나 물건이 바닥난 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-029",
+   "sentence": "Let's split the bill.",
+   "sentenceKo": "각자 내자.",
+   "idioms": [
+    {
+     "en": "split the bill",
+     "ko": "나눠서 내다",
+     "note": "비용을 나누는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-030",
+   "sentence": "He is into playing basketball these days.",
+   "sentenceKo": "그는 요즘 농구에 빠져 있어.",
+   "idioms": [
+    {
+     "en": "be into",
+     "ko": "~에 빠지다",
+     "note": "취미로 좋아하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-031",
+   "sentence": "I put up with the noise all night.",
+   "sentenceKo": "밤새 소음을 참았어.",
+   "idioms": [
+    {
+     "en": "put up with",
+     "ko": "참다",
+     "note": "싫은 것을 견디는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-032",
+   "sentence": "We should back up our files.",
+   "sentenceKo": "파일을 백업해야 해.",
+   "idioms": [
+    {
+     "en": "back up",
+     "ko": "백업하다, 지지하다",
+     "note": "복사본을 만드는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-033",
+   "sentence": "She stood up for her friend.",
+   "sentenceKo": "그 애는 친구 편을 들어줬어.",
+   "idioms": [
+    {
+     "en": "stand up for",
+     "ko": "편을 들다",
+     "note": "누군가를 지켜주는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-034",
+   "sentence": "The rumor turned out to be false.",
+   "sentenceKo": "그 소문은 거짓으로 밝혀졌어.",
+   "idioms": [
+    {
+     "en": "turn out",
+     "ko": "~으로 밝혀지다",
+     "note": "결과가 드러나는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-035",
+   "sentence": "I am used to waking up early now.",
+   "sentenceKo": "이제 일찍 일어나는 게 익숙해.",
+   "idioms": [
+    {
+     "en": "be used to",
+     "ko": "~에 익숙하다",
+     "note": "뒤에 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-036",
+   "sentence": "Please carry on with your work.",
+   "sentenceKo": "하던 일 계속해.",
+   "idioms": [
+    {
+     "en": "carry on",
+     "ko": "계속하다",
+     "note": "하던 것을 이어가는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-037",
+   "sentence": "He got rid of his old comic books.",
+   "sentenceKo": "그는 낡은 만화책을 처분했어.",
+   "idioms": [
+    {
+     "en": "get rid of",
+     "ko": "없애다",
+     "note": "필요 없는 것을 치우는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-038",
+   "sentence": "We are running late for the movie.",
+   "sentenceKo": "영화 시간에 늦고 있어.",
+   "idioms": [
+    {
+     "en": "run late",
+     "ko": "늦다",
+     "note": "예정보다 뒤처진 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-039",
+   "sentence": "I looked forward to the field trip all month.",
+   "sentenceKo": "한 달 내내 현장학습을 기다렸어.",
+   "idioms": [
+    {
+     "en": "look forward to",
+     "ko": "기대하다",
+     "note": "뒤에 명사나 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-040",
+   "sentence": "She is good at solving math problems.",
+   "sentenceKo": "그 애는 수학 문제를 잘 풀어.",
+   "idioms": [
+    {
+     "en": "be good at",
+     "ko": "잘하다",
+     "note": "뒤에 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-041",
+   "sentence": "Let's talk it over tomorrow.",
+   "sentenceKo": "내일 그 얘기 해보자.",
+   "idioms": [
+    {
+     "en": "talk over",
+     "ko": "상의하다",
+     "note": "충분히 이야기하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-042",
+   "sentence": "The lights went out during the storm.",
+   "sentenceKo": "폭풍 중에 불이 나갔어.",
+   "idioms": [
+    {
+     "en": "go out",
+     "ko": "꺼지다",
+     "note": "불이나 전기가 나가는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-043",
+   "sentence": "I signed up for the swimming class.",
+   "sentenceKo": "수영 강습을 신청했어.",
+   "idioms": [
+    {
+     "en": "sign up for",
+     "ko": "신청하다",
+     "note": "등록하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-044",
+   "sentence": "He was worn out after the game.",
+   "sentenceKo": "그는 경기 후에 완전히 지쳤어.",
+   "idioms": [
+    {
+     "en": "be worn out",
+     "ko": "지치다",
+     "note": "힘을 다 쓴 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-045",
+   "sentence": "Please cheer up, it will be fine.",
+   "sentenceKo": "기운 내, 괜찮을 거야.",
+   "idioms": [
+    {
+     "en": "cheer up",
+     "ko": "기운 내다",
+     "note": "우울한 사람을 격려하는 말입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-046",
+   "sentence": "We ran across an old photo album.",
+   "sentenceKo": "오래된 사진첩을 우연히 발견했어.",
+   "idioms": [
+    {
+     "en": "run across",
+     "ko": "우연히 발견하다",
+     "note": "come across 와 비슷합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-047",
+   "sentence": "I have to catch up with my class.",
+   "sentenceKo": "수업 진도를 따라잡아야 해.",
+   "idioms": [
+    {
+     "en": "catch up with",
+     "ko": "따라잡다",
+     "note": "뒤처진 것을 만회하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-048",
+   "sentence": "She turned in her assignment early.",
+   "sentenceKo": "그 애는 과제를 일찍 냈어.",
+   "idioms": [
+    {
+     "en": "turn in",
+     "ko": "제출하다",
+     "note": "hand in 과 같은 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-049",
+   "sentence": "Let's clear up this misunderstanding.",
+   "sentenceKo": "이 오해를 풀자.",
+   "idioms": [
+    {
+     "en": "clear up",
+     "ko": "해소하다",
+     "note": "문제나 오해를 없애는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle1-050",
+   "sentence": "He was left out of the group project.",
+   "sentenceKo": "그는 조별 과제에서 빠졌어.",
+   "idioms": [
+    {
+     "en": "be left out",
+     "ko": "소외되다",
+     "note": "무리에 끼지 못한 것입니다."
+    }
+   ]
+  }
+ ],
+ "contentHash": "c2948b5895e9df7a"
+}

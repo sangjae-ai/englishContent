@@ -1,0 +1,258 @@
+{
+ "id": "middle1",
+ "name": "중1",
+ "order": 2,
+ "description": "중학교 1학년 · 과거형과 학교 생활",
+ "cards": [
+  [
+   "I ran into my old friend at the mall.",
+   "쇼핑몰에서 옛 친구를 우연히 만났어.",
+   "run into|우연히 마주치다|약속 없이 마주쳤을 때 씁니다."
+  ],
+  [
+   "We put off the picnic because of the rain.",
+   "비 때문에 소풍을 미뤘어.",
+   "put off|미루다|일정을 뒤로 늦추는 것입니다."
+  ],
+  [
+   "I made up my mind to join the club.",
+   "동아리에 들어가기로 마음먹었어.",
+   "make up one's mind|결심하다|고민 끝에 정했을 때 씁니다."
+  ],
+  [
+   "She showed up ten minutes late.",
+   "그 애는 10분 늦게 나타났어.",
+   "show up|나타나다|약속 장소에 오는 것입니다."
+  ],
+  [
+   "My parents let me stay up late on Fridays.",
+   "부모님이 금요일엔 늦게까지 안 자도 되게 해주셔.",
+   "stay up|안 자고 깨어 있다|늦게까지 잠들지 않는 것입니다."
+  ],
+  [
+   "I looked up the word in the dictionary.",
+   "사전에서 그 단어를 찾아봤어.",
+   "look up|찾아보다|사전이나 인터넷에서 정보를 찾는 것입니다."
+  ],
+  [
+   "He turned down my invitation.",
+   "그는 내 초대를 거절했어.",
+   "turn down|거절하다|제안을 받아들이지 않는 것입니다."
+  ],
+  [
+   "We got together after the exam.",
+   "시험 끝나고 우리 모였어.",
+   "get together|모이다|친구들이 만나는 것입니다."
+  ],
+  [
+   "I used to play the piano when I was young.",
+   "어릴 때 피아노를 치곤 했어.",
+   "used to|~하곤 했다|지금은 안 하는 과거의 습관입니다."
+  ],
+  [
+   "Please fill out this form first.",
+   "먼저 이 양식을 작성해 주세요.",
+   "fill out|작성하다|빈칸을 채우는 것입니다."
+  ],
+  [
+   "The concert was called off yesterday.",
+   "어제 콘서트가 취소됐어.",
+   "call off|취소하다|예정된 일을 없애는 것입니다."
+  ],
+  [
+   "I came across an interesting article.",
+   "흥미로운 기사를 우연히 봤어.",
+   "come across|우연히 발견하다|찾던 게 아닌데 마주친 것입니다."
+  ],
+  [
+   "He takes after his father.",
+   "그는 아버지를 닮았어.",
+   "take after|닮다|가족의 외모나 성격을 닮았을 때 씁니다."
+  ],
+  [
+   "Let's go over the answers together.",
+   "답을 같이 검토해 보자.",
+   "go over|검토하다|처음부터 다시 살펴보는 것입니다."
+  ],
+  [
+   "I handed in my report on time.",
+   "보고서를 제때 제출했어.",
+   "hand in|제출하다|선생님께 내는 것입니다."
+  ],
+  [
+   "She gave up eating snacks at night.",
+   "그 애는 밤에 간식 먹는 걸 끊었어.",
+   "give up|끊다, 포기하다|뒤에 -ing 가 옵니다."
+  ],
+  [
+   "We ended up watching a movie instead.",
+   "결국 대신 영화를 봤어.",
+   "end up|결국 ~하게 되다|예상과 다른 결말을 말합니다."
+  ],
+  [
+   "My brother looks after our dog.",
+   "형이 우리 개를 돌봐.",
+   "look after|돌보다|take care of 와 같은 뜻입니다."
+  ],
+  [
+   "I found out the truth last night.",
+   "어젯밤에 진실을 알게 됐어.",
+   "find out|알아내다|몰랐던 사실을 알게 되는 것입니다."
+  ],
+  [
+   "Please keep in touch after you move.",
+   "이사 가서도 연락하고 지내.",
+   "keep in touch|연락하고 지내다|헤어질 때 자주 씁니다."
+  ],
+  [
+   "He broke down and cried.",
+   "그는 무너져서 울었어.",
+   "break down|무너지다, 고장 나다|사람의 감정과 기계 모두에 씁니다."
+  ],
+  [
+   "I dropped by the library after school.",
+   "방과 후에 도서관에 잠깐 들렀어.",
+   "drop by|잠깐 들르다|짧게 방문하는 것입니다."
+  ],
+  [
+   "The teacher pointed out my mistake.",
+   "선생님이 내 실수를 지적하셨어.",
+   "point out|지적하다|틀린 곳을 짚어주는 것입니다."
+  ],
+  [
+   "We set up the tent near the river.",
+   "강 근처에 텐트를 쳤어.",
+   "set up|설치하다|무언가를 세우거나 준비하는 것입니다."
+  ],
+  [
+   "I got over my cold in three days.",
+   "감기를 사흘 만에 이겨냈어.",
+   "get over|극복하다|병이나 힘든 일에서 회복하는 것입니다."
+  ],
+  [
+   "She takes part in the school band.",
+   "그 애는 학교 밴드에 참여해.",
+   "take part in|참여하다|활동에 끼는 것입니다."
+  ],
+  [
+   "Don't make fun of your classmates.",
+   "반 친구를 놀리지 마.",
+   "make fun of|놀리다|남을 웃음거리로 만드는 것입니다."
+  ],
+  [
+   "I ran out of time during the test.",
+   "시험 중에 시간이 부족했어.",
+   "run out of|다 떨어지다|시간이나 물건이 바닥난 것입니다."
+  ],
+  [
+   "Let's split the bill.",
+   "각자 내자.",
+   "split the bill|나눠서 내다|비용을 나누는 것입니다."
+  ],
+  [
+   "He is into playing basketball these days.",
+   "그는 요즘 농구에 빠져 있어.",
+   "be into|~에 빠지다|취미로 좋아하는 것입니다."
+  ],
+  [
+   "I put up with the noise all night.",
+   "밤새 소음을 참았어.",
+   "put up with|참다|싫은 것을 견디는 것입니다."
+  ],
+  [
+   "We should back up our files.",
+   "파일을 백업해야 해.",
+   "back up|백업하다, 지지하다|복사본을 만드는 것입니다."
+  ],
+  [
+   "She stood up for her friend.",
+   "그 애는 친구 편을 들어줬어.",
+   "stand up for|편을 들다|누군가를 지켜주는 것입니다."
+  ],
+  [
+   "The rumor turned out to be false.",
+   "그 소문은 거짓으로 밝혀졌어.",
+   "turn out|~으로 밝혀지다|결과가 드러나는 것입니다."
+  ],
+  [
+   "I am used to waking up early now.",
+   "이제 일찍 일어나는 게 익숙해.",
+   "be used to|~에 익숙하다|뒤에 -ing 가 옵니다."
+  ],
+  [
+   "Please carry on with your work.",
+   "하던 일 계속해.",
+   "carry on|계속하다|하던 것을 이어가는 것입니다."
+  ],
+  [
+   "He got rid of his old comic books.",
+   "그는 낡은 만화책을 처분했어.",
+   "get rid of|없애다|필요 없는 것을 치우는 것입니다."
+  ],
+  [
+   "We are running late for the movie.",
+   "영화 시간에 늦고 있어.",
+   "run late|늦다|예정보다 뒤처진 상태입니다."
+  ],
+  [
+   "I looked forward to the field trip all month.",
+   "한 달 내내 현장학습을 기다렸어.",
+   "look forward to|기대하다|뒤에 명사나 -ing 가 옵니다."
+  ],
+  [
+   "She is good at solving math problems.",
+   "그 애는 수학 문제를 잘 풀어.",
+   "be good at|잘하다|뒤에 -ing 가 옵니다."
+  ],
+  [
+   "Let's talk it over tomorrow.",
+   "내일 그 얘기 해보자.",
+   "talk over|상의하다|충분히 이야기하는 것입니다."
+  ],
+  [
+   "The lights went out during the storm.",
+   "폭풍 중에 불이 나갔어.",
+   "go out|꺼지다|불이나 전기가 나가는 것입니다."
+  ],
+  [
+   "I signed up for the swimming class.",
+   "수영 강습을 신청했어.",
+   "sign up for|신청하다|등록하는 것입니다."
+  ],
+  [
+   "He was worn out after the game.",
+   "그는 경기 후에 완전히 지쳤어.",
+   "be worn out|지치다|힘을 다 쓴 상태입니다."
+  ],
+  [
+   "Please cheer up, it will be fine.",
+   "기운 내, 괜찮을 거야.",
+   "cheer up|기운 내다|우울한 사람을 격려하는 말입니다."
+  ],
+  [
+   "We ran across an old photo album.",
+   "오래된 사진첩을 우연히 발견했어.",
+   "run across|우연히 발견하다|come across 와 비슷합니다."
+  ],
+  [
+   "I have to catch up with my class.",
+   "수업 진도를 따라잡아야 해.",
+   "catch up with|따라잡다|뒤처진 것을 만회하는 것입니다."
+  ],
+  [
+   "She turned in her assignment early.",
+   "그 애는 과제를 일찍 냈어.",
+   "turn in|제출하다|hand in 과 같은 뜻입니다."
+  ],
+  [
+   "Let's clear up this misunderstanding.",
+   "이 오해를 풀자.",
+   "clear up|해소하다|문제나 오해를 없애는 것입니다."
+  ],
+  [
+   "He was left out of the group project.",
+   "그는 조별 과제에서 빠졌어.",
+   "be left out|소외되다|무리에 끼지 못한 것입니다."
+  ]
+ ]
+}

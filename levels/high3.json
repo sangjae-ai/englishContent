@@ -1,0 +1,258 @@
+{
+ "id": "high3",
+ "name": "고3",
+ "order": 7,
+ "description": "고등학교 3학년 · 수능 수준의 복합 구문",
+ "cards": [
+  [
+   "What matters most is not talent but persistence.",
+   "가장 중요한 것은 재능이 아니라 끈기입니다.",
+   "not A but B|A 가 아니라 B|대조를 강조합니다."
+  ],
+  [
+   "Rarely does one encounter such clarity of thought.",
+   "그런 명료한 사고를 만나기는 드뭅니다.",
+   "rarely does|드물게 ~하다|부정어 도치입니다."
+  ],
+  [
+   "It is not until adversity strikes that character shows.",
+   "역경이 닥쳐야 인격이 드러납니다.",
+   "It is not until ~ that|~하고 나서야 ...하다|강조 구문입니다."
+  ],
+  [
+   "Far from solving the issue, the policy worsened it.",
+   "그 정책은 문제를 해결하기는커녕 악화시켰습니다.",
+   "far from -ing|~하기는커녕|기대와 정반대임을 말합니다."
+  ],
+  [
+   "Such was his influence that few dared object.",
+   "그의 영향력이 너무 커서 감히 반대하는 이가 없었습니다.",
+   "such ~ that|너무 ~해서 ...하다|결과를 나타냅니다."
+  ],
+  [
+   "However hard he tried, the result was the same.",
+   "아무리 애써도 결과는 같았습니다.",
+   "however + 형용사|아무리 ~해도|양보를 나타냅니다."
+  ],
+  [
+   "The extent to which this holds remains unclear.",
+   "이것이 어느 정도까지 성립하는지는 불분명합니다.",
+   "the extent to which|어느 정도까지 ~하는지|정도를 묻는 표현입니다."
+  ],
+  [
+   "Were it not for his help, we would have failed.",
+   "그의 도움이 없었다면 실패했을 것입니다.",
+   "were it not for|~이 없다면|if 를 생략한 도치입니다."
+  ],
+  [
+   "He is no more a scientist than I am a poet.",
+   "그가 과학자가 아닌 것은 내가 시인이 아닌 것과 같습니다.",
+   "no more A than B|B 가 아니듯 A 도 아니다|둘 다 부정합니다."
+  ],
+  [
+   "Only by questioning assumptions can we progress.",
+   "가정을 의심해야만 나아갈 수 있습니다.",
+   "only by ~ can|~해야만 ...할 수 있다|도치가 일어납니다."
+  ],
+  [
+   "Granted that the plan is risky, it is still worth trying.",
+   "그 계획이 위험하다 해도 시도할 가치는 있습니다.",
+   "granted that|~라 하더라도|양보를 인정하는 표현입니다."
+  ],
+  [
+   "The problem lies not in the method but in its execution.",
+   "문제는 방법이 아니라 실행에 있습니다.",
+   "lie in|~에 있다|원인의 소재를 말합니다."
+  ],
+  [
+   "No sooner had the news broken than markets reacted.",
+   "소식이 전해지자마자 시장이 반응했습니다.",
+   "no sooner ~ than|~하자마자|도치 구문입니다."
+  ],
+  [
+   "To say that he was disappointed is an understatement.",
+   "그가 실망했다는 말로는 부족합니다.",
+   "understatement|절제된 표현|실제보다 약하게 말한 것입니다."
+  ],
+  [
+   "Being unaware of the rule, she made an error.",
+   "규칙을 몰라서 그녀는 실수했습니다.",
+   "being + 형용사|~한 상태여서|분사구문입니다."
+  ],
+  [
+   "It stands to reason that practice improves skill.",
+   "연습이 실력을 키운다는 것은 당연합니다.",
+   "stand to reason|당연하다|논리적으로 자명한 것입니다."
+  ],
+  [
+   "He would sooner resign than compromise his values.",
+   "그는 가치를 타협하느니 사임하겠다고 합니다.",
+   "would sooner A than B|B 하느니 A 하겠다|강한 선호입니다."
+  ],
+  [
+   "Little as he knew, he spoke with confidence.",
+   "아는 것은 적었지만 그는 자신 있게 말했습니다.",
+   "형용사 + as + 주어 + 동사|비록 ~이지만|양보 도치입니다."
+  ],
+  [
+   "The theory, if anything, has grown more relevant.",
+   "그 이론은 오히려 더 유효해졌습니다.",
+   "if anything|오히려|예상과 반대 방향을 말합니다."
+  ],
+  [
+   "This is where the two theories part ways.",
+   "여기서 두 이론이 갈라집니다.",
+   "part ways|갈라서다|길이 나뉘는 것입니다."
+  ],
+  [
+   "Suffice it to say that the outcome surprised everyone.",
+   "결과가 모두를 놀라게 했다고만 해 두겠습니다.",
+   "suffice it to say|~라고만 해 두자|자세한 설명을 생략합니다."
+  ],
+  [
+   "The proposal is anything but straightforward.",
+   "그 제안은 결코 단순하지 않습니다.",
+   "anything but|결코 ~이 아닌|강한 부정입니다."
+  ],
+  [
+   "Given the circumstances, his choice was reasonable.",
+   "상황을 감안하면 그의 선택은 합리적이었습니다.",
+   "given|~을 감안하면|조건을 전제로 놓습니다."
+  ],
+  [
+   "What he lacks in experience he makes up for in effort.",
+   "경험이 부족한 것을 그는 노력으로 메웁니다.",
+   "make up for|보완하다|부족한 것을 메우는 것입니다."
+  ],
+  [
+   "The discovery was as unexpected as it was significant.",
+   "그 발견은 뜻밖인 만큼이나 중대했습니다.",
+   "as A as it was B|B 한 만큼 A 한|두 성질을 동시에 강조합니다."
+  ],
+  [
+   "He took issue with the way data were presented.",
+   "그는 자료 제시 방식에 이의를 제기했습니다.",
+   "take issue with|이의를 제기하다|동의하지 않는 것입니다."
+  ],
+  [
+   "Contrary to popular belief, the effect is small.",
+   "통념과 달리 그 효과는 작습니다.",
+   "contrary to|~와 달리|반대되는 사실을 제시합니다."
+  ],
+  [
+   "The argument, however elegant, fails empirically.",
+   "그 주장은 아무리 우아해도 실증적으로 실패합니다.",
+   "however + 형용사|아무리 ~해도|삽입된 양보입니다."
+  ],
+  [
+   "She has a knack for explaining hard ideas simply.",
+   "그녀는 어려운 개념을 쉽게 설명하는 재주가 있습니다.",
+   "have a knack for|~에 재주가 있다|타고난 요령입니다."
+  ],
+  [
+   "This trend shows no sign of abating.",
+   "이 추세는 누그러질 기미가 없습니다.",
+   "show no sign of|~할 기미가 없다|변화가 없다는 뜻입니다."
+  ],
+  [
+   "He was at pains to explain his reasoning.",
+   "그는 자신의 논리를 설명하려 애썼습니다.",
+   "be at pains to|애써 ~하다|공을 들이는 것입니다."
+  ],
+  [
+   "The findings run counter to the prevailing view.",
+   "그 결과는 지배적 견해에 반합니다.",
+   "run counter to|~에 반하다|정반대 방향입니다."
+  ],
+  [
+   "Nowhere is this clearer than in the final chapter.",
+   "이것이 마지막 장에서보다 분명한 곳은 없습니다.",
+   "nowhere is|어디에서도 ~하지 않다|도치 강조입니다."
+  ],
+  [
+   "He owes his success in no small part to luck.",
+   "그의 성공에는 운도 적지 않게 작용했습니다.",
+   "in no small part|적지 않게|상당한 기여를 말합니다."
+  ],
+  [
+   "The distinction, subtle though it is, matters greatly.",
+   "그 구분은 미묘하지만 매우 중요합니다.",
+   "though it is|비록 ~이지만|삽입 양보입니다."
+  ],
+  [
+   "We should refrain from drawing hasty conclusions.",
+   "성급한 결론을 삼가야 합니다.",
+   "refrain from|삼가다|뒤에 -ing 가 옵니다."
+  ],
+  [
+   "His account is at odds with the official record.",
+   "그의 진술은 공식 기록과 어긋납니다.",
+   "be at odds with|~와 어긋나다|서로 맞지 않는 것입니다."
+  ],
+  [
+   "The plan hinges on securing enough funding.",
+   "그 계획은 충분한 자금 확보에 달려 있습니다.",
+   "hinge on|~에 달려 있다|결정적으로 의존하는 것입니다."
+  ],
+  [
+   "By and large, the reform has been effective.",
+   "대체로 그 개혁은 효과적이었습니다.",
+   "by and large|대체로|전반적 평가입니다."
+  ],
+  [
+   "He fell short of the standard he had set.",
+   "그는 자기가 세운 기준에 미치지 못했습니다.",
+   "fall short of|미치지 못하다|기대에 못 미치는 것입니다."
+  ],
+  [
+   "The evidence, taken together, is persuasive.",
+   "증거를 종합하면 설득력이 있습니다.",
+   "taken together|종합하면|여러 근거를 합칠 때 씁니다."
+  ],
+  [
+   "She is second to none in her field.",
+   "그녀는 자기 분야에서 최고입니다.",
+   "second to none|누구에게도 뒤지지 않는|최고를 뜻합니다."
+  ],
+  [
+   "This raises the question of whether it is ethical.",
+   "이는 그것이 윤리적인지의 문제를 제기합니다.",
+   "the question of whether|~인지의 문제|판단 대상을 제시합니다."
+  ],
+  [
+   "The author goes to great lengths to prove it.",
+   "저자는 그것을 증명하려 무척 애씁니다.",
+   "go to great lengths|무척 애쓰다|수고를 아끼지 않는 것입니다."
+  ],
+  [
+   "Under no circumstances should we ignore this.",
+   "어떤 경우에도 이를 무시해서는 안 됩니다.",
+   "under no circumstances|어떤 경우에도 ~않다|강한 금지 도치입니다."
+  ],
+  [
+   "The two accounts cannot both be true.",
+   "두 진술이 동시에 참일 수는 없습니다.",
+   "cannot both|둘 다 ~일 수는 없다|배타적 관계입니다."
+  ],
+  [
+   "His work paved the way for modern genetics.",
+   "그의 연구는 현대 유전학의 길을 열었습니다.",
+   "pave the way for|길을 열다|기반을 마련하는 것입니다."
+  ],
+  [
+   "The claim is plausible but ultimately unproven.",
+   "그 주장은 그럴듯하지만 결국 입증되지 않았습니다.",
+   "plausible|그럴듯한|사실 여부는 별개입니다."
+  ],
+  [
+   "In retrospect, the warning signs were obvious.",
+   "돌이켜 보면 경고 신호가 명백했습니다.",
+   "in retrospect|돌이켜 보면|지나고 나서의 판단입니다."
+  ],
+  [
+   "Nothing short of a full revision will suffice.",
+   "전면 개정이 아니고서는 충분하지 않습니다.",
+   "nothing short of|~이 아니고서는|최소 조건을 강조합니다."
+  ]
+ ]
+}

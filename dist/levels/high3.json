@@ -1,0 +1,608 @@
+{
+ "schema": 3,
+ "level": "high3",
+ "name": "고3",
+ "cards": [
+  {
+   "id": "high3-001",
+   "sentence": "What matters most is not talent but persistence.",
+   "sentenceKo": "가장 중요한 것은 재능이 아니라 끈기입니다.",
+   "idioms": [
+    {
+     "en": "not A but B",
+     "ko": "A 가 아니라 B",
+     "note": "대조를 강조합니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-002",
+   "sentence": "Rarely does one encounter such clarity of thought.",
+   "sentenceKo": "그런 명료한 사고를 만나기는 드뭅니다.",
+   "idioms": [
+    {
+     "en": "rarely does",
+     "ko": "드물게 ~하다",
+     "note": "부정어 도치입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-003",
+   "sentence": "It is not until adversity strikes that character shows.",
+   "sentenceKo": "역경이 닥쳐야 인격이 드러납니다.",
+   "idioms": [
+    {
+     "en": "It is not until ~ that",
+     "ko": "~하고 나서야 ...하다",
+     "note": "강조 구문입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-004",
+   "sentence": "Far from solving the issue, the policy worsened it.",
+   "sentenceKo": "그 정책은 문제를 해결하기는커녕 악화시켰습니다.",
+   "idioms": [
+    {
+     "en": "far from -ing",
+     "ko": "~하기는커녕",
+     "note": "기대와 정반대임을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-005",
+   "sentence": "Such was his influence that few dared object.",
+   "sentenceKo": "그의 영향력이 너무 커서 감히 반대하는 이가 없었습니다.",
+   "idioms": [
+    {
+     "en": "such ~ that",
+     "ko": "너무 ~해서 ...하다",
+     "note": "결과를 나타냅니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-006",
+   "sentence": "However hard he tried, the result was the same.",
+   "sentenceKo": "아무리 애써도 결과는 같았습니다.",
+   "idioms": [
+    {
+     "en": "however + 형용사",
+     "ko": "아무리 ~해도",
+     "note": "양보를 나타냅니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-007",
+   "sentence": "The extent to which this holds remains unclear.",
+   "sentenceKo": "이것이 어느 정도까지 성립하는지는 불분명합니다.",
+   "idioms": [
+    {
+     "en": "the extent to which",
+     "ko": "어느 정도까지 ~하는지",
+     "note": "정도를 묻는 표현입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-008",
+   "sentence": "Were it not for his help, we would have failed.",
+   "sentenceKo": "그의 도움이 없었다면 실패했을 것입니다.",
+   "idioms": [
+    {
+     "en": "were it not for",
+     "ko": "~이 없다면",
+     "note": "if 를 생략한 도치입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-009",
+   "sentence": "He is no more a scientist than I am a poet.",
+   "sentenceKo": "그가 과학자가 아닌 것은 내가 시인이 아닌 것과 같습니다.",
+   "idioms": [
+    {
+     "en": "no more A than B",
+     "ko": "B 가 아니듯 A 도 아니다",
+     "note": "둘 다 부정합니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-010",
+   "sentence": "Only by questioning assumptions can we progress.",
+   "sentenceKo": "가정을 의심해야만 나아갈 수 있습니다.",
+   "idioms": [
+    {
+     "en": "only by ~ can",
+     "ko": "~해야만 ...할 수 있다",
+     "note": "도치가 일어납니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-011",
+   "sentence": "Granted that the plan is risky, it is still worth trying.",
+   "sentenceKo": "그 계획이 위험하다 해도 시도할 가치는 있습니다.",
+   "idioms": [
+    {
+     "en": "granted that",
+     "ko": "~라 하더라도",
+     "note": "양보를 인정하는 표현입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-012",
+   "sentence": "The problem lies not in the method but in its execution.",
+   "sentenceKo": "문제는 방법이 아니라 실행에 있습니다.",
+   "idioms": [
+    {
+     "en": "lie in",
+     "ko": "~에 있다",
+     "note": "원인의 소재를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-013",
+   "sentence": "No sooner had the news broken than markets reacted.",
+   "sentenceKo": "소식이 전해지자마자 시장이 반응했습니다.",
+   "idioms": [
+    {
+     "en": "no sooner ~ than",
+     "ko": "~하자마자",
+     "note": "도치 구문입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-014",
+   "sentence": "To say that he was disappointed is an understatement.",
+   "sentenceKo": "그가 실망했다는 말로는 부족합니다.",
+   "idioms": [
+    {
+     "en": "understatement",
+     "ko": "절제된 표현",
+     "note": "실제보다 약하게 말한 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-015",
+   "sentence": "Being unaware of the rule, she made an error.",
+   "sentenceKo": "규칙을 몰라서 그녀는 실수했습니다.",
+   "idioms": [
+    {
+     "en": "being + 형용사",
+     "ko": "~한 상태여서",
+     "note": "분사구문입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-016",
+   "sentence": "It stands to reason that practice improves skill.",
+   "sentenceKo": "연습이 실력을 키운다는 것은 당연합니다.",
+   "idioms": [
+    {
+     "en": "stand to reason",
+     "ko": "당연하다",
+     "note": "논리적으로 자명한 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-017",
+   "sentence": "He would sooner resign than compromise his values.",
+   "sentenceKo": "그는 가치를 타협하느니 사임하겠다고 합니다.",
+   "idioms": [
+    {
+     "en": "would sooner A than B",
+     "ko": "B 하느니 A 하겠다",
+     "note": "강한 선호입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-018",
+   "sentence": "Little as he knew, he spoke with confidence.",
+   "sentenceKo": "아는 것은 적었지만 그는 자신 있게 말했습니다.",
+   "idioms": [
+    {
+     "en": "형용사 + as + 주어 + 동사",
+     "ko": "비록 ~이지만",
+     "note": "양보 도치입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-019",
+   "sentence": "The theory, if anything, has grown more relevant.",
+   "sentenceKo": "그 이론은 오히려 더 유효해졌습니다.",
+   "idioms": [
+    {
+     "en": "if anything",
+     "ko": "오히려",
+     "note": "예상과 반대 방향을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-020",
+   "sentence": "This is where the two theories part ways.",
+   "sentenceKo": "여기서 두 이론이 갈라집니다.",
+   "idioms": [
+    {
+     "en": "part ways",
+     "ko": "갈라서다",
+     "note": "길이 나뉘는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-021",
+   "sentence": "Suffice it to say that the outcome surprised everyone.",
+   "sentenceKo": "결과가 모두를 놀라게 했다고만 해 두겠습니다.",
+   "idioms": [
+    {
+     "en": "suffice it to say",
+     "ko": "~라고만 해 두자",
+     "note": "자세한 설명을 생략합니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-022",
+   "sentence": "The proposal is anything but straightforward.",
+   "sentenceKo": "그 제안은 결코 단순하지 않습니다.",
+   "idioms": [
+    {
+     "en": "anything but",
+     "ko": "결코 ~이 아닌",
+     "note": "강한 부정입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-023",
+   "sentence": "Given the circumstances, his choice was reasonable.",
+   "sentenceKo": "상황을 감안하면 그의 선택은 합리적이었습니다.",
+   "idioms": [
+    {
+     "en": "given",
+     "ko": "~을 감안하면",
+     "note": "조건을 전제로 놓습니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-024",
+   "sentence": "What he lacks in experience he makes up for in effort.",
+   "sentenceKo": "경험이 부족한 것을 그는 노력으로 메웁니다.",
+   "idioms": [
+    {
+     "en": "make up for",
+     "ko": "보완하다",
+     "note": "부족한 것을 메우는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-025",
+   "sentence": "The discovery was as unexpected as it was significant.",
+   "sentenceKo": "그 발견은 뜻밖인 만큼이나 중대했습니다.",
+   "idioms": [
+    {
+     "en": "as A as it was B",
+     "ko": "B 한 만큼 A 한",
+     "note": "두 성질을 동시에 강조합니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-026",
+   "sentence": "He took issue with the way data were presented.",
+   "sentenceKo": "그는 자료 제시 방식에 이의를 제기했습니다.",
+   "idioms": [
+    {
+     "en": "take issue with",
+     "ko": "이의를 제기하다",
+     "note": "동의하지 않는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-027",
+   "sentence": "Contrary to popular belief, the effect is small.",
+   "sentenceKo": "통념과 달리 그 효과는 작습니다.",
+   "idioms": [
+    {
+     "en": "contrary to",
+     "ko": "~와 달리",
+     "note": "반대되는 사실을 제시합니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-028",
+   "sentence": "The argument, however elegant, fails empirically.",
+   "sentenceKo": "그 주장은 아무리 우아해도 실증적으로 실패합니다.",
+   "idioms": [
+    {
+     "en": "however + 형용사",
+     "ko": "아무리 ~해도",
+     "note": "삽입된 양보입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-029",
+   "sentence": "She has a knack for explaining hard ideas simply.",
+   "sentenceKo": "그녀는 어려운 개념을 쉽게 설명하는 재주가 있습니다.",
+   "idioms": [
+    {
+     "en": "have a knack for",
+     "ko": "~에 재주가 있다",
+     "note": "타고난 요령입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-030",
+   "sentence": "This trend shows no sign of abating.",
+   "sentenceKo": "이 추세는 누그러질 기미가 없습니다.",
+   "idioms": [
+    {
+     "en": "show no sign of",
+     "ko": "~할 기미가 없다",
+     "note": "변화가 없다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-031",
+   "sentence": "He was at pains to explain his reasoning.",
+   "sentenceKo": "그는 자신의 논리를 설명하려 애썼습니다.",
+   "idioms": [
+    {
+     "en": "be at pains to",
+     "ko": "애써 ~하다",
+     "note": "공을 들이는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-032",
+   "sentence": "The findings run counter to the prevailing view.",
+   "sentenceKo": "그 결과는 지배적 견해에 반합니다.",
+   "idioms": [
+    {
+     "en": "run counter to",
+     "ko": "~에 반하다",
+     "note": "정반대 방향입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-033",
+   "sentence": "Nowhere is this clearer than in the final chapter.",
+   "sentenceKo": "이것이 마지막 장에서보다 분명한 곳은 없습니다.",
+   "idioms": [
+    {
+     "en": "nowhere is",
+     "ko": "어디에서도 ~하지 않다",
+     "note": "도치 강조입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-034",
+   "sentence": "He owes his success in no small part to luck.",
+   "sentenceKo": "그의 성공에는 운도 적지 않게 작용했습니다.",
+   "idioms": [
+    {
+     "en": "in no small part",
+     "ko": "적지 않게",
+     "note": "상당한 기여를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-035",
+   "sentence": "The distinction, subtle though it is, matters greatly.",
+   "sentenceKo": "그 구분은 미묘하지만 매우 중요합니다.",
+   "idioms": [
+    {
+     "en": "though it is",
+     "ko": "비록 ~이지만",
+     "note": "삽입 양보입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-036",
+   "sentence": "We should refrain from drawing hasty conclusions.",
+   "sentenceKo": "성급한 결론을 삼가야 합니다.",
+   "idioms": [
+    {
+     "en": "refrain from",
+     "ko": "삼가다",
+     "note": "뒤에 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-037",
+   "sentence": "His account is at odds with the official record.",
+   "sentenceKo": "그의 진술은 공식 기록과 어긋납니다.",
+   "idioms": [
+    {
+     "en": "be at odds with",
+     "ko": "~와 어긋나다",
+     "note": "서로 맞지 않는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-038",
+   "sentence": "The plan hinges on securing enough funding.",
+   "sentenceKo": "그 계획은 충분한 자금 확보에 달려 있습니다.",
+   "idioms": [
+    {
+     "en": "hinge on",
+     "ko": "~에 달려 있다",
+     "note": "결정적으로 의존하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-039",
+   "sentence": "By and large, the reform has been effective.",
+   "sentenceKo": "대체로 그 개혁은 효과적이었습니다.",
+   "idioms": [
+    {
+     "en": "by and large",
+     "ko": "대체로",
+     "note": "전반적 평가입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-040",
+   "sentence": "He fell short of the standard he had set.",
+   "sentenceKo": "그는 자기가 세운 기준에 미치지 못했습니다.",
+   "idioms": [
+    {
+     "en": "fall short of",
+     "ko": "미치지 못하다",
+     "note": "기대에 못 미치는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-041",
+   "sentence": "The evidence, taken together, is persuasive.",
+   "sentenceKo": "증거를 종합하면 설득력이 있습니다.",
+   "idioms": [
+    {
+     "en": "taken together",
+     "ko": "종합하면",
+     "note": "여러 근거를 합칠 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-042",
+   "sentence": "She is second to none in her field.",
+   "sentenceKo": "그녀는 자기 분야에서 최고입니다.",
+   "idioms": [
+    {
+     "en": "second to none",
+     "ko": "누구에게도 뒤지지 않는",
+     "note": "최고를 뜻합니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-043",
+   "sentence": "This raises the question of whether it is ethical.",
+   "sentenceKo": "이는 그것이 윤리적인지의 문제를 제기합니다.",
+   "idioms": [
+    {
+     "en": "the question of whether",
+     "ko": "~인지의 문제",
+     "note": "판단 대상을 제시합니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-044",
+   "sentence": "The author goes to great lengths to prove it.",
+   "sentenceKo": "저자는 그것을 증명하려 무척 애씁니다.",
+   "idioms": [
+    {
+     "en": "go to great lengths",
+     "ko": "무척 애쓰다",
+     "note": "수고를 아끼지 않는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-045",
+   "sentence": "Under no circumstances should we ignore this.",
+   "sentenceKo": "어떤 경우에도 이를 무시해서는 안 됩니다.",
+   "idioms": [
+    {
+     "en": "under no circumstances",
+     "ko": "어떤 경우에도 ~않다",
+     "note": "강한 금지 도치입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-046",
+   "sentence": "The two accounts cannot both be true.",
+   "sentenceKo": "두 진술이 동시에 참일 수는 없습니다.",
+   "idioms": [
+    {
+     "en": "cannot both",
+     "ko": "둘 다 ~일 수는 없다",
+     "note": "배타적 관계입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-047",
+   "sentence": "His work paved the way for modern genetics.",
+   "sentenceKo": "그의 연구는 현대 유전학의 길을 열었습니다.",
+   "idioms": [
+    {
+     "en": "pave the way for",
+     "ko": "길을 열다",
+     "note": "기반을 마련하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-048",
+   "sentence": "The claim is plausible but ultimately unproven.",
+   "sentenceKo": "그 주장은 그럴듯하지만 결국 입증되지 않았습니다.",
+   "idioms": [
+    {
+     "en": "plausible",
+     "ko": "그럴듯한",
+     "note": "사실 여부는 별개입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-049",
+   "sentence": "In retrospect, the warning signs were obvious.",
+   "sentenceKo": "돌이켜 보면 경고 신호가 명백했습니다.",
+   "idioms": [
+    {
+     "en": "in retrospect",
+     "ko": "돌이켜 보면",
+     "note": "지나고 나서의 판단입니다."
+    }
+   ]
+  },
+  {
+   "id": "high3-050",
+   "sentence": "Nothing short of a full revision will suffice.",
+   "sentenceKo": "전면 개정이 아니고서는 충분하지 않습니다.",
+   "idioms": [
+    {
+     "en": "nothing short of",
+     "ko": "~이 아니고서는",
+     "note": "최소 조건을 강조합니다."
+    }
+   ]
+  }
+ ],
+ "contentHash": "b37a44b3ba78412f"
+}

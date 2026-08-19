@@ -1,0 +1,258 @@
+{
+ "id": "high2",
+ "name": "고2",
+ "order": 6,
+ "description": "고등학교 2학년 · 학술 어휘와 수동 구문",
+ "cards": [
+  [
+   "The hypothesis was subsequently confirmed.",
+   "그 가설은 이후 확인되었습니다.",
+   "subsequently|이후에|시간 순서를 나타냅니다."
+  ],
+  [
+   "Participants were randomly assigned to groups.",
+   "참가자들은 무작위로 집단에 배정되었습니다.",
+   "be assigned to|배정되다|수동으로 나뉘는 것입니다."
+  ],
+  [
+   "The results have been widely replicated.",
+   "그 결과는 널리 재현되었습니다.",
+   "replicate|재현하다|같은 실험을 반복하는 것입니다."
+  ],
+  [
+   "This phenomenon is not fully understood.",
+   "이 현상은 완전히 규명되지 않았습니다.",
+   "phenomenon|현상|관찰되는 사건입니다."
+  ],
+  [
+   "The correlation does not imply causation.",
+   "상관관계가 인과관계를 뜻하지는 않습니다.",
+   "imply|암시하다|직접 말하지 않고 뜻하는 것입니다."
+  ],
+  [
+   "Several variables were held constant.",
+   "여러 변수가 일정하게 유지되었습니다.",
+   "hold constant|일정하게 유지하다|실험 통제 방법입니다."
+  ],
+  [
+   "The sample size was relatively small.",
+   "표본 크기가 비교적 작았습니다.",
+   "relatively|비교적|정도를 완화해 말합니다."
+  ],
+  [
+   "This model has been refined over time.",
+   "이 모델은 시간이 지나며 다듬어졌습니다.",
+   "refine|다듬다|더 정교하게 만드는 것입니다."
+  ],
+  [
+   "The theory was subject to heavy criticism.",
+   "그 이론은 거센 비판을 받았습니다.",
+   "be subject to|~을 받다|영향에 놓이는 것입니다."
+  ],
+  [
+   "Researchers have long debated this issue.",
+   "연구자들은 오랫동안 이 문제를 논쟁해 왔습니다.",
+   "debate|논쟁하다|의견이 갈리는 것입니다."
+  ],
+  [
+   "The mechanism remains to be clarified.",
+   "그 기제는 아직 밝혀져야 합니다.",
+   "remain to be p.p.|아직 ~되어야 한다|미완의 과제를 말합니다."
+  ],
+  [
+   "Data were collected over six months.",
+   "자료는 6개월에 걸쳐 수집되었습니다.",
+   "over|~에 걸쳐|기간을 나타냅니다."
+  ],
+  [
+   "The effect diminishes with age.",
+   "그 효과는 나이가 들수록 줄어듭니다.",
+   "diminish|줄어들다|점차 작아지는 것입니다."
+  ],
+  [
+   "His work laid the groundwork for later studies.",
+   "그의 연구는 후속 연구의 토대를 놓았습니다.",
+   "lay the groundwork|토대를 놓다|기초를 마련하는 것입니다."
+  ],
+  [
+   "The conclusion is tentative at best.",
+   "그 결론은 기껏해야 잠정적입니다.",
+   "at best|기껏해야|최대치를 낮춰 말합니다."
+  ],
+  [
+   "These factors interact in complex ways.",
+   "이 요인들은 복잡하게 상호작용합니다.",
+   "interact|상호작용하다|서로 영향을 주고받는 것입니다."
+  ],
+  [
+   "The study was conducted under controlled conditions.",
+   "그 연구는 통제된 조건에서 수행되었습니다.",
+   "conduct a study|연구를 수행하다|실험을 진행하는 것입니다."
+  ],
+  [
+   "Findings should be interpreted with care.",
+   "결과는 조심스럽게 해석해야 합니다.",
+   "interpret|해석하다|의미를 읽어내는 것입니다."
+  ],
+  [
+   "The trend is consistent across cultures.",
+   "그 경향은 문화권 전반에서 일관됩니다.",
+   "across|~전반에 걸쳐|범위를 나타냅니다."
+  ],
+  [
+   "This distinction is often overlooked.",
+   "이 구분은 종종 간과됩니다.",
+   "overlook|간과하다|중요한데 놓치는 것입니다."
+  ],
+  [
+   "The framework was adapted from earlier work.",
+   "그 틀은 기존 연구에서 변형되었습니다.",
+   "adapt from|~에서 변형하다|맞게 고치는 것입니다."
+  ],
+  [
+   "Evidence accumulated gradually over decades.",
+   "증거는 수십 년에 걸쳐 축적되었습니다.",
+   "accumulate|축적되다|조금씩 쌓이는 것입니다."
+  ],
+  [
+   "The argument is inherently circular.",
+   "그 주장은 본질적으로 순환논리입니다.",
+   "inherently|본질적으로|성질 자체가 그렇다는 뜻입니다."
+  ],
+  [
+   "Certain assumptions were left unstated.",
+   "일부 가정은 명시되지 않았습니다.",
+   "leave unstated|명시하지 않다|말하지 않고 넘어가는 것입니다."
+  ],
+  [
+   "The outcome varied considerably among groups.",
+   "결과는 집단마다 상당히 달랐습니다.",
+   "vary|다르다|차이가 나는 것입니다."
+  ],
+  [
+   "This approach yields more reliable results.",
+   "이 방법이 더 신뢰할 만한 결과를 냅니다.",
+   "yield|산출하다|결과를 내놓는 것입니다."
+  ],
+  [
+   "Her thesis challenges conventional wisdom.",
+   "그녀의 논지는 통념에 도전합니다.",
+   "conventional wisdom|통념|널리 믿어지는 생각입니다."
+  ],
+  [
+   "The variables are confounded in this design.",
+   "이 설계에서는 변수들이 뒤섞여 있습니다.",
+   "confound|혼동시키다|영향을 구분할 수 없게 만드는 것입니다."
+  ],
+  [
+   "This paper builds on previous findings.",
+   "이 논문은 기존 결과를 토대로 합니다.",
+   "build on|~을 토대로 하다|이어서 발전시키는 것입니다."
+  ],
+  [
+   "The pattern held true in every trial.",
+   "그 패턴은 모든 시행에서 유지되었습니다.",
+   "hold true|들어맞다|계속 유효한 것입니다."
+  ],
+  [
+   "Critics contend that the method is flawed.",
+   "비판자들은 그 방법에 결함이 있다고 주장합니다.",
+   "contend|주장하다|논쟁적으로 말하는 것입니다."
+  ],
+  [
+   "The concept is difficult to operationalize.",
+   "그 개념은 조작적으로 정의하기 어렵습니다.",
+   "operationalize|측정 가능하게 정의하다|추상 개념을 재는 방법입니다."
+  ],
+  [
+   "Findings were replicated in a larger sample.",
+   "결과는 더 큰 표본에서 재현되었습니다.",
+   "in a larger sample|더 큰 표본에서|일반화 가능성을 높입니다."
+  ],
+  [
+   "The literature offers mixed evidence.",
+   "선행 연구는 엇갈린 증거를 제시합니다.",
+   "mixed evidence|엇갈린 증거|결론이 갈리는 상태입니다."
+  ],
+  [
+   "This variable serves as a proxy for income.",
+   "이 변수는 소득의 대리 지표로 쓰입니다.",
+   "serve as|~역할을 하다|대신 기능하는 것입니다."
+  ],
+  [
+   "The effect was statistically significant.",
+   "그 효과는 통계적으로 유의했습니다.",
+   "statistically significant|통계적으로 유의한|우연이 아닐 가능성이 높다는 뜻입니다."
+  ],
+  [
+   "Alternative explanations must be ruled out.",
+   "대안적 설명을 배제해야 합니다.",
+   "rule out|배제하다|가능성을 제거하는 것입니다."
+  ],
+  [
+   "The author draws on a wide range of sources.",
+   "저자는 폭넓은 자료를 활용합니다.",
+   "draw on|활용하다|자원을 끌어다 쓰는 것입니다."
+  ],
+  [
+   "This limitation warrants further study.",
+   "이 한계는 추가 연구가 필요합니다.",
+   "warrant|~할 만하다|정당화한다는 뜻입니다."
+  ],
+  [
+   "The two accounts are largely compatible.",
+   "두 설명은 대체로 양립합니다.",
+   "compatible|양립하는|서로 모순되지 않는 것입니다."
+  ],
+  [
+   "Participants underwent a brief training session.",
+   "참가자들은 짧은 훈련을 거쳤습니다.",
+   "undergo|거치다|과정을 겪는 것입니다."
+  ],
+  [
+   "The findings generalize beyond the lab.",
+   "그 결과는 실험실 밖에도 적용됩니다.",
+   "generalize|일반화되다|넓게 적용되는 것입니다."
+  ],
+  [
+   "His reasoning is sound but incomplete.",
+   "그의 논증은 타당하지만 불완전합니다.",
+   "sound|타당한|논리에 결함이 없다는 뜻입니다."
+  ],
+  [
+   "The measure lacks construct validity.",
+   "그 척도는 구성 타당도가 부족합니다.",
+   "validity|타당도|재려는 것을 제대로 재는가입니다."
+  ],
+  [
+   "This effect emerged only under stress.",
+   "이 효과는 스트레스 상황에서만 나타났습니다.",
+   "emerge|나타나다|드러나는 것입니다."
+  ],
+  [
+   "Prior studies have reported similar results.",
+   "선행 연구도 유사한 결과를 보고했습니다.",
+   "prior|이전의|앞선 것을 뜻합니다."
+  ],
+  [
+   "The relationship is mediated by motivation.",
+   "그 관계는 동기에 의해 매개됩니다.",
+   "be mediated by|~에 의해 매개되다|중간 다리 역할입니다."
+  ],
+  [
+   "We must guard against selection bias.",
+   "선택 편향을 경계해야 합니다.",
+   "guard against|경계하다|미리 막는 것입니다."
+  ],
+  [
+   "The theory has considerable explanatory power.",
+   "그 이론은 상당한 설명력을 지닙니다.",
+   "explanatory power|설명력|현상을 얼마나 설명하는가입니다."
+  ],
+  [
+   "These results should be viewed as preliminary.",
+   "이 결과는 예비적인 것으로 보아야 합니다.",
+   "preliminary|예비적인|확정 전 단계입니다."
+  ]
+ ]
+}

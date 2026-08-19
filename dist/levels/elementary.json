@@ -1,0 +1,608 @@
+{
+ "schema": 3,
+ "level": "elementary",
+ "name": "초등",
+ "cards": [
+  {
+   "id": "elementary-001",
+   "sentence": "I get up at seven every morning.",
+   "sentenceKo": "나는 매일 아침 7시에 일어나.",
+   "idioms": [
+    {
+     "en": "get up",
+     "ko": "일어나다",
+     "note": "잠자리에서 몸을 일으킬 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-002",
+   "sentence": "Please put on your shoes.",
+   "sentenceKo": "신발 신어.",
+   "idioms": [
+    {
+     "en": "put on",
+     "ko": "입다, 신다",
+     "note": "옷이나 신발을 몸에 걸치는 동작입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-003",
+   "sentence": "Don't forget to take off your hat inside.",
+   "sentenceKo": "실내에서는 모자 벗는 거 잊지 마.",
+   "idioms": [
+    {
+     "en": "take off",
+     "ko": "벗다",
+     "note": "put on 의 반대입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-004",
+   "sentence": "I have to clean up my room today.",
+   "sentenceKo": "오늘 내 방을 치워야 해.",
+   "idioms": [
+    {
+     "en": "clean up",
+     "ko": "치우다, 정리하다",
+     "note": "어질러진 것을 깨끗하게 만드는 일입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-005",
+   "sentence": "Let's go outside and play.",
+   "sentenceKo": "밖에 나가서 놀자.",
+   "idioms": [
+    {
+     "en": "go outside",
+     "ko": "밖에 나가다",
+     "note": "집이나 건물 밖으로 나갈 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-006",
+   "sentence": "My little brother woke up early today.",
+   "sentenceKo": "내 동생이 오늘 일찍 깼어.",
+   "idioms": [
+    {
+     "en": "wake up",
+     "ko": "잠에서 깨다",
+     "note": "get up 은 몸을 일으키는 것, wake up 은 눈을 뜨는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-007",
+   "sentence": "I want to try on this jacket.",
+   "sentenceKo": "이 재킷 입어 보고 싶어.",
+   "idioms": [
+    {
+     "en": "try on",
+     "ko": "입어 보다",
+     "note": "사기 전에 맞는지 확인할 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-008",
+   "sentence": "Turn off the light before you sleep.",
+   "sentenceKo": "자기 전에 불 꺼.",
+   "idioms": [
+    {
+     "en": "turn off",
+     "ko": "끄다",
+     "note": "전등이나 기계를 멈출 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-009",
+   "sentence": "Can you turn on the TV, please?",
+   "sentenceKo": "TV 좀 켜 줄래?",
+   "idioms": [
+    {
+     "en": "turn on",
+     "ko": "켜다",
+     "note": "turn off 의 반대입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-010",
+   "sentence": "I look for my pencil case every morning.",
+   "sentenceKo": "나는 매일 아침 필통을 찾아.",
+   "idioms": [
+    {
+     "en": "look for",
+     "ko": "찾다",
+     "note": "없어진 것을 눈으로 뒤질 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-011",
+   "sentence": "Please wait for me at the gate.",
+   "sentenceKo": "정문에서 나 기다려 줘.",
+   "idioms": [
+    {
+     "en": "wait for",
+     "ko": "~를 기다리다",
+     "note": "사람이나 차를 기다릴 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-012",
+   "sentence": "I am good at drawing animals.",
+   "sentenceKo": "나는 동물 그리는 걸 잘해.",
+   "idioms": [
+    {
+     "en": "be good at",
+     "ko": "~을 잘하다",
+     "note": "뒤에는 동사에 -ing 를 붙입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-013",
+   "sentence": "My sister is afraid of big dogs.",
+   "sentenceKo": "내 누나는 큰 개를 무서워해.",
+   "idioms": [
+    {
+     "en": "be afraid of",
+     "ko": "~을 무서워하다",
+     "note": "무서운 대상 앞에 of 를 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-014",
+   "sentence": "We ran out of milk this morning.",
+   "sentenceKo": "오늘 아침에 우유가 다 떨어졌어.",
+   "idioms": [
+    {
+     "en": "run out of",
+     "ko": "~이 다 떨어지다",
+     "note": "가지고 있던 것이 바닥났을 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-015",
+   "sentence": "I take care of my puppy every day.",
+   "sentenceKo": "나는 매일 강아지를 돌봐.",
+   "idioms": [
+    {
+     "en": "take care of",
+     "ko": "돌보다",
+     "note": "동물이나 어린 동생을 챙길 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-016",
+   "sentence": "Hurry up, the bus is coming!",
+   "sentenceKo": "서둘러, 버스 온다!",
+   "idioms": [
+    {
+     "en": "hurry up",
+     "ko": "서두르다",
+     "note": "급할 때 재촉하는 말입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-017",
+   "sentence": "I sit next to my best friend.",
+   "sentenceKo": "나는 제일 친한 친구 옆에 앉아.",
+   "idioms": [
+    {
+     "en": "next to",
+     "ko": "~옆에",
+     "note": "바로 옆자리를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-018",
+   "sentence": "Let's pick up the trash together.",
+   "sentenceKo": "같이 쓰레기 줍자.",
+   "idioms": [
+    {
+     "en": "pick up",
+     "ko": "줍다, 집어 들다",
+     "note": "바닥에 있는 것을 손으로 드는 동작입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-019",
+   "sentence": "My mom told me to be quiet.",
+   "sentenceKo": "엄마가 나한테 조용히 하라고 하셨어.",
+   "idioms": [
+    {
+     "en": "be quiet",
+     "ko": "조용히 하다",
+     "note": "소리를 내지 않는 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-020",
+   "sentence": "I finished my homework before dinner.",
+   "sentenceKo": "저녁 먹기 전에 숙제를 끝냈어.",
+   "idioms": [
+    {
+     "en": "before dinner",
+     "ko": "저녁 먹기 전에",
+     "note": "시간의 앞뒤를 말할 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-021",
+   "sentence": "Watch out! There is a car.",
+   "sentenceKo": "조심해! 차 온다.",
+   "idioms": [
+    {
+     "en": "watch out",
+     "ko": "조심하다",
+     "note": "위험할 때 바로 외치는 말입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-022",
+   "sentence": "I get along with my classmates.",
+   "sentenceKo": "나는 반 친구들과 잘 지내.",
+   "idioms": [
+    {
+     "en": "get along with",
+     "ko": "~와 잘 지내다",
+     "note": "사이가 좋다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-023",
+   "sentence": "Please give it back to me.",
+   "sentenceKo": "그거 나한테 돌려줘.",
+   "idioms": [
+    {
+     "en": "give back",
+     "ko": "돌려주다",
+     "note": "빌린 것을 되돌려 줄 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-024",
+   "sentence": "We are going on a school trip.",
+   "sentenceKo": "우리 소풍 가.",
+   "idioms": [
+    {
+     "en": "go on a trip",
+     "ko": "여행을 가다",
+     "note": "소풍이나 여행을 떠날 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-025",
+   "sentence": "I brush my teeth after every meal.",
+   "sentenceKo": "나는 매 끼니 후에 이를 닦아.",
+   "idioms": [
+    {
+     "en": "brush one's teeth",
+     "ko": "이를 닦다",
+     "note": "칫솔질을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-026",
+   "sentence": "My dad picks me up after school.",
+   "sentenceKo": "아빠가 방과 후에 나를 데리러 오셔.",
+   "idioms": [
+    {
+     "en": "pick up",
+     "ko": "데리러 가다",
+     "note": "사람을 태우러 갈 때도 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-027",
+   "sentence": "Let's find out the answer together.",
+   "sentenceKo": "같이 답을 알아보자.",
+   "idioms": [
+    {
+     "en": "find out",
+     "ko": "알아내다",
+     "note": "몰랐던 것을 알게 되는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-028",
+   "sentence": "I am looking forward to my birthday.",
+   "sentenceKo": "나는 생일이 기다려져.",
+   "idioms": [
+    {
+     "en": "look forward to",
+     "ko": "~을 기대하다",
+     "note": "뒤에는 명사나 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-029",
+   "sentence": "Please sit down and open your book.",
+   "sentenceKo": "앉아서 책 펴.",
+   "idioms": [
+    {
+     "en": "sit down",
+     "ko": "앉다",
+     "note": "stand up 의 반대입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-030",
+   "sentence": "Stand up when the teacher comes in.",
+   "sentenceKo": "선생님 들어오시면 일어나.",
+   "idioms": [
+    {
+     "en": "stand up",
+     "ko": "일어서다",
+     "note": "자리에서 몸을 세우는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-031",
+   "sentence": "I always help out at home.",
+   "sentenceKo": "나는 항상 집안일을 도와.",
+   "idioms": [
+    {
+     "en": "help out",
+     "ko": "거들다, 도와주다",
+     "note": "일손을 보태는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-032",
+   "sentence": "We should throw away this old box.",
+   "sentenceKo": "이 낡은 상자는 버려야 해.",
+   "idioms": [
+    {
+     "en": "throw away",
+     "ko": "버리다",
+     "note": "쓰레기통에 넣는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-033",
+   "sentence": "Be careful with the scissors.",
+   "sentenceKo": "가위 조심해서 써.",
+   "idioms": [
+    {
+     "en": "be careful with",
+     "ko": "~을 조심하다",
+     "note": "위험한 물건을 다룰 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-034",
+   "sentence": "I can't wait to see my grandma.",
+   "sentenceKo": "할머니 빨리 보고 싶어.",
+   "idioms": [
+    {
+     "en": "can't wait to",
+     "ko": "빨리 ~하고 싶다",
+     "note": "기대가 클 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-035",
+   "sentence": "Turn left at the corner.",
+   "sentenceKo": "모퉁이에서 왼쪽으로 돌아.",
+   "idioms": [
+    {
+     "en": "turn left",
+     "ko": "왼쪽으로 돌다",
+     "note": "길을 알려줄 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-036",
+   "sentence": "My cat ran away this morning.",
+   "sentenceKo": "우리 고양이가 오늘 아침에 도망갔어.",
+   "idioms": [
+    {
+     "en": "run away",
+     "ko": "도망가다",
+     "note": "몰래 멀리 가버리는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-037",
+   "sentence": "Let's put away the toys now.",
+   "sentenceKo": "이제 장난감 치우자.",
+   "idioms": [
+    {
+     "en": "put away",
+     "ko": "제자리에 넣다",
+     "note": "쓴 물건을 원래 자리에 두는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-038",
+   "sentence": "I get on the bus at eight.",
+   "sentenceKo": "나는 8시에 버스를 타.",
+   "idioms": [
+    {
+     "en": "get on",
+     "ko": "타다",
+     "note": "버스나 지하철에 오를 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-039",
+   "sentence": "We get off at the next stop.",
+   "sentenceKo": "우리 다음 정류장에서 내려.",
+   "idioms": [
+    {
+     "en": "get off",
+     "ko": "내리다",
+     "note": "get on 의 반대입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-040",
+   "sentence": "She is talking about her new book.",
+   "sentenceKo": "그 애는 자기 새 책 이야기를 하고 있어.",
+   "idioms": [
+    {
+     "en": "talk about",
+     "ko": "~에 대해 이야기하다",
+     "note": "주제를 말할 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-041",
+   "sentence": "I feel like eating something sweet.",
+   "sentenceKo": "나 뭔가 단 게 먹고 싶어.",
+   "idioms": [
+    {
+     "en": "feel like",
+     "ko": "~하고 싶다",
+     "note": "뒤에 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-042",
+   "sentence": "Please keep the door open.",
+   "sentenceKo": "문 열어 둬.",
+   "idioms": [
+    {
+     "en": "keep open",
+     "ko": "열어 두다",
+     "note": "어떤 상태를 그대로 두는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-043",
+   "sentence": "My friend came over to my house.",
+   "sentenceKo": "친구가 우리 집에 놀러 왔어.",
+   "idioms": [
+    {
+     "en": "come over",
+     "ko": "놀러 오다",
+     "note": "가까운 집에 방문할 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-044",
+   "sentence": "I was late for school today.",
+   "sentenceKo": "나 오늘 학교에 지각했어.",
+   "idioms": [
+    {
+     "en": "be late for",
+     "ko": "~에 늦다",
+     "note": "약속이나 수업에 늦었을 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-045",
+   "sentence": "Let's take turns on the swing.",
+   "sentenceKo": "그네 순서대로 타자.",
+   "idioms": [
+    {
+     "en": "take turns",
+     "ko": "번갈아 하다",
+     "note": "차례를 지키는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-046",
+   "sentence": "He grew up in a small town.",
+   "sentenceKo": "그는 작은 마을에서 자랐어.",
+   "idioms": [
+    {
+     "en": "grow up",
+     "ko": "자라다",
+     "note": "아이가 어른이 되어가는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-047",
+   "sentence": "Don't give up so easily.",
+   "sentenceKo": "그렇게 쉽게 포기하지 마.",
+   "idioms": [
+    {
+     "en": "give up",
+     "ko": "포기하다",
+     "note": "하던 것을 그만두는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-048",
+   "sentence": "I have a lot of homework tonight.",
+   "sentenceKo": "오늘 밤 숙제가 많아.",
+   "idioms": [
+    {
+     "en": "a lot of",
+     "ko": "많은",
+     "note": "셀 수 있는 것과 없는 것 모두에 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-049",
+   "sentence": "Wash your hands right away.",
+   "sentenceKo": "지금 바로 손 씻어.",
+   "idioms": [
+    {
+     "en": "right away",
+     "ko": "즉시, 바로",
+     "note": "미루지 말라는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "elementary-050",
+   "sentence": "Thank you for helping me out.",
+   "sentenceKo": "도와줘서 고마워.",
+   "idioms": [
+    {
+     "en": "thank you for",
+     "ko": "~해줘서 고마워",
+     "note": "뒤에 -ing 가 옵니다."
+    }
+   ]
+  }
+ ],
+ "contentHash": "890d6359e6b1ea61"
+}

@@ -1,0 +1,608 @@
+{
+ "schema": 3,
+ "level": "adult",
+ "name": "성인",
+ "cards": [
+  {
+   "id": "adult-001",
+   "sentence": "Let me get back to you on that.",
+   "sentenceKo": "그건 다시 연락드릴게요.",
+   "idioms": [
+    {
+     "en": "get back to",
+     "ko": "나중에 다시 연락하다",
+     "note": "즉답을 피할 때 정중하게 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-002",
+   "sentence": "I will keep you posted on the progress.",
+   "sentenceKo": "진행 상황을 계속 알려 드릴게요.",
+   "idioms": [
+    {
+     "en": "keep someone posted",
+     "ko": "계속 알려 주다",
+     "note": "업데이트를 약속하는 표현입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-003",
+   "sentence": "Can we touch base next week?",
+   "sentenceKo": "다음 주에 짧게 얘기 나눌까요?",
+   "idioms": [
+    {
+     "en": "touch base",
+     "ko": "간단히 연락하다",
+     "note": "짧은 확인 대화를 뜻합니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-004",
+   "sentence": "That works for me.",
+   "sentenceKo": "저는 괜찮습니다.",
+   "idioms": [
+    {
+     "en": "that works for me",
+     "ko": "저는 괜찮습니다",
+     "note": "일정이나 제안에 동의할 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-005",
+   "sentence": "I am tied up until three today.",
+   "sentenceKo": "오늘 세 시까지는 손이 묶여 있어요.",
+   "idioms": [
+    {
+     "en": "be tied up",
+     "ko": "바쁘다",
+     "note": "다른 일로 시간이 없다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-006",
+   "sentence": "Let's circle back to this later.",
+   "sentenceKo": "이건 나중에 다시 다루죠.",
+   "idioms": [
+    {
+     "en": "circle back",
+     "ko": "나중에 다시 다루다",
+     "note": "미뤄 두자는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-007",
+   "sentence": "I want to run something by you.",
+   "sentenceKo": "의견 좀 여쭙고 싶은 게 있어요.",
+   "idioms": [
+    {
+     "en": "run something by someone",
+     "ko": "의견을 구하다",
+     "note": "미리 확인받는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-008",
+   "sentence": "She is out of the office until Monday.",
+   "sentenceKo": "그분은 월요일까지 자리를 비웁니다.",
+   "idioms": [
+    {
+     "en": "out of the office",
+     "ko": "부재중인",
+     "note": "휴가나 출장 중을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-009",
+   "sentence": "Let's play it safe and book early.",
+   "sentenceKo": "안전하게 일찍 예약하죠.",
+   "idioms": [
+    {
+     "en": "play it safe",
+     "ko": "안전하게 하다",
+     "note": "위험을 피하는 선택입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-010",
+   "sentence": "I am on the fence about the offer.",
+   "sentenceKo": "그 제안을 두고 망설이는 중이에요.",
+   "idioms": [
+    {
+     "en": "be on the fence",
+     "ko": "망설이다",
+     "note": "아직 결정 못 한 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-011",
+   "sentence": "We are short-staffed this week.",
+   "sentenceKo": "이번 주는 인력이 부족해요.",
+   "idioms": [
+    {
+     "en": "short-staffed",
+     "ko": "인력이 부족한",
+     "note": "사람이 모자란 상황입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-012",
+   "sentence": "Could you walk me through the process?",
+   "sentenceKo": "그 절차를 차근차근 설명해 주시겠어요?",
+   "idioms": [
+    {
+     "en": "walk someone through",
+     "ko": "차근차근 설명하다",
+     "note": "단계별로 안내하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-013",
+   "sentence": "I will take a rain check on dinner.",
+   "sentenceKo": "저녁은 다음으로 미룰게요.",
+   "idioms": [
+    {
+     "en": "take a rain check",
+     "ko": "다음으로 미루다",
+     "note": "정중한 거절입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-014",
+   "sentence": "Let's not reinvent the wheel here.",
+   "sentenceKo": "이미 있는 걸 다시 만들지 맙시다.",
+   "idioms": [
+    {
+     "en": "reinvent the wheel",
+     "ko": "헛수고를 하다",
+     "note": "이미 있는 해법을 다시 만드는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-015",
+   "sentence": "This is a long shot, but let's try.",
+   "sentenceKo": "가능성은 낮지만 해 보죠.",
+   "idioms": [
+    {
+     "en": "a long shot",
+     "ko": "가능성이 낮은 시도",
+     "note": "성공 확률이 작은 일입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-016",
+   "sentence": "I am swamped with work right now.",
+   "sentenceKo": "지금 일에 파묻혀 있어요.",
+   "idioms": [
+    {
+     "en": "be swamped",
+     "ko": "일에 파묻히다",
+     "note": "매우 바쁘다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-017",
+   "sentence": "We need to get everyone on the same page.",
+   "sentenceKo": "모두 인식을 맞춰야 해요.",
+   "idioms": [
+    {
+     "en": "on the same page",
+     "ko": "같은 이해를 갖다",
+     "note": "생각을 일치시키는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-018",
+   "sentence": "That is water under the bridge now.",
+   "sentenceKo": "그건 이제 지난 일이에요.",
+   "idioms": [
+    {
+     "en": "water under the bridge",
+     "ko": "지난 일",
+     "note": "더는 문제 삼지 않는다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-019",
+   "sentence": "Let's keep our options open.",
+   "sentenceKo": "선택지를 열어 둡시다.",
+   "idioms": [
+    {
+     "en": "keep options open",
+     "ko": "선택지를 열어 두다",
+     "note": "성급히 정하지 않는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-020",
+   "sentence": "He went the extra mile for this client.",
+   "sentenceKo": "그는 이 고객을 위해 한 걸음 더 갔어요.",
+   "idioms": [
+    {
+     "en": "go the extra mile",
+     "ko": "기대 이상으로 애쓰다",
+     "note": "헌신을 칭찬하는 표현입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-021",
+   "sentence": "I would like to weigh in on this.",
+   "sentenceKo": "이 건에 의견을 보태고 싶습니다.",
+   "idioms": [
+    {
+     "en": "weigh in",
+     "ko": "의견을 보태다",
+     "note": "논의에 참여하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-022",
+   "sentence": "We are cutting it close on the deadline.",
+   "sentenceKo": "마감이 아슬아슬해요.",
+   "idioms": [
+    {
+     "en": "cut it close",
+     "ko": "아슬아슬하다",
+     "note": "시간이 빠듯한 상황입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-023",
+   "sentence": "Let's table this discussion for now.",
+   "sentenceKo": "이 논의는 일단 보류하죠.",
+   "idioms": [
+    {
+     "en": "table a discussion",
+     "ko": "논의를 보류하다",
+     "note": "나중으로 넘기는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-024",
+   "sentence": "She has a lot on her plate.",
+   "sentenceKo": "그분은 맡은 일이 많아요.",
+   "idioms": [
+    {
+     "en": "have a lot on one's plate",
+     "ko": "일이 많다",
+     "note": "업무 부담을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-025",
+   "sentence": "Could you give me a ballpark figure?",
+   "sentenceKo": "대략적인 금액을 알려 주시겠어요?",
+   "idioms": [
+    {
+     "en": "ballpark figure",
+     "ko": "대략적인 수치",
+     "note": "정확하지 않은 어림값입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-026",
+   "sentence": "I am playing catch-up after my vacation.",
+   "sentenceKo": "휴가 다녀와서 밀린 일을 따라잡는 중이에요.",
+   "idioms": [
+    {
+     "en": "play catch-up",
+     "ko": "밀린 것을 따라잡다",
+     "note": "뒤처진 것을 만회하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-027",
+   "sentence": "Let's touch on the budget briefly.",
+   "sentenceKo": "예산은 간단히만 짚고 넘어가죠.",
+   "idioms": [
+    {
+     "en": "touch on",
+     "ko": "간단히 다루다",
+     "note": "깊이 들어가지 않는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-028",
+   "sentence": "We should nail down the details today.",
+   "sentenceKo": "오늘 세부 사항을 확정합시다.",
+   "idioms": [
+    {
+     "en": "nail down",
+     "ko": "확정하다",
+     "note": "모호한 것을 못 박는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-029",
+   "sentence": "That is not my call to make.",
+   "sentenceKo": "제가 결정할 사안이 아니에요.",
+   "idioms": [
+    {
+     "en": "not my call",
+     "ko": "내가 결정할 일이 아니다",
+     "note": "권한 밖임을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-030",
+   "sentence": "I will loop you in on the thread.",
+   "sentenceKo": "그 대화에 함께 넣어 드릴게요.",
+   "idioms": [
+    {
+     "en": "loop someone in",
+     "ko": "참여시키다",
+     "note": "메일이나 채팅에 포함하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-031",
+   "sentence": "Let's hash out the remaining issues.",
+   "sentenceKo": "남은 쟁점을 논의해서 정리하죠.",
+   "idioms": [
+    {
+     "en": "hash out",
+     "ko": "논의해 정리하다",
+     "note": "끝까지 따져 결론 내는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-032",
+   "sentence": "He dropped the ball on the follow-up.",
+   "sentenceKo": "그가 후속 조치를 놓쳤어요.",
+   "idioms": [
+    {
+     "en": "drop the ball",
+     "ko": "일을 놓치다",
+     "note": "책임을 다하지 못한 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-033",
+   "sentence": "We are in the same boat.",
+   "sentenceKo": "우리도 같은 처지예요.",
+   "idioms": [
+    {
+     "en": "in the same boat",
+     "ko": "같은 처지인",
+     "note": "어려움을 공유하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-034",
+   "sentence": "Let's take this offline.",
+   "sentenceKo": "이건 따로 이야기하죠.",
+   "idioms": [
+    {
+     "en": "take it offline",
+     "ko": "따로 논의하다",
+     "note": "회의 밖에서 다루자는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-035",
+   "sentence": "I need to prioritize my workload.",
+   "sentenceKo": "업무 우선순위를 정해야 해요.",
+   "idioms": [
+    {
+     "en": "prioritize",
+     "ko": "우선순위를 정하다",
+     "note": "중요한 것부터 하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-036",
+   "sentence": "She is up to speed on the project.",
+   "sentenceKo": "그분은 프로젝트 내용을 다 파악했어요.",
+   "idioms": [
+    {
+     "en": "be up to speed",
+     "ko": "파악하다",
+     "note": "현재 상황을 따라잡은 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-037",
+   "sentence": "That flight was overbooked.",
+   "sentenceKo": "그 항공편은 초과 예약되었어요.",
+   "idioms": [
+    {
+     "en": "overbooked",
+     "ko": "초과 예약된",
+     "note": "좌석보다 많이 판 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-038",
+   "sentence": "Could you hold my bag for a second?",
+   "sentenceKo": "가방 잠깐만 들어 주시겠어요?",
+   "idioms": [
+    {
+     "en": "hold for a second",
+     "ko": "잠깐 들어 주다",
+     "note": "짧은 부탁입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-039",
+   "sentence": "I am running on fumes today.",
+   "sentenceKo": "오늘은 기력이 바닥났어요.",
+   "idioms": [
+    {
+     "en": "run on fumes",
+     "ko": "기력이 바닥나다",
+     "note": "연료가 떨어진 차에 비유한 표현입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-040",
+   "sentence": "Let's split the cost evenly.",
+   "sentenceKo": "비용을 똑같이 나누죠.",
+   "idioms": [
+    {
+     "en": "split evenly",
+     "ko": "똑같이 나누다",
+     "note": "균등 분담입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-041",
+   "sentence": "That restaurant is worth the wait.",
+   "sentenceKo": "그 식당은 기다릴 만해요.",
+   "idioms": [
+    {
+     "en": "worth the wait",
+     "ko": "기다릴 만한",
+     "note": "가치가 있다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-042",
+   "sentence": "I will follow up with them tomorrow.",
+   "sentenceKo": "내일 그쪽에 다시 확인할게요.",
+   "idioms": [
+    {
+     "en": "follow up",
+     "ko": "후속 확인하다",
+     "note": "이어서 챙기는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-043",
+   "sentence": "We hit a snag with the permits.",
+   "sentenceKo": "허가 문제로 걸림돌이 생겼어요.",
+   "idioms": [
+    {
+     "en": "hit a snag",
+     "ko": "걸림돌을 만나다",
+     "note": "예상 못한 문제입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-044",
+   "sentence": "Let's set realistic expectations.",
+   "sentenceKo": "현실적인 기대치를 잡읍시다.",
+   "idioms": [
+    {
+     "en": "set expectations",
+     "ko": "기대치를 정하다",
+     "note": "미리 합의하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-045",
+   "sentence": "He is well-versed in contract law.",
+   "sentenceKo": "그는 계약법에 정통해요.",
+   "idioms": [
+    {
+     "en": "be well-versed in",
+     "ko": "정통하다",
+     "note": "아주 잘 아는 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-046",
+   "sentence": "I am going to sleep on it.",
+   "sentenceKo": "하룻밤 생각해 볼게요.",
+   "idioms": [
+    {
+     "en": "sleep on it",
+     "ko": "하룻밤 생각하다",
+     "note": "성급히 정하지 않는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-047",
+   "sentence": "That proposal is a non-starter.",
+   "sentenceKo": "그 제안은 시작부터 무리예요.",
+   "idioms": [
+    {
+     "en": "non-starter",
+     "ko": "가망 없는 안",
+     "note": "논의할 가치가 없다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-048",
+   "sentence": "Let's keep the momentum going.",
+   "sentenceKo": "이 흐름을 이어 갑시다.",
+   "idioms": [
+    {
+     "en": "keep the momentum",
+     "ko": "흐름을 이어 가다",
+     "note": "추진력을 유지하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-049",
+   "sentence": "I appreciate your quick turnaround.",
+   "sentenceKo": "빠르게 처리해 주셔서 감사합니다.",
+   "idioms": [
+    {
+     "en": "quick turnaround",
+     "ko": "빠른 처리",
+     "note": "짧은 소요 시간입니다."
+    }
+   ]
+  },
+  {
+   "id": "adult-050",
+   "sentence": "We will cross that bridge when we come to it.",
+   "sentenceKo": "그건 그때 가서 생각하죠.",
+   "idioms": [
+    {
+     "en": "cross that bridge when we come to it",
+     "ko": "닥쳐서 생각하다",
+     "note": "미리 걱정 말자는 뜻입니다."
+    }
+   ]
+  }
+ ],
+ "contentHash": "7135861bef1fbe8c"
+}

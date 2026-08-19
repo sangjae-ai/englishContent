@@ -1,0 +1,258 @@
+{
+ "id": "elementary",
+ "name": "초등",
+ "order": 1,
+ "description": "초등 고학년 · 집과 학교의 하루",
+ "cards": [
+  [
+   "I get up at seven every morning.",
+   "나는 매일 아침 7시에 일어나.",
+   "get up|일어나다|잠자리에서 몸을 일으킬 때 씁니다."
+  ],
+  [
+   "Please put on your shoes.",
+   "신발 신어.",
+   "put on|입다, 신다|옷이나 신발을 몸에 걸치는 동작입니다."
+  ],
+  [
+   "Don't forget to take off your hat inside.",
+   "실내에서는 모자 벗는 거 잊지 마.",
+   "take off|벗다|put on 의 반대입니다."
+  ],
+  [
+   "I have to clean up my room today.",
+   "오늘 내 방을 치워야 해.",
+   "clean up|치우다, 정리하다|어질러진 것을 깨끗하게 만드는 일입니다."
+  ],
+  [
+   "Let's go outside and play.",
+   "밖에 나가서 놀자.",
+   "go outside|밖에 나가다|집이나 건물 밖으로 나갈 때 씁니다."
+  ],
+  [
+   "My little brother woke up early today.",
+   "내 동생이 오늘 일찍 깼어.",
+   "wake up|잠에서 깨다|get up 은 몸을 일으키는 것, wake up 은 눈을 뜨는 것입니다."
+  ],
+  [
+   "I want to try on this jacket.",
+   "이 재킷 입어 보고 싶어.",
+   "try on|입어 보다|사기 전에 맞는지 확인할 때 씁니다."
+  ],
+  [
+   "Turn off the light before you sleep.",
+   "자기 전에 불 꺼.",
+   "turn off|끄다|전등이나 기계를 멈출 때 씁니다."
+  ],
+  [
+   "Can you turn on the TV, please?",
+   "TV 좀 켜 줄래?",
+   "turn on|켜다|turn off 의 반대입니다."
+  ],
+  [
+   "I look for my pencil case every morning.",
+   "나는 매일 아침 필통을 찾아.",
+   "look for|찾다|없어진 것을 눈으로 뒤질 때 씁니다."
+  ],
+  [
+   "Please wait for me at the gate.",
+   "정문에서 나 기다려 줘.",
+   "wait for|~를 기다리다|사람이나 차를 기다릴 때 씁니다."
+  ],
+  [
+   "I am good at drawing animals.",
+   "나는 동물 그리는 걸 잘해.",
+   "be good at|~을 잘하다|뒤에는 동사에 -ing 를 붙입니다."
+  ],
+  [
+   "My sister is afraid of big dogs.",
+   "내 누나는 큰 개를 무서워해.",
+   "be afraid of|~을 무서워하다|무서운 대상 앞에 of 를 씁니다."
+  ],
+  [
+   "We ran out of milk this morning.",
+   "오늘 아침에 우유가 다 떨어졌어.",
+   "run out of|~이 다 떨어지다|가지고 있던 것이 바닥났을 때 씁니다."
+  ],
+  [
+   "I take care of my puppy every day.",
+   "나는 매일 강아지를 돌봐.",
+   "take care of|돌보다|동물이나 어린 동생을 챙길 때 씁니다."
+  ],
+  [
+   "Hurry up, the bus is coming!",
+   "서둘러, 버스 온다!",
+   "hurry up|서두르다|급할 때 재촉하는 말입니다."
+  ],
+  [
+   "I sit next to my best friend.",
+   "나는 제일 친한 친구 옆에 앉아.",
+   "next to|~옆에|바로 옆자리를 말합니다."
+  ],
+  [
+   "Let's pick up the trash together.",
+   "같이 쓰레기 줍자.",
+   "pick up|줍다, 집어 들다|바닥에 있는 것을 손으로 드는 동작입니다."
+  ],
+  [
+   "My mom told me to be quiet.",
+   "엄마가 나한테 조용히 하라고 하셨어.",
+   "be quiet|조용히 하다|소리를 내지 않는 상태입니다."
+  ],
+  [
+   "I finished my homework before dinner.",
+   "저녁 먹기 전에 숙제를 끝냈어.",
+   "before dinner|저녁 먹기 전에|시간의 앞뒤를 말할 때 씁니다."
+  ],
+  [
+   "Watch out! There is a car.",
+   "조심해! 차 온다.",
+   "watch out|조심하다|위험할 때 바로 외치는 말입니다."
+  ],
+  [
+   "I get along with my classmates.",
+   "나는 반 친구들과 잘 지내.",
+   "get along with|~와 잘 지내다|사이가 좋다는 뜻입니다."
+  ],
+  [
+   "Please give it back to me.",
+   "그거 나한테 돌려줘.",
+   "give back|돌려주다|빌린 것을 되돌려 줄 때 씁니다."
+  ],
+  [
+   "We are going on a school trip.",
+   "우리 소풍 가.",
+   "go on a trip|여행을 가다|소풍이나 여행을 떠날 때 씁니다."
+  ],
+  [
+   "I brush my teeth after every meal.",
+   "나는 매 끼니 후에 이를 닦아.",
+   "brush one's teeth|이를 닦다|칫솔질을 말합니다."
+  ],
+  [
+   "My dad picks me up after school.",
+   "아빠가 방과 후에 나를 데리러 오셔.",
+   "pick up|데리러 가다|사람을 태우러 갈 때도 씁니다."
+  ],
+  [
+   "Let's find out the answer together.",
+   "같이 답을 알아보자.",
+   "find out|알아내다|몰랐던 것을 알게 되는 것입니다."
+  ],
+  [
+   "I am looking forward to my birthday.",
+   "나는 생일이 기다려져.",
+   "look forward to|~을 기대하다|뒤에는 명사나 -ing 가 옵니다."
+  ],
+  [
+   "Please sit down and open your book.",
+   "앉아서 책 펴.",
+   "sit down|앉다|stand up 의 반대입니다."
+  ],
+  [
+   "Stand up when the teacher comes in.",
+   "선생님 들어오시면 일어나.",
+   "stand up|일어서다|자리에서 몸을 세우는 것입니다."
+  ],
+  [
+   "I always help out at home.",
+   "나는 항상 집안일을 도와.",
+   "help out|거들다, 도와주다|일손을 보태는 것입니다."
+  ],
+  [
+   "We should throw away this old box.",
+   "이 낡은 상자는 버려야 해.",
+   "throw away|버리다|쓰레기통에 넣는 것입니다."
+  ],
+  [
+   "Be careful with the scissors.",
+   "가위 조심해서 써.",
+   "be careful with|~을 조심하다|위험한 물건을 다룰 때 씁니다."
+  ],
+  [
+   "I can't wait to see my grandma.",
+   "할머니 빨리 보고 싶어.",
+   "can't wait to|빨리 ~하고 싶다|기대가 클 때 씁니다."
+  ],
+  [
+   "Turn left at the corner.",
+   "모퉁이에서 왼쪽으로 돌아.",
+   "turn left|왼쪽으로 돌다|길을 알려줄 때 씁니다."
+  ],
+  [
+   "My cat ran away this morning.",
+   "우리 고양이가 오늘 아침에 도망갔어.",
+   "run away|도망가다|몰래 멀리 가버리는 것입니다."
+  ],
+  [
+   "Let's put away the toys now.",
+   "이제 장난감 치우자.",
+   "put away|제자리에 넣다|쓴 물건을 원래 자리에 두는 것입니다."
+  ],
+  [
+   "I get on the bus at eight.",
+   "나는 8시에 버스를 타.",
+   "get on|타다|버스나 지하철에 오를 때 씁니다."
+  ],
+  [
+   "We get off at the next stop.",
+   "우리 다음 정류장에서 내려.",
+   "get off|내리다|get on 의 반대입니다."
+  ],
+  [
+   "She is talking about her new book.",
+   "그 애는 자기 새 책 이야기를 하고 있어.",
+   "talk about|~에 대해 이야기하다|주제를 말할 때 씁니다."
+  ],
+  [
+   "I feel like eating something sweet.",
+   "나 뭔가 단 게 먹고 싶어.",
+   "feel like|~하고 싶다|뒤에 -ing 가 옵니다."
+  ],
+  [
+   "Please keep the door open.",
+   "문 열어 둬.",
+   "keep open|열어 두다|어떤 상태를 그대로 두는 것입니다."
+  ],
+  [
+   "My friend came over to my house.",
+   "친구가 우리 집에 놀러 왔어.",
+   "come over|놀러 오다|가까운 집에 방문할 때 씁니다."
+  ],
+  [
+   "I was late for school today.",
+   "나 오늘 학교에 지각했어.",
+   "be late for|~에 늦다|약속이나 수업에 늦었을 때 씁니다."
+  ],
+  [
+   "Let's take turns on the swing.",
+   "그네 순서대로 타자.",
+   "take turns|번갈아 하다|차례를 지키는 것입니다."
+  ],
+  [
+   "He grew up in a small town.",
+   "그는 작은 마을에서 자랐어.",
+   "grow up|자라다|아이가 어른이 되어가는 것입니다."
+  ],
+  [
+   "Don't give up so easily.",
+   "그렇게 쉽게 포기하지 마.",
+   "give up|포기하다|하던 것을 그만두는 것입니다."
+  ],
+  [
+   "I have a lot of homework tonight.",
+   "오늘 밤 숙제가 많아.",
+   "a lot of|많은|셀 수 있는 것과 없는 것 모두에 씁니다."
+  ],
+  [
+   "Wash your hands right away.",
+   "지금 바로 손 씻어.",
+   "right away|즉시, 바로|미루지 말라는 뜻입니다."
+  ],
+  [
+   "Thank you for helping me out.",
+   "도와줘서 고마워.",
+   "thank you for|~해줘서 고마워|뒤에 -ing 가 옵니다."
+  ]
+ ]
+}

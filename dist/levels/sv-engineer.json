@@ -1,0 +1,608 @@
+{
+ "schema": 3,
+ "level": "sv-engineer",
+ "name": "실리콘밸리 엔지니어",
+ "cards": [
+  {
+   "id": "sv-engineer-001",
+   "sentence": "What is the north star metric for this quarter?",
+   "sentenceKo": "이번 분기의 핵심 지표는 뭔가요?",
+   "idioms": [
+    {
+     "en": "north star metric",
+     "ko": "핵심 지표",
+     "note": "팀이 함께 보는 하나의 기준입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-002",
+   "sentence": "Let's timebox this discussion to ten minutes.",
+   "sentenceKo": "이 논의는 10분으로 제한하죠.",
+   "idioms": [
+    {
+     "en": "timebox",
+     "ko": "시간을 정해 두다",
+     "note": "길어지는 것을 막는 방법입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-003",
+   "sentence": "I want to socialize this idea before the review.",
+   "sentenceKo": "리뷰 전에 이 아이디어를 미리 공유하고 싶어요.",
+   "idioms": [
+    {
+     "en": "socialize an idea",
+     "ko": "미리 공유하다",
+     "note": "사전에 의견을 구하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-004",
+   "sentence": "Who is the DRI for this workstream?",
+   "sentenceKo": "이 업무의 최종 책임자는 누구죠?",
+   "idioms": [
+    {
+     "en": "DRI",
+     "ko": "직접 책임자",
+     "note": "Directly Responsible Individual 의 약자입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-005",
+   "sentence": "Let's align on scope before we commit.",
+   "sentenceKo": "약속하기 전에 범위부터 맞추죠.",
+   "idioms": [
+    {
+     "en": "align on",
+     "ko": "합의하다",
+     "note": "같은 이해에 도달하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-006",
+   "sentence": "This is a one-way door decision.",
+   "sentenceKo": "이건 되돌릴 수 없는 결정이에요.",
+   "idioms": [
+    {
+     "en": "one-way door",
+     "ko": "되돌릴 수 없는",
+     "note": "신중해야 할 결정을 뜻합니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-007",
+   "sentence": "We are optimizing for speed over polish.",
+   "sentenceKo": "완성도보다 속도를 우선하고 있어요.",
+   "idioms": [
+    {
+     "en": "optimize for",
+     "ko": "~을 우선하다",
+     "note": "트레이드오프를 선언하는 표현입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-008",
+   "sentence": "Can you write up a one-pager on this?",
+   "sentenceKo": "이걸 한 장짜리 문서로 정리해 주실래요?",
+   "idioms": [
+    {
+     "en": "one-pager",
+     "ko": "한 장짜리 문서",
+     "note": "핵심만 담은 짧은 제안서입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-009",
+   "sentence": "Let's dogfood it internally first.",
+   "sentenceKo": "우선 내부에서 직접 써 봅시다.",
+   "idioms": [
+    {
+     "en": "dogfood",
+     "ko": "자사 제품을 직접 쓰다",
+     "note": "출시 전에 팀이 먼저 사용하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-010",
+   "sentence": "This is table stakes for enterprise customers.",
+   "sentenceKo": "이건 엔터프라이즈 고객에겐 기본 요건이에요.",
+   "idioms": [
+    {
+     "en": "table stakes",
+     "ko": "기본 요건",
+     "note": "없으면 경쟁에 못 끼는 조건입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-011",
+   "sentence": "I will put together a design doc this week.",
+   "sentenceKo": "이번 주에 설계 문서를 정리할게요.",
+   "idioms": [
+    {
+     "en": "design doc",
+     "ko": "설계 문서",
+     "note": "구현 전에 합의를 만드는 문서입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-012",
+   "sentence": "Let's de-risk the launch with a canary.",
+   "sentenceKo": "카나리 배포로 출시 위험을 줄입시다.",
+   "idioms": [
+    {
+     "en": "de-risk",
+     "ko": "위험을 줄이다",
+     "note": "불확실성을 낮추는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-013",
+   "sentence": "We should push back on that timeline.",
+   "sentenceKo": "그 일정에는 이의를 제기해야 해요.",
+   "idioms": [
+    {
+     "en": "push back",
+     "ko": "이의를 제기하다",
+     "note": "무리한 요구에 반대하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-014",
+   "sentence": "This does not move the needle much.",
+   "sentenceKo": "이건 큰 변화를 못 만들어요.",
+   "idioms": [
+    {
+     "en": "move the needle",
+     "ko": "의미 있는 변화를 만들다",
+     "note": "지표가 움직이는 정도를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-015",
+   "sentence": "Let's get buy-in from the platform team.",
+   "sentenceKo": "플랫폼 팀의 동의를 얻읍시다.",
+   "idioms": [
+    {
+     "en": "buy-in",
+     "ko": "동의, 지지",
+     "note": "이해관계자의 찬성을 뜻합니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-016",
+   "sentence": "I am ramping up on the payments codebase.",
+   "sentenceKo": "결제 코드베이스를 익히는 중이에요.",
+   "idioms": [
+    {
+     "en": "ramp up on",
+     "ko": "익히다",
+     "note": "새 영역에 적응하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-017",
+   "sentence": "We need to unblock the mobile team.",
+   "sentenceKo": "모바일 팀의 병목을 풀어 줘야 해요.",
+   "idioms": [
+    {
+     "en": "unblock",
+     "ko": "막힌 것을 풀다",
+     "note": "다른 팀이 진행하게 돕는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-018",
+   "sentence": "Let's not boil the ocean here.",
+   "sentenceKo": "여기서 너무 크게 벌이지 맙시다.",
+   "idioms": [
+    {
+     "en": "boil the ocean",
+     "ko": "지나치게 크게 벌이다",
+     "note": "비현실적으로 광범위한 시도입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-019",
+   "sentence": "This is a p0 for the launch.",
+   "sentenceKo": "이건 출시의 최우선 과제예요.",
+   "idioms": [
+    {
+     "en": "p0",
+     "ko": "최우선 순위",
+     "note": "가장 급한 등급을 뜻합니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-020",
+   "sentence": "Can we scope this down to a v1?",
+   "sentenceKo": "이걸 v1 수준으로 줄일 수 있을까요?",
+   "idioms": [
+    {
+     "en": "scope down",
+     "ko": "범위를 줄이다",
+     "note": "작게 시작하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-021",
+   "sentence": "I will drive this to completion.",
+   "sentenceKo": "제가 끝까지 끌고 가겠습니다.",
+   "idioms": [
+    {
+     "en": "drive to completion",
+     "ko": "끝까지 추진하다",
+     "note": "주도적으로 마무리하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-022",
+   "sentence": "Let's close the loop with the customer.",
+   "sentenceKo": "고객에게 결과를 회신합시다.",
+   "idioms": [
+    {
+     "en": "close the loop",
+     "ko": "마무리 회신을 하다",
+     "note": "후속 보고로 매듭짓는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-023",
+   "sentence": "That is outside the scope of this project.",
+   "sentenceKo": "그건 이 프로젝트 범위 밖이에요.",
+   "idioms": [
+    {
+     "en": "outside the scope",
+     "ko": "범위 밖인",
+     "note": "다루지 않기로 한 부분입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-024",
+   "sentence": "We are directionally correct but need data.",
+   "sentenceKo": "방향은 맞지만 데이터가 필요해요.",
+   "idioms": [
+    {
+     "en": "directionally correct",
+     "ko": "방향은 맞는",
+     "note": "세부는 틀려도 큰 방향은 옳다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-025",
+   "sentence": "Let's do a pre-mortem before we start.",
+   "sentenceKo": "시작 전에 실패 시나리오를 점검합시다.",
+   "idioms": [
+    {
+     "en": "pre-mortem",
+     "ko": "사전 부검",
+     "note": "미리 실패 원인을 상상해 보는 회의입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-026",
+   "sentence": "I need more context on this decision.",
+   "sentenceKo": "이 결정의 배경을 더 알고 싶어요.",
+   "idioms": [
+    {
+     "en": "context",
+     "ko": "배경, 맥락",
+     "note": "왜 그렇게 정했는지를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-027",
+   "sentence": "This proposal needs a stronger why.",
+   "sentenceKo": "이 제안은 이유가 더 분명해야 해요.",
+   "idioms": [
+    {
+     "en": "a stronger why",
+     "ko": "더 분명한 이유",
+     "note": "설득의 근거를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-028",
+   "sentence": "Let's parallelize these two workstreams.",
+   "sentenceKo": "이 두 작업을 병렬로 진행합시다.",
+   "idioms": [
+    {
+     "en": "parallelize",
+     "ko": "병렬로 진행하다",
+     "note": "동시에 돌리는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-029",
+   "sentence": "We are trading off latency for cost.",
+   "sentenceKo": "지연을 감수하고 비용을 줄이는 겁니다.",
+   "idioms": [
+    {
+     "en": "trade off A for B",
+     "ko": "A 를 내주고 B 를 얻다",
+     "note": "균형점을 선택하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-030",
+   "sentence": "I will own the rollout plan.",
+   "sentenceKo": "출시 계획은 제가 맡겠습니다.",
+   "idioms": [
+    {
+     "en": "own",
+     "ko": "책임지고 맡다",
+     "note": "끝까지 담당한다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-031",
+   "sentence": "Let's keep this lightweight for now.",
+   "sentenceKo": "일단 가볍게 갑시다.",
+   "idioms": [
+    {
+     "en": "lightweight",
+     "ko": "가벼운",
+     "note": "과하지 않은 수준을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-032",
+   "sentence": "That is a nice-to-have, not a must-have.",
+   "sentenceKo": "그건 있으면 좋은 것이지 필수는 아니에요.",
+   "idioms": [
+    {
+     "en": "nice-to-have",
+     "ko": "있으면 좋은 것",
+     "note": "우선순위를 구분하는 표현입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-033",
+   "sentence": "We should instrument this before launch.",
+   "sentenceKo": "출시 전에 계측을 붙여야 해요.",
+   "idioms": [
+    {
+     "en": "instrument",
+     "ko": "계측을 붙이다",
+     "note": "지표를 수집하게 만드는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-034",
+   "sentence": "Let's revisit this after the offsite.",
+   "sentenceKo": "오프사이트 끝나고 다시 보죠.",
+   "idioms": [
+    {
+     "en": "revisit",
+     "ko": "다시 논의하다",
+     "note": "나중에 재검토하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-035",
+   "sentence": "I am heads-down on the migration.",
+   "sentenceKo": "마이그레이션에 몰두하고 있어요.",
+   "idioms": [
+    {
+     "en": "heads-down",
+     "ko": "몰두한",
+     "note": "집중해서 다른 걸 못 보는 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-036",
+   "sentence": "This needs sign-off from legal.",
+   "sentenceKo": "이건 법무팀 승인이 필요해요.",
+   "idioms": [
+    {
+     "en": "sign-off",
+     "ko": "승인",
+     "note": "공식적인 허가입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-037",
+   "sentence": "Let's dial in the onboarding flow.",
+   "sentenceKo": "온보딩 흐름을 정교하게 다듬읍시다.",
+   "idioms": [
+    {
+     "en": "dial in",
+     "ko": "정교하게 맞추다",
+     "note": "세밀하게 조정하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-038",
+   "sentence": "We have a tight runway this quarter.",
+   "sentenceKo": "이번 분기는 여유가 빠듯해요.",
+   "idioms": [
+    {
+     "en": "runway",
+     "ko": "남은 여유",
+     "note": "자금이나 시간의 잔여분입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-039",
+   "sentence": "Can you give me a quick sanity check?",
+   "sentenceKo": "잠깐 봐 주시고 말이 되는지 확인해 주실래요?",
+   "idioms": [
+    {
+     "en": "sanity check",
+     "ko": "타당성 확인",
+     "note": "기본적인 검증입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-040",
+   "sentence": "Let's write this up as an RFC.",
+   "sentenceKo": "이건 RFC 로 정리합시다.",
+   "idioms": [
+    {
+     "en": "RFC",
+     "ko": "의견 요청 문서",
+     "note": "Request For Comments 의 약자입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-041",
+   "sentence": "This is a force multiplier for the team.",
+   "sentenceKo": "이건 팀 전체의 효율을 몇 배로 올려요.",
+   "idioms": [
+    {
+     "en": "force multiplier",
+     "ko": "효과를 배가시키는 것",
+     "note": "한 번 투자로 여럿이 덕 보는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-042",
+   "sentence": "I would rather over-communicate than under.",
+   "sentenceKo": "소통은 부족한 것보다 넘치는 게 낫습니다.",
+   "idioms": [
+    {
+     "en": "over-communicate",
+     "ko": "충분히 알리다",
+     "note": "원격 협업에서 특히 강조됩니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-043",
+   "sentence": "Let's separate signal from noise here.",
+   "sentenceKo": "여기서 중요한 것과 잡음을 구분합시다.",
+   "idioms": [
+    {
+     "en": "signal from noise",
+     "ko": "중요한 것과 잡음",
+     "note": "핵심을 가려내는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-044",
+   "sentence": "We are compounding small wins.",
+   "sentenceKo": "작은 성과가 쌓여 가고 있어요.",
+   "idioms": [
+    {
+     "en": "compound",
+     "ko": "누적되어 커지다",
+     "note": "복리처럼 불어나는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-045",
+   "sentence": "That feedback landed well with the team.",
+   "sentenceKo": "그 피드백은 팀에 잘 받아들여졌어요.",
+   "idioms": [
+    {
+     "en": "land well",
+     "ko": "잘 받아들여지다",
+     "note": "반응이 좋았다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-046",
+   "sentence": "Let's set up a working session tomorrow.",
+   "sentenceKo": "내일 함께 작업하는 시간을 잡죠.",
+   "idioms": [
+    {
+     "en": "working session",
+     "ko": "함께 작업하는 회의",
+     "note": "보고가 아니라 실제로 만드는 자리입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-047",
+   "sentence": "I want to raise a concern about scope creep.",
+   "sentenceKo": "범위가 자꾸 커지는 점을 짚고 싶어요.",
+   "idioms": [
+    {
+     "en": "scope creep",
+     "ko": "범위 확대",
+     "note": "계획에 없던 일이 늘어나는 현상입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-048",
+   "sentence": "This unblocks three downstream teams.",
+   "sentenceKo": "이건 후속 세 팀의 병목을 풀어 줍니다.",
+   "idioms": [
+    {
+     "en": "downstream",
+     "ko": "후속의",
+     "note": "뒤에서 기다리는 쪽을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-049",
+   "sentence": "Let's document the decision and move on.",
+   "sentenceKo": "결정을 기록하고 넘어갑시다.",
+   "idioms": [
+    {
+     "en": "move on",
+     "ko": "넘어가다",
+     "note": "다음 주제로 진행하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "sv-engineer-050",
+   "sentence": "I will follow up with an action item list.",
+   "sentenceKo": "실행 항목 목록을 정리해서 보내겠습니다.",
+   "idioms": [
+    {
+     "en": "action item",
+     "ko": "실행 항목",
+     "note": "회의 후 해야 할 일입니다."
+    }
+   ]
+  }
+ ],
+ "contentHash": "ff05531c42e31a6b"
+}

@@ -1,0 +1,260 @@
+{
+ "id": "middle3",
+ "name": "중3",
+ "order": 4,
+ "description": "중학교 3학년 · 가정법과 현재완료",
+ "cards": [
+  [
+   "If I were you, I would apologize first.",
+   "내가 너라면 먼저 사과하겠어.",
+   "If I were you|내가 너라면|가정법 과거로 조언할 때 씁니다."
+  ],
+  [
+   "I have known him since elementary school.",
+   "나는 초등학교 때부터 그를 알아 왔어.",
+   "have known since|~부터 알아 왔다|현재완료로 지속을 나타냅니다."
+  ],
+  [
+   "She has already handed in her essay.",
+   "그 애는 이미 에세이를 냈어.",
+   "have already p.p.|이미 ~했다|예상보다 빨리 끝났을 때 씁니다."
+  ],
+  [
+   "We had better not take that risk.",
+   "그 위험은 감수하지 않는 게 좋겠어.",
+   "had better not|~하지 않는 게 좋겠다|had better 의 부정형입니다."
+  ],
+  [
+   "He insisted on paying for everything.",
+   "그는 전부 자기가 내겠다고 우겼어.",
+   "insist on|고집하다|뒤에 -ing 가 옵니다."
+  ],
+  [
+   "I wish I had studied harder last year.",
+   "작년에 더 열심히 공부했더라면.",
+   "I wish I had p.p.|~했더라면|과거에 대한 후회입니다."
+  ],
+  [
+   "The problem is worth looking into.",
+   "그 문제는 들여다볼 가치가 있어.",
+   "be worth -ing|~할 가치가 있다|뒤에 -ing 가 옵니다.",
+   "look into|조사하다|자세히 살펴보는 것입니다."
+  ],
+  [
+   "She is likely to change her mind.",
+   "그 애는 마음을 바꿀 것 같아.",
+   "change one's mind|마음을 바꾸다|결정을 뒤집는 것입니다."
+  ],
+  [
+   "Not until then did I realize my mistake.",
+   "그때가 되어서야 내 실수를 깨달았어.",
+   "not until|~하고 나서야|강조 도치 구문입니다."
+  ],
+  [
+   "He has been working on it all week.",
+   "그는 일주일 내내 그걸 붙들고 있어.",
+   "have been -ing|계속 ~해 오고 있다|현재완료진행입니다."
+  ],
+  [
+   "It is no use complaining about it now.",
+   "지금 불평해 봐야 소용없어.",
+   "It is no use -ing|~해도 소용없다|뒤에 -ing 가 옵니다."
+  ],
+  [
+   "I would have helped if you had asked.",
+   "네가 부탁했으면 도왔을 텐데.",
+   "would have p.p.|~했을 텐데|가정법 과거완료입니다."
+  ],
+  [
+   "She managed to finish before the deadline.",
+   "그 애는 마감 전에 겨우 끝냈어.",
+   "manage to|가까스로 ~해내다|어려움을 이겨낸 것입니다."
+  ],
+  [
+   "This is the very book I was looking for.",
+   "이게 바로 내가 찾던 책이야.",
+   "the very|바로 그|명사를 강조합니다."
+  ],
+  [
+   "He turned out to be right after all.",
+   "결국 그가 옳았던 것으로 드러났어.",
+   "after all|결국|예상과 다른 결말입니다."
+  ],
+  [
+   "We have yet to hear back from them.",
+   "아직 그쪽에서 답을 못 받았어.",
+   "have yet to|아직 ~하지 않았다|기다리는 중이라는 뜻입니다."
+  ],
+  [
+   "I am supposed to meet her at six.",
+   "여섯 시에 그 애를 만나기로 되어 있어.",
+   "be supposed to|~하기로 되어 있다|약속이나 규칙입니다."
+  ],
+  [
+   "No sooner had I sat down than the phone rang.",
+   "앉자마자 전화가 울렸어.",
+   "no sooner ~ than|~하자마자|도치가 일어납니다."
+  ],
+  [
+   "She has a tendency to overthink things.",
+   "그 애는 생각이 많은 편이야.",
+   "have a tendency to|~하는 경향이 있다|성향을 말합니다."
+  ],
+  [
+   "It took me three hours to get there.",
+   "거기 가는 데 세 시간 걸렸어.",
+   "It takes 사람 시간 to|~하는 데 시간이 걸리다|소요 시간을 말합니다."
+  ],
+  [
+   "He is far from satisfied with the result.",
+   "그는 결과에 전혀 만족하지 않아.",
+   "far from|전혀 ~이 아닌|강한 부정입니다."
+  ],
+  [
+   "Let me know as soon as you arrive.",
+   "도착하는 대로 알려 줘.",
+   "as soon as|~하자마자|시간의 즉시성을 말합니다."
+  ],
+  [
+   "I can hardly believe what happened.",
+   "무슨 일이 있었는지 거의 믿기지 않아.",
+   "can hardly|거의 ~할 수 없다|hardly 자체가 부정입니다."
+  ],
+  [
+   "The more you worry, the worse it gets.",
+   "걱정할수록 더 나빠져.",
+   "the 비교급, the 비교급|~할수록 더 ...하다|비례를 나타냅니다."
+  ],
+  [
+   "She devoted herself to helping others.",
+   "그 애는 남을 돕는 데 헌신했어.",
+   "devote oneself to|헌신하다|뒤에 -ing 가 옵니다."
+  ],
+  [
+   "It goes without saying that health matters.",
+   "건강이 중요한 건 말할 것도 없어.",
+   "It goes without saying|말할 것도 없다|당연한 사실입니다."
+  ],
+  [
+   "He objected to the new rule.",
+   "그는 새 규칙에 반대했어.",
+   "object to|반대하다|뒤에 명사나 -ing 가 옵니다."
+  ],
+  [
+   "I am looking forward to hearing from you.",
+   "연락 기다릴게.",
+   "look forward to -ing|~을 기대하다|이메일 끝에 자주 씁니다."
+  ],
+  [
+   "We should take advantage of this chance.",
+   "이 기회를 활용해야 해.",
+   "take advantage of|활용하다|기회를 잘 쓰는 것입니다."
+  ],
+  [
+   "She was on the verge of giving up.",
+   "그 애는 포기하기 직전이었어.",
+   "on the verge of|~하기 직전인|아슬아슬한 상태입니다."
+  ],
+  [
+   "Regardless of the weather, we will go.",
+   "날씨와 상관없이 우리는 갈 거야.",
+   "regardless of|~와 상관없이|조건을 무시하는 것입니다."
+  ],
+  [
+   "He has come a long way since then.",
+   "그는 그때 이후로 많이 발전했어.",
+   "come a long way|많이 발전하다|성장을 칭찬할 때 씁니다."
+  ],
+  [
+   "I ran the risk of being late.",
+   "늦을 위험을 무릅썼어.",
+   "run the risk of|위험을 무릅쓰다|뒤에 -ing 가 옵니다."
+  ],
+  [
+   "Little did I know it would rain.",
+   "비가 올 줄은 전혀 몰랐어.",
+   "little did I know|전혀 몰랐다|도치로 강조합니다."
+  ],
+  [
+   "She made an effort to understand me.",
+   "그 애는 나를 이해하려고 노력했어.",
+   "make an effort|노력하다|의식적으로 애쓰는 것입니다."
+  ],
+  [
+   "The meeting was put off until Friday.",
+   "회의가 금요일로 미뤄졌어.",
+   "put off until|~까지 미루다|수동태로도 자주 씁니다."
+  ],
+  [
+   "I have no choice but to accept it.",
+   "받아들이는 수밖에 없어.",
+   "have no choice but to|~할 수밖에 없다|뒤에 동사원형이 옵니다."
+  ],
+  [
+   "He apologized for having been rude.",
+   "그는 무례했던 것을 사과했어.",
+   "apologize for|~에 대해 사과하다|뒤에 명사나 -ing 가 옵니다."
+  ],
+  [
+   "This method is superior to the old one.",
+   "이 방법이 예전 것보다 나아.",
+   "be superior to|~보다 뛰어나다|than 이 아니라 to 를 씁니다."
+  ],
+  [
+   "They are used to working under pressure.",
+   "그들은 압박 속에서 일하는 데 익숙해.",
+   "be used to -ing|~에 익숙하다|used to 와 헷갈리기 쉽습니다."
+  ],
+  [
+   "I could not help but agree with her.",
+   "그 애 말에 동의할 수밖에 없었어.",
+   "cannot help but|~하지 않을 수 없다|뒤에 동사원형이 옵니다."
+  ],
+  [
+   "We are in the middle of an experiment.",
+   "우리는 실험 중이야.",
+   "in the middle of|~하는 중인|진행 중임을 말합니다."
+  ],
+  [
+   "She has been through a lot this year.",
+   "그 애는 올해 많은 일을 겪었어.",
+   "go through|겪다|힘든 경험을 말합니다."
+  ],
+  [
+   "Try to make sense of these numbers.",
+   "이 숫자들을 이해해 봐.",
+   "make sense of|이해하다|복잡한 것을 파악하는 것입니다."
+  ],
+  [
+   "He is bound to find out sooner or later.",
+   "그는 조만간 알게 될 거야.",
+   "sooner or later|조만간|언젠가는이라는 뜻입니다."
+  ],
+  [
+   "I would appreciate it if you could help.",
+   "도와주시면 감사하겠습니다.",
+   "I would appreciate it if|~해 주시면 감사하겠습니다|정중한 부탁입니다."
+  ],
+  [
+   "The rule applies to everyone equally.",
+   "그 규칙은 모두에게 똑같이 적용돼.",
+   "apply to|적용되다|규칙이 미치는 범위입니다."
+  ],
+  [
+   "She kept me from making a mistake.",
+   "그 애 덕분에 실수를 안 했어.",
+   "keep A from -ing|A 가 ~하지 못하게 하다|막아주는 것입니다."
+  ],
+  [
+   "We are running behind schedule.",
+   "일정보다 늦어지고 있어.",
+   "behind schedule|일정보다 늦은|계획보다 뒤처진 상태입니다."
+  ],
+  [
+   "In the long run, honesty pays off.",
+   "길게 보면 정직이 이득이야.",
+   "in the long run|길게 보면|장기적 관점입니다.",
+   "pay off|성과를 내다|노력이 결실을 맺는 것입니다."
+  ]
+ ]
+}

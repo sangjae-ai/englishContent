@@ -1,0 +1,27 @@
+name: build
+
+# dist/ 는 빌드 결과물이라 원본과 어긋날 수 있다.
+# push 마다 다시 빌드해서 커밋된 것과 같은지 확인한다.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: 빌드
+        run: node tools/build.mjs
+      - name: dist 가 커밋과 일치하는지 확인
+        run: |
+          if [ -n "$(git status --porcelain dist)" ]; then
+            echo "::error::dist/ 가 원본과 다릅니다. 로컬에서 'node tools/build.mjs' 를 돌리고 커밋하세요."
+            git --no-pager diff --stat dist
+            exit 1
+          fi
+          echo "dist/ 최신 상태 확인"

@@ -1,0 +1,618 @@
+{
+ "schema": 3,
+ "level": "middle3",
+ "name": "중3",
+ "cards": [
+  {
+   "id": "middle3-001",
+   "sentence": "If I were you, I would apologize first.",
+   "sentenceKo": "내가 너라면 먼저 사과하겠어.",
+   "idioms": [
+    {
+     "en": "If I were you",
+     "ko": "내가 너라면",
+     "note": "가정법 과거로 조언할 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-002",
+   "sentence": "I have known him since elementary school.",
+   "sentenceKo": "나는 초등학교 때부터 그를 알아 왔어.",
+   "idioms": [
+    {
+     "en": "have known since",
+     "ko": "~부터 알아 왔다",
+     "note": "현재완료로 지속을 나타냅니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-003",
+   "sentence": "She has already handed in her essay.",
+   "sentenceKo": "그 애는 이미 에세이를 냈어.",
+   "idioms": [
+    {
+     "en": "have already p.p.",
+     "ko": "이미 ~했다",
+     "note": "예상보다 빨리 끝났을 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-004",
+   "sentence": "We had better not take that risk.",
+   "sentenceKo": "그 위험은 감수하지 않는 게 좋겠어.",
+   "idioms": [
+    {
+     "en": "had better not",
+     "ko": "~하지 않는 게 좋겠다",
+     "note": "had better 의 부정형입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-005",
+   "sentence": "He insisted on paying for everything.",
+   "sentenceKo": "그는 전부 자기가 내겠다고 우겼어.",
+   "idioms": [
+    {
+     "en": "insist on",
+     "ko": "고집하다",
+     "note": "뒤에 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-006",
+   "sentence": "I wish I had studied harder last year.",
+   "sentenceKo": "작년에 더 열심히 공부했더라면.",
+   "idioms": [
+    {
+     "en": "I wish I had p.p.",
+     "ko": "~했더라면",
+     "note": "과거에 대한 후회입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-007",
+   "sentence": "The problem is worth looking into.",
+   "sentenceKo": "그 문제는 들여다볼 가치가 있어.",
+   "idioms": [
+    {
+     "en": "be worth -ing",
+     "ko": "~할 가치가 있다",
+     "note": "뒤에 -ing 가 옵니다."
+    },
+    {
+     "en": "look into",
+     "ko": "조사하다",
+     "note": "자세히 살펴보는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-008",
+   "sentence": "She is likely to change her mind.",
+   "sentenceKo": "그 애는 마음을 바꿀 것 같아.",
+   "idioms": [
+    {
+     "en": "change one's mind",
+     "ko": "마음을 바꾸다",
+     "note": "결정을 뒤집는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-009",
+   "sentence": "Not until then did I realize my mistake.",
+   "sentenceKo": "그때가 되어서야 내 실수를 깨달았어.",
+   "idioms": [
+    {
+     "en": "not until",
+     "ko": "~하고 나서야",
+     "note": "강조 도치 구문입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-010",
+   "sentence": "He has been working on it all week.",
+   "sentenceKo": "그는 일주일 내내 그걸 붙들고 있어.",
+   "idioms": [
+    {
+     "en": "have been -ing",
+     "ko": "계속 ~해 오고 있다",
+     "note": "현재완료진행입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-011",
+   "sentence": "It is no use complaining about it now.",
+   "sentenceKo": "지금 불평해 봐야 소용없어.",
+   "idioms": [
+    {
+     "en": "It is no use -ing",
+     "ko": "~해도 소용없다",
+     "note": "뒤에 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-012",
+   "sentence": "I would have helped if you had asked.",
+   "sentenceKo": "네가 부탁했으면 도왔을 텐데.",
+   "idioms": [
+    {
+     "en": "would have p.p.",
+     "ko": "~했을 텐데",
+     "note": "가정법 과거완료입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-013",
+   "sentence": "She managed to finish before the deadline.",
+   "sentenceKo": "그 애는 마감 전에 겨우 끝냈어.",
+   "idioms": [
+    {
+     "en": "manage to",
+     "ko": "가까스로 ~해내다",
+     "note": "어려움을 이겨낸 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-014",
+   "sentence": "This is the very book I was looking for.",
+   "sentenceKo": "이게 바로 내가 찾던 책이야.",
+   "idioms": [
+    {
+     "en": "the very",
+     "ko": "바로 그",
+     "note": "명사를 강조합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-015",
+   "sentence": "He turned out to be right after all.",
+   "sentenceKo": "결국 그가 옳았던 것으로 드러났어.",
+   "idioms": [
+    {
+     "en": "after all",
+     "ko": "결국",
+     "note": "예상과 다른 결말입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-016",
+   "sentence": "We have yet to hear back from them.",
+   "sentenceKo": "아직 그쪽에서 답을 못 받았어.",
+   "idioms": [
+    {
+     "en": "have yet to",
+     "ko": "아직 ~하지 않았다",
+     "note": "기다리는 중이라는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-017",
+   "sentence": "I am supposed to meet her at six.",
+   "sentenceKo": "여섯 시에 그 애를 만나기로 되어 있어.",
+   "idioms": [
+    {
+     "en": "be supposed to",
+     "ko": "~하기로 되어 있다",
+     "note": "약속이나 규칙입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-018",
+   "sentence": "No sooner had I sat down than the phone rang.",
+   "sentenceKo": "앉자마자 전화가 울렸어.",
+   "idioms": [
+    {
+     "en": "no sooner ~ than",
+     "ko": "~하자마자",
+     "note": "도치가 일어납니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-019",
+   "sentence": "She has a tendency to overthink things.",
+   "sentenceKo": "그 애는 생각이 많은 편이야.",
+   "idioms": [
+    {
+     "en": "have a tendency to",
+     "ko": "~하는 경향이 있다",
+     "note": "성향을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-020",
+   "sentence": "It took me three hours to get there.",
+   "sentenceKo": "거기 가는 데 세 시간 걸렸어.",
+   "idioms": [
+    {
+     "en": "It takes 사람 시간 to",
+     "ko": "~하는 데 시간이 걸리다",
+     "note": "소요 시간을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-021",
+   "sentence": "He is far from satisfied with the result.",
+   "sentenceKo": "그는 결과에 전혀 만족하지 않아.",
+   "idioms": [
+    {
+     "en": "far from",
+     "ko": "전혀 ~이 아닌",
+     "note": "강한 부정입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-022",
+   "sentence": "Let me know as soon as you arrive.",
+   "sentenceKo": "도착하는 대로 알려 줘.",
+   "idioms": [
+    {
+     "en": "as soon as",
+     "ko": "~하자마자",
+     "note": "시간의 즉시성을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-023",
+   "sentence": "I can hardly believe what happened.",
+   "sentenceKo": "무슨 일이 있었는지 거의 믿기지 않아.",
+   "idioms": [
+    {
+     "en": "can hardly",
+     "ko": "거의 ~할 수 없다",
+     "note": "hardly 자체가 부정입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-024",
+   "sentence": "The more you worry, the worse it gets.",
+   "sentenceKo": "걱정할수록 더 나빠져.",
+   "idioms": [
+    {
+     "en": "the 비교급, the 비교급",
+     "ko": "~할수록 더 ...하다",
+     "note": "비례를 나타냅니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-025",
+   "sentence": "She devoted herself to helping others.",
+   "sentenceKo": "그 애는 남을 돕는 데 헌신했어.",
+   "idioms": [
+    {
+     "en": "devote oneself to",
+     "ko": "헌신하다",
+     "note": "뒤에 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-026",
+   "sentence": "It goes without saying that health matters.",
+   "sentenceKo": "건강이 중요한 건 말할 것도 없어.",
+   "idioms": [
+    {
+     "en": "It goes without saying",
+     "ko": "말할 것도 없다",
+     "note": "당연한 사실입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-027",
+   "sentence": "He objected to the new rule.",
+   "sentenceKo": "그는 새 규칙에 반대했어.",
+   "idioms": [
+    {
+     "en": "object to",
+     "ko": "반대하다",
+     "note": "뒤에 명사나 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-028",
+   "sentence": "I am looking forward to hearing from you.",
+   "sentenceKo": "연락 기다릴게.",
+   "idioms": [
+    {
+     "en": "look forward to -ing",
+     "ko": "~을 기대하다",
+     "note": "이메일 끝에 자주 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-029",
+   "sentence": "We should take advantage of this chance.",
+   "sentenceKo": "이 기회를 활용해야 해.",
+   "idioms": [
+    {
+     "en": "take advantage of",
+     "ko": "활용하다",
+     "note": "기회를 잘 쓰는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-030",
+   "sentence": "She was on the verge of giving up.",
+   "sentenceKo": "그 애는 포기하기 직전이었어.",
+   "idioms": [
+    {
+     "en": "on the verge of",
+     "ko": "~하기 직전인",
+     "note": "아슬아슬한 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-031",
+   "sentence": "Regardless of the weather, we will go.",
+   "sentenceKo": "날씨와 상관없이 우리는 갈 거야.",
+   "idioms": [
+    {
+     "en": "regardless of",
+     "ko": "~와 상관없이",
+     "note": "조건을 무시하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-032",
+   "sentence": "He has come a long way since then.",
+   "sentenceKo": "그는 그때 이후로 많이 발전했어.",
+   "idioms": [
+    {
+     "en": "come a long way",
+     "ko": "많이 발전하다",
+     "note": "성장을 칭찬할 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-033",
+   "sentence": "I ran the risk of being late.",
+   "sentenceKo": "늦을 위험을 무릅썼어.",
+   "idioms": [
+    {
+     "en": "run the risk of",
+     "ko": "위험을 무릅쓰다",
+     "note": "뒤에 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-034",
+   "sentence": "Little did I know it would rain.",
+   "sentenceKo": "비가 올 줄은 전혀 몰랐어.",
+   "idioms": [
+    {
+     "en": "little did I know",
+     "ko": "전혀 몰랐다",
+     "note": "도치로 강조합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-035",
+   "sentence": "She made an effort to understand me.",
+   "sentenceKo": "그 애는 나를 이해하려고 노력했어.",
+   "idioms": [
+    {
+     "en": "make an effort",
+     "ko": "노력하다",
+     "note": "의식적으로 애쓰는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-036",
+   "sentence": "The meeting was put off until Friday.",
+   "sentenceKo": "회의가 금요일로 미뤄졌어.",
+   "idioms": [
+    {
+     "en": "put off until",
+     "ko": "~까지 미루다",
+     "note": "수동태로도 자주 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-037",
+   "sentence": "I have no choice but to accept it.",
+   "sentenceKo": "받아들이는 수밖에 없어.",
+   "idioms": [
+    {
+     "en": "have no choice but to",
+     "ko": "~할 수밖에 없다",
+     "note": "뒤에 동사원형이 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-038",
+   "sentence": "He apologized for having been rude.",
+   "sentenceKo": "그는 무례했던 것을 사과했어.",
+   "idioms": [
+    {
+     "en": "apologize for",
+     "ko": "~에 대해 사과하다",
+     "note": "뒤에 명사나 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-039",
+   "sentence": "This method is superior to the old one.",
+   "sentenceKo": "이 방법이 예전 것보다 나아.",
+   "idioms": [
+    {
+     "en": "be superior to",
+     "ko": "~보다 뛰어나다",
+     "note": "than 이 아니라 to 를 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-040",
+   "sentence": "They are used to working under pressure.",
+   "sentenceKo": "그들은 압박 속에서 일하는 데 익숙해.",
+   "idioms": [
+    {
+     "en": "be used to -ing",
+     "ko": "~에 익숙하다",
+     "note": "used to 와 헷갈리기 쉽습니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-041",
+   "sentence": "I could not help but agree with her.",
+   "sentenceKo": "그 애 말에 동의할 수밖에 없었어.",
+   "idioms": [
+    {
+     "en": "cannot help but",
+     "ko": "~하지 않을 수 없다",
+     "note": "뒤에 동사원형이 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-042",
+   "sentence": "We are in the middle of an experiment.",
+   "sentenceKo": "우리는 실험 중이야.",
+   "idioms": [
+    {
+     "en": "in the middle of",
+     "ko": "~하는 중인",
+     "note": "진행 중임을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-043",
+   "sentence": "She has been through a lot this year.",
+   "sentenceKo": "그 애는 올해 많은 일을 겪었어.",
+   "idioms": [
+    {
+     "en": "go through",
+     "ko": "겪다",
+     "note": "힘든 경험을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-044",
+   "sentence": "Try to make sense of these numbers.",
+   "sentenceKo": "이 숫자들을 이해해 봐.",
+   "idioms": [
+    {
+     "en": "make sense of",
+     "ko": "이해하다",
+     "note": "복잡한 것을 파악하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-045",
+   "sentence": "He is bound to find out sooner or later.",
+   "sentenceKo": "그는 조만간 알게 될 거야.",
+   "idioms": [
+    {
+     "en": "sooner or later",
+     "ko": "조만간",
+     "note": "언젠가는이라는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-046",
+   "sentence": "I would appreciate it if you could help.",
+   "sentenceKo": "도와주시면 감사하겠습니다.",
+   "idioms": [
+    {
+     "en": "I would appreciate it if",
+     "ko": "~해 주시면 감사하겠습니다",
+     "note": "정중한 부탁입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-047",
+   "sentence": "The rule applies to everyone equally.",
+   "sentenceKo": "그 규칙은 모두에게 똑같이 적용돼.",
+   "idioms": [
+    {
+     "en": "apply to",
+     "ko": "적용되다",
+     "note": "규칙이 미치는 범위입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-048",
+   "sentence": "She kept me from making a mistake.",
+   "sentenceKo": "그 애 덕분에 실수를 안 했어.",
+   "idioms": [
+    {
+     "en": "keep A from -ing",
+     "ko": "A 가 ~하지 못하게 하다",
+     "note": "막아주는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-049",
+   "sentence": "We are running behind schedule.",
+   "sentenceKo": "일정보다 늦어지고 있어.",
+   "idioms": [
+    {
+     "en": "behind schedule",
+     "ko": "일정보다 늦은",
+     "note": "계획보다 뒤처진 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle3-050",
+   "sentence": "In the long run, honesty pays off.",
+   "sentenceKo": "길게 보면 정직이 이득이야.",
+   "idioms": [
+    {
+     "en": "in the long run",
+     "ko": "길게 보면",
+     "note": "장기적 관점입니다."
+    },
+    {
+     "en": "pay off",
+     "ko": "성과를 내다",
+     "note": "노력이 결실을 맺는 것입니다."
+    }
+   ]
+  }
+ ],
+ "contentHash": "b79d003830c64dd0"
+}

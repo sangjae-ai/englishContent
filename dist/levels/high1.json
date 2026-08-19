@@ -1,0 +1,608 @@
+{
+ "schema": 3,
+ "level": "high1",
+ "name": "고1",
+ "cards": [
+  {
+   "id": "high1-001",
+   "sentence": "In my view, the benefits outweigh the risks.",
+   "sentenceKo": "제 생각에는 이점이 위험보다 큽니다.",
+   "idioms": [
+    {
+     "en": "outweigh",
+     "ko": "~보다 크다",
+     "note": "무게를 저울질하듯 비교합니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-002",
+   "sentence": "This argument rests on a false assumption.",
+   "sentenceKo": "이 주장은 잘못된 가정에 기대고 있습니다.",
+   "idioms": [
+    {
+     "en": "rest on",
+     "ko": "~에 근거하다",
+     "note": "논리의 토대를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-003",
+   "sentence": "Let me elaborate on that point.",
+   "sentenceKo": "그 부분을 좀 더 설명하겠습니다.",
+   "idioms": [
+    {
+     "en": "elaborate on",
+     "ko": "자세히 설명하다",
+     "note": "더 깊이 풀어내는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-004",
+   "sentence": "The evidence points to a different conclusion.",
+   "sentenceKo": "증거는 다른 결론을 가리킵니다.",
+   "idioms": [
+    {
+     "en": "point to",
+     "ko": "시사하다",
+     "note": "증거가 방향을 가리키는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-005",
+   "sentence": "We need to take this into account.",
+   "sentenceKo": "이것을 고려해야 합니다.",
+   "idioms": [
+    {
+     "en": "take into account",
+     "ko": "고려하다",
+     "note": "판단에 포함시키는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-006",
+   "sentence": "His theory has gained widespread acceptance.",
+   "sentenceKo": "그의 이론은 널리 받아들여졌습니다.",
+   "idioms": [
+    {
+     "en": "gain acceptance",
+     "ko": "받아들여지다",
+     "note": "인정을 얻는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-007",
+   "sentence": "The two ideas are closely related.",
+   "sentenceKo": "두 개념은 밀접하게 관련되어 있습니다.",
+   "idioms": [
+    {
+     "en": "be related to",
+     "ko": "관련되다",
+     "note": "연결 고리를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-008",
+   "sentence": "She raised a valid objection.",
+   "sentenceKo": "그녀는 타당한 반론을 제기했습니다.",
+   "idioms": [
+    {
+     "en": "raise an objection",
+     "ko": "이의를 제기하다",
+     "note": "공식적으로 반대하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-009",
+   "sentence": "This finding contradicts earlier research.",
+   "sentenceKo": "이 결과는 기존 연구와 모순됩니다.",
+   "idioms": [
+    {
+     "en": "contradict",
+     "ko": "모순되다",
+     "note": "서로 어긋나는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-010",
+   "sentence": "We should distinguish between cause and effect.",
+   "sentenceKo": "원인과 결과를 구분해야 합니다.",
+   "idioms": [
+    {
+     "en": "distinguish between",
+     "ko": "구분하다",
+     "note": "차이를 가려내는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-011",
+   "sentence": "The policy was implemented last year.",
+   "sentenceKo": "그 정책은 작년에 시행되었습니다.",
+   "idioms": [
+    {
+     "en": "implement",
+     "ko": "시행하다",
+     "note": "계획을 실제로 옮기는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-012",
+   "sentence": "His success can be attributed to hard work.",
+   "sentenceKo": "그의 성공은 노력 덕분입니다.",
+   "idioms": [
+    {
+     "en": "be attributed to",
+     "ko": "~덕분이다",
+     "note": "원인을 돌리는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-013",
+   "sentence": "Let us consider an alternative approach.",
+   "sentenceKo": "다른 접근을 고려해 봅시다.",
+   "idioms": [
+    {
+     "en": "alternative approach",
+     "ko": "대안적 접근",
+     "note": "다른 방법을 뜻합니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-014",
+   "sentence": "The results were consistent with our prediction.",
+   "sentenceKo": "결과는 예측과 일치했습니다.",
+   "idioms": [
+    {
+     "en": "be consistent with",
+     "ko": "일치하다",
+     "note": "서로 어긋나지 않는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-015",
+   "sentence": "This raises an important question.",
+   "sentenceKo": "이는 중요한 질문을 던집니다.",
+   "idioms": [
+    {
+     "en": "raise a question",
+     "ko": "의문을 제기하다",
+     "note": "논의를 여는 표현입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-016",
+   "sentence": "We must weigh the pros and cons.",
+   "sentenceKo": "장단점을 저울질해야 합니다.",
+   "idioms": [
+    {
+     "en": "pros and cons",
+     "ko": "장단점",
+     "note": "찬반 양면을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-017",
+   "sentence": "The data suggests a gradual improvement.",
+   "sentenceKo": "자료는 점진적 개선을 시사합니다.",
+   "idioms": [
+    {
+     "en": "suggest",
+     "ko": "시사하다",
+     "note": "단정 대신 조심스럽게 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-018",
+   "sentence": "He drew a parallel between the two events.",
+   "sentenceKo": "그는 두 사건을 견주어 설명했습니다.",
+   "idioms": [
+    {
+     "en": "draw a parallel",
+     "ko": "유사점을 들다",
+     "note": "비슷한 점을 짚는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-019",
+   "sentence": "Her conclusion follows logically from the data.",
+   "sentenceKo": "그녀의 결론은 자료에서 논리적으로 도출됩니다.",
+   "idioms": [
+    {
+     "en": "follow from",
+     "ko": "~에서 도출되다",
+     "note": "논리적 귀결입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-020",
+   "sentence": "We should not jump to conclusions.",
+   "sentenceKo": "성급히 결론을 내리면 안 됩니다.",
+   "idioms": [
+    {
+     "en": "jump to conclusions",
+     "ko": "성급히 결론짓다",
+     "note": "근거 없이 단정하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-021",
+   "sentence": "This factor plays a crucial role.",
+   "sentenceKo": "이 요인이 결정적 역할을 합니다.",
+   "idioms": [
+    {
+     "en": "play a role",
+     "ko": "역할을 하다",
+     "note": "기여하는 정도를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-022",
+   "sentence": "The theory accounts for most cases.",
+   "sentenceKo": "그 이론은 대부분의 경우를 설명합니다.",
+   "idioms": [
+    {
+     "en": "account for",
+     "ko": "설명하다, 차지하다",
+     "note": "원인을 밝히거나 비율을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-023",
+   "sentence": "Let me put it another way.",
+   "sentenceKo": "다르게 표현해 보겠습니다.",
+   "idioms": [
+    {
+     "en": "put it another way",
+     "ko": "바꿔 말하다",
+     "note": "같은 말을 쉽게 다시 하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-024",
+   "sentence": "There is a growing consensus on this issue.",
+   "sentenceKo": "이 사안에 대한 공감대가 커지고 있습니다.",
+   "idioms": [
+    {
+     "en": "consensus",
+     "ko": "합의, 공감대",
+     "note": "여럿의 의견이 모인 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-025",
+   "sentence": "The problem stems from a lack of planning.",
+   "sentenceKo": "그 문제는 계획 부족에서 비롯됩니다.",
+   "idioms": [
+    {
+     "en": "stem from",
+     "ko": "~에서 비롯되다",
+     "note": "근원을 밝히는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-026",
+   "sentence": "We cannot rule out that possibility.",
+   "sentenceKo": "그 가능성을 배제할 수 없습니다.",
+   "idioms": [
+    {
+     "en": "rule out",
+     "ko": "배제하다",
+     "note": "후보에서 제외하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-027",
+   "sentence": "His view differs from the mainstream.",
+   "sentenceKo": "그의 견해는 주류와 다릅니다.",
+   "idioms": [
+    {
+     "en": "differ from",
+     "ko": "~와 다르다",
+     "note": "차이를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-028",
+   "sentence": "This trend is likely to continue.",
+   "sentenceKo": "이 추세는 계속될 것으로 보입니다.",
+   "idioms": [
+    {
+     "en": "be likely to",
+     "ko": "~할 것 같다",
+     "note": "예측을 조심스럽게 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-029",
+   "sentence": "The study sheds light on a hidden pattern.",
+   "sentenceKo": "그 연구는 숨은 패턴을 밝혀 줍니다.",
+   "idioms": [
+    {
+     "en": "shed light on",
+     "ko": "밝혀 주다",
+     "note": "이해를 돕는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-030",
+   "sentence": "We need concrete examples to back this up.",
+   "sentenceKo": "이를 뒷받침할 구체적 사례가 필요합니다.",
+   "idioms": [
+    {
+     "en": "back up",
+     "ko": "뒷받침하다",
+     "note": "근거로 지지하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-031",
+   "sentence": "In contrast, the second group improved.",
+   "sentenceKo": "반면 두 번째 집단은 향상되었습니다.",
+   "idioms": [
+    {
+     "en": "in contrast",
+     "ko": "반면에",
+     "note": "대조를 나타냅니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-032",
+   "sentence": "The findings are open to interpretation.",
+   "sentenceKo": "그 결과는 해석의 여지가 있습니다.",
+   "idioms": [
+    {
+     "en": "be open to",
+     "ko": "~의 여지가 있다",
+     "note": "확정적이지 않다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-033",
+   "sentence": "He made a compelling case for change.",
+   "sentenceKo": "그는 변화를 설득력 있게 주장했습니다.",
+   "idioms": [
+    {
+     "en": "make a case for",
+     "ko": "~을 주장하다",
+     "note": "논거를 들어 설득하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-034",
+   "sentence": "This assumption needs to be tested.",
+   "sentenceKo": "이 가정은 검증되어야 합니다.",
+   "idioms": [
+    {
+     "en": "assumption",
+     "ko": "가정",
+     "note": "증명 없이 전제한 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-035",
+   "sentence": "The two variables are inversely related.",
+   "sentenceKo": "두 변수는 반비례합니다.",
+   "idioms": [
+    {
+     "en": "inversely related",
+     "ko": "반비례하는",
+     "note": "하나가 오르면 다른 하나가 내립니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-036",
+   "sentence": "Overall, the response has been positive.",
+   "sentenceKo": "전반적으로 반응이 좋았습니다.",
+   "idioms": [
+    {
+     "en": "overall",
+     "ko": "전반적으로",
+     "note": "요약할 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-037",
+   "sentence": "We should approach this with caution.",
+   "sentenceKo": "이 문제는 신중히 접근해야 합니다.",
+   "idioms": [
+    {
+     "en": "with caution",
+     "ko": "신중하게",
+     "note": "조심스러운 태도입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-038",
+   "sentence": "His claim lacks sufficient evidence.",
+   "sentenceKo": "그의 주장은 충분한 증거가 부족합니다.",
+   "idioms": [
+    {
+     "en": "lack",
+     "ko": "부족하다",
+     "note": "없다는 것을 동사로 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-039",
+   "sentence": "The trend has reversed in recent years.",
+   "sentenceKo": "최근 몇 년 사이 추세가 뒤바뀌었습니다.",
+   "idioms": [
+    {
+     "en": "reverse",
+     "ko": "뒤바뀌다",
+     "note": "방향이 반대가 되는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-040",
+   "sentence": "Let us break the issue into parts.",
+   "sentenceKo": "이 사안을 부분으로 나눠 봅시다.",
+   "idioms": [
+    {
+     "en": "break into parts",
+     "ko": "부분으로 나누다",
+     "note": "복잡한 것을 쪼개는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-041",
+   "sentence": "This example illustrates my point well.",
+   "sentenceKo": "이 예가 제 요지를 잘 보여 줍니다.",
+   "idioms": [
+    {
+     "en": "illustrate",
+     "ko": "보여 주다",
+     "note": "예로 설명하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-042",
+   "sentence": "We should bear in mind the time limit.",
+   "sentenceKo": "시간 제한을 염두에 둬야 합니다.",
+   "idioms": [
+    {
+     "en": "bear in mind",
+     "ko": "염두에 두다",
+     "note": "잊지 말라는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-043",
+   "sentence": "The proposal was met with resistance.",
+   "sentenceKo": "그 제안은 반발에 부딪혔습니다.",
+   "idioms": [
+    {
+     "en": "be met with",
+     "ko": "~에 부딪히다",
+     "note": "반응을 받는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-044",
+   "sentence": "Her argument holds up under scrutiny.",
+   "sentenceKo": "그녀의 주장은 따져 봐도 성립합니다.",
+   "idioms": [
+    {
+     "en": "hold up",
+     "ko": "성립하다, 견디다",
+     "note": "검증을 통과하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-045",
+   "sentence": "This is by no means a simple problem.",
+   "sentenceKo": "이것은 결코 간단한 문제가 아닙니다.",
+   "idioms": [
+    {
+     "en": "by no means",
+     "ko": "결코 ~이 아닌",
+     "note": "강한 부정입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-046",
+   "sentence": "We can draw several lessons from this.",
+   "sentenceKo": "여기서 여러 교훈을 얻을 수 있습니다.",
+   "idioms": [
+    {
+     "en": "draw a lesson",
+     "ko": "교훈을 얻다",
+     "note": "경험에서 배우는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-047",
+   "sentence": "The impact was greater than anticipated.",
+   "sentenceKo": "영향이 예상보다 컸습니다.",
+   "idioms": [
+    {
+     "en": "than anticipated",
+     "ko": "예상보다",
+     "note": "비교 기준을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-048",
+   "sentence": "Let me summarize the main points.",
+   "sentenceKo": "요점을 정리하겠습니다.",
+   "idioms": [
+    {
+     "en": "summarize",
+     "ko": "요약하다",
+     "note": "핵심만 간추리는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-049",
+   "sentence": "This approach has clear limitations.",
+   "sentenceKo": "이 접근에는 분명한 한계가 있습니다.",
+   "idioms": [
+    {
+     "en": "limitation",
+     "ko": "한계",
+     "note": "할 수 없는 범위입니다."
+    }
+   ]
+  },
+  {
+   "id": "high1-050",
+   "sentence": "In light of these facts, we should act.",
+   "sentenceKo": "이런 사실에 비추어 행동해야 합니다.",
+   "idioms": [
+    {
+     "en": "in light of",
+     "ko": "~에 비추어",
+     "note": "근거를 제시할 때 씁니다."
+    }
+   ]
+  }
+ ],
+ "contentHash": "87f9df659080c5b1"
+}

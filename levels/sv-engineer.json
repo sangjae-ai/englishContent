@@ -1,0 +1,258 @@
+{
+ "id": "sv-engineer",
+ "name": "실리콘밸리 엔지니어",
+ "order": 10,
+ "description": "미국 테크 기업 · 제품, 협업, 커리어",
+ "cards": [
+  [
+   "What is the north star metric for this quarter?",
+   "이번 분기의 핵심 지표는 뭔가요?",
+   "north star metric|핵심 지표|팀이 함께 보는 하나의 기준입니다."
+  ],
+  [
+   "Let's timebox this discussion to ten minutes.",
+   "이 논의는 10분으로 제한하죠.",
+   "timebox|시간을 정해 두다|길어지는 것을 막는 방법입니다."
+  ],
+  [
+   "I want to socialize this idea before the review.",
+   "리뷰 전에 이 아이디어를 미리 공유하고 싶어요.",
+   "socialize an idea|미리 공유하다|사전에 의견을 구하는 것입니다."
+  ],
+  [
+   "Who is the DRI for this workstream?",
+   "이 업무의 최종 책임자는 누구죠?",
+   "DRI|직접 책임자|Directly Responsible Individual 의 약자입니다."
+  ],
+  [
+   "Let's align on scope before we commit.",
+   "약속하기 전에 범위부터 맞추죠.",
+   "align on|합의하다|같은 이해에 도달하는 것입니다."
+  ],
+  [
+   "This is a one-way door decision.",
+   "이건 되돌릴 수 없는 결정이에요.",
+   "one-way door|되돌릴 수 없는|신중해야 할 결정을 뜻합니다."
+  ],
+  [
+   "We are optimizing for speed over polish.",
+   "완성도보다 속도를 우선하고 있어요.",
+   "optimize for|~을 우선하다|트레이드오프를 선언하는 표현입니다."
+  ],
+  [
+   "Can you write up a one-pager on this?",
+   "이걸 한 장짜리 문서로 정리해 주실래요?",
+   "one-pager|한 장짜리 문서|핵심만 담은 짧은 제안서입니다."
+  ],
+  [
+   "Let's dogfood it internally first.",
+   "우선 내부에서 직접 써 봅시다.",
+   "dogfood|자사 제품을 직접 쓰다|출시 전에 팀이 먼저 사용하는 것입니다."
+  ],
+  [
+   "This is table stakes for enterprise customers.",
+   "이건 엔터프라이즈 고객에겐 기본 요건이에요.",
+   "table stakes|기본 요건|없으면 경쟁에 못 끼는 조건입니다."
+  ],
+  [
+   "I will put together a design doc this week.",
+   "이번 주에 설계 문서를 정리할게요.",
+   "design doc|설계 문서|구현 전에 합의를 만드는 문서입니다."
+  ],
+  [
+   "Let's de-risk the launch with a canary.",
+   "카나리 배포로 출시 위험을 줄입시다.",
+   "de-risk|위험을 줄이다|불확실성을 낮추는 것입니다."
+  ],
+  [
+   "We should push back on that timeline.",
+   "그 일정에는 이의를 제기해야 해요.",
+   "push back|이의를 제기하다|무리한 요구에 반대하는 것입니다."
+  ],
+  [
+   "This does not move the needle much.",
+   "이건 큰 변화를 못 만들어요.",
+   "move the needle|의미 있는 변화를 만들다|지표가 움직이는 정도를 말합니다."
+  ],
+  [
+   "Let's get buy-in from the platform team.",
+   "플랫폼 팀의 동의를 얻읍시다.",
+   "buy-in|동의, 지지|이해관계자의 찬성을 뜻합니다."
+  ],
+  [
+   "I am ramping up on the payments codebase.",
+   "결제 코드베이스를 익히는 중이에요.",
+   "ramp up on|익히다|새 영역에 적응하는 것입니다."
+  ],
+  [
+   "We need to unblock the mobile team.",
+   "모바일 팀의 병목을 풀어 줘야 해요.",
+   "unblock|막힌 것을 풀다|다른 팀이 진행하게 돕는 것입니다."
+  ],
+  [
+   "Let's not boil the ocean here.",
+   "여기서 너무 크게 벌이지 맙시다.",
+   "boil the ocean|지나치게 크게 벌이다|비현실적으로 광범위한 시도입니다."
+  ],
+  [
+   "This is a p0 for the launch.",
+   "이건 출시의 최우선 과제예요.",
+   "p0|최우선 순위|가장 급한 등급을 뜻합니다."
+  ],
+  [
+   "Can we scope this down to a v1?",
+   "이걸 v1 수준으로 줄일 수 있을까요?",
+   "scope down|범위를 줄이다|작게 시작하는 것입니다."
+  ],
+  [
+   "I will drive this to completion.",
+   "제가 끝까지 끌고 가겠습니다.",
+   "drive to completion|끝까지 추진하다|주도적으로 마무리하는 것입니다."
+  ],
+  [
+   "Let's close the loop with the customer.",
+   "고객에게 결과를 회신합시다.",
+   "close the loop|마무리 회신을 하다|후속 보고로 매듭짓는 것입니다."
+  ],
+  [
+   "That is outside the scope of this project.",
+   "그건 이 프로젝트 범위 밖이에요.",
+   "outside the scope|범위 밖인|다루지 않기로 한 부분입니다."
+  ],
+  [
+   "We are directionally correct but need data.",
+   "방향은 맞지만 데이터가 필요해요.",
+   "directionally correct|방향은 맞는|세부는 틀려도 큰 방향은 옳다는 뜻입니다."
+  ],
+  [
+   "Let's do a pre-mortem before we start.",
+   "시작 전에 실패 시나리오를 점검합시다.",
+   "pre-mortem|사전 부검|미리 실패 원인을 상상해 보는 회의입니다."
+  ],
+  [
+   "I need more context on this decision.",
+   "이 결정의 배경을 더 알고 싶어요.",
+   "context|배경, 맥락|왜 그렇게 정했는지를 말합니다."
+  ],
+  [
+   "This proposal needs a stronger why.",
+   "이 제안은 이유가 더 분명해야 해요.",
+   "a stronger why|더 분명한 이유|설득의 근거를 말합니다."
+  ],
+  [
+   "Let's parallelize these two workstreams.",
+   "이 두 작업을 병렬로 진행합시다.",
+   "parallelize|병렬로 진행하다|동시에 돌리는 것입니다."
+  ],
+  [
+   "We are trading off latency for cost.",
+   "지연을 감수하고 비용을 줄이는 겁니다.",
+   "trade off A for B|A 를 내주고 B 를 얻다|균형점을 선택하는 것입니다."
+  ],
+  [
+   "I will own the rollout plan.",
+   "출시 계획은 제가 맡겠습니다.",
+   "own|책임지고 맡다|끝까지 담당한다는 뜻입니다."
+  ],
+  [
+   "Let's keep this lightweight for now.",
+   "일단 가볍게 갑시다.",
+   "lightweight|가벼운|과하지 않은 수준을 말합니다."
+  ],
+  [
+   "That is a nice-to-have, not a must-have.",
+   "그건 있으면 좋은 것이지 필수는 아니에요.",
+   "nice-to-have|있으면 좋은 것|우선순위를 구분하는 표현입니다."
+  ],
+  [
+   "We should instrument this before launch.",
+   "출시 전에 계측을 붙여야 해요.",
+   "instrument|계측을 붙이다|지표를 수집하게 만드는 것입니다."
+  ],
+  [
+   "Let's revisit this after the offsite.",
+   "오프사이트 끝나고 다시 보죠.",
+   "revisit|다시 논의하다|나중에 재검토하는 것입니다."
+  ],
+  [
+   "I am heads-down on the migration.",
+   "마이그레이션에 몰두하고 있어요.",
+   "heads-down|몰두한|집중해서 다른 걸 못 보는 상태입니다."
+  ],
+  [
+   "This needs sign-off from legal.",
+   "이건 법무팀 승인이 필요해요.",
+   "sign-off|승인|공식적인 허가입니다."
+  ],
+  [
+   "Let's dial in the onboarding flow.",
+   "온보딩 흐름을 정교하게 다듬읍시다.",
+   "dial in|정교하게 맞추다|세밀하게 조정하는 것입니다."
+  ],
+  [
+   "We have a tight runway this quarter.",
+   "이번 분기는 여유가 빠듯해요.",
+   "runway|남은 여유|자금이나 시간의 잔여분입니다."
+  ],
+  [
+   "Can you give me a quick sanity check?",
+   "잠깐 봐 주시고 말이 되는지 확인해 주실래요?",
+   "sanity check|타당성 확인|기본적인 검증입니다."
+  ],
+  [
+   "Let's write this up as an RFC.",
+   "이건 RFC 로 정리합시다.",
+   "RFC|의견 요청 문서|Request For Comments 의 약자입니다."
+  ],
+  [
+   "This is a force multiplier for the team.",
+   "이건 팀 전체의 효율을 몇 배로 올려요.",
+   "force multiplier|효과를 배가시키는 것|한 번 투자로 여럿이 덕 보는 것입니다."
+  ],
+  [
+   "I would rather over-communicate than under.",
+   "소통은 부족한 것보다 넘치는 게 낫습니다.",
+   "over-communicate|충분히 알리다|원격 협업에서 특히 강조됩니다."
+  ],
+  [
+   "Let's separate signal from noise here.",
+   "여기서 중요한 것과 잡음을 구분합시다.",
+   "signal from noise|중요한 것과 잡음|핵심을 가려내는 것입니다."
+  ],
+  [
+   "We are compounding small wins.",
+   "작은 성과가 쌓여 가고 있어요.",
+   "compound|누적되어 커지다|복리처럼 불어나는 것입니다."
+  ],
+  [
+   "That feedback landed well with the team.",
+   "그 피드백은 팀에 잘 받아들여졌어요.",
+   "land well|잘 받아들여지다|반응이 좋았다는 뜻입니다."
+  ],
+  [
+   "Let's set up a working session tomorrow.",
+   "내일 함께 작업하는 시간을 잡죠.",
+   "working session|함께 작업하는 회의|보고가 아니라 실제로 만드는 자리입니다."
+  ],
+  [
+   "I want to raise a concern about scope creep.",
+   "범위가 자꾸 커지는 점을 짚고 싶어요.",
+   "scope creep|범위 확대|계획에 없던 일이 늘어나는 현상입니다."
+  ],
+  [
+   "This unblocks three downstream teams.",
+   "이건 후속 세 팀의 병목을 풀어 줍니다.",
+   "downstream|후속의|뒤에서 기다리는 쪽을 말합니다."
+  ],
+  [
+   "Let's document the decision and move on.",
+   "결정을 기록하고 넘어갑시다.",
+   "move on|넘어가다|다음 주제로 진행하는 것입니다."
+  ],
+  [
+   "I will follow up with an action item list.",
+   "실행 항목 목록을 정리해서 보내겠습니다.",
+   "action item|실행 항목|회의 후 해야 할 일입니다."
+  ]
+ ]
+}

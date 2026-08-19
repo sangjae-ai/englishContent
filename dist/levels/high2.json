@@ -1,0 +1,608 @@
+{
+ "schema": 3,
+ "level": "high2",
+ "name": "고2",
+ "cards": [
+  {
+   "id": "high2-001",
+   "sentence": "The hypothesis was subsequently confirmed.",
+   "sentenceKo": "그 가설은 이후 확인되었습니다.",
+   "idioms": [
+    {
+     "en": "subsequently",
+     "ko": "이후에",
+     "note": "시간 순서를 나타냅니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-002",
+   "sentence": "Participants were randomly assigned to groups.",
+   "sentenceKo": "참가자들은 무작위로 집단에 배정되었습니다.",
+   "idioms": [
+    {
+     "en": "be assigned to",
+     "ko": "배정되다",
+     "note": "수동으로 나뉘는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-003",
+   "sentence": "The results have been widely replicated.",
+   "sentenceKo": "그 결과는 널리 재현되었습니다.",
+   "idioms": [
+    {
+     "en": "replicate",
+     "ko": "재현하다",
+     "note": "같은 실험을 반복하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-004",
+   "sentence": "This phenomenon is not fully understood.",
+   "sentenceKo": "이 현상은 완전히 규명되지 않았습니다.",
+   "idioms": [
+    {
+     "en": "phenomenon",
+     "ko": "현상",
+     "note": "관찰되는 사건입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-005",
+   "sentence": "The correlation does not imply causation.",
+   "sentenceKo": "상관관계가 인과관계를 뜻하지는 않습니다.",
+   "idioms": [
+    {
+     "en": "imply",
+     "ko": "암시하다",
+     "note": "직접 말하지 않고 뜻하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-006",
+   "sentence": "Several variables were held constant.",
+   "sentenceKo": "여러 변수가 일정하게 유지되었습니다.",
+   "idioms": [
+    {
+     "en": "hold constant",
+     "ko": "일정하게 유지하다",
+     "note": "실험 통제 방법입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-007",
+   "sentence": "The sample size was relatively small.",
+   "sentenceKo": "표본 크기가 비교적 작았습니다.",
+   "idioms": [
+    {
+     "en": "relatively",
+     "ko": "비교적",
+     "note": "정도를 완화해 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-008",
+   "sentence": "This model has been refined over time.",
+   "sentenceKo": "이 모델은 시간이 지나며 다듬어졌습니다.",
+   "idioms": [
+    {
+     "en": "refine",
+     "ko": "다듬다",
+     "note": "더 정교하게 만드는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-009",
+   "sentence": "The theory was subject to heavy criticism.",
+   "sentenceKo": "그 이론은 거센 비판을 받았습니다.",
+   "idioms": [
+    {
+     "en": "be subject to",
+     "ko": "~을 받다",
+     "note": "영향에 놓이는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-010",
+   "sentence": "Researchers have long debated this issue.",
+   "sentenceKo": "연구자들은 오랫동안 이 문제를 논쟁해 왔습니다.",
+   "idioms": [
+    {
+     "en": "debate",
+     "ko": "논쟁하다",
+     "note": "의견이 갈리는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-011",
+   "sentence": "The mechanism remains to be clarified.",
+   "sentenceKo": "그 기제는 아직 밝혀져야 합니다.",
+   "idioms": [
+    {
+     "en": "remain to be p.p.",
+     "ko": "아직 ~되어야 한다",
+     "note": "미완의 과제를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-012",
+   "sentence": "Data were collected over six months.",
+   "sentenceKo": "자료는 6개월에 걸쳐 수집되었습니다.",
+   "idioms": [
+    {
+     "en": "over",
+     "ko": "~에 걸쳐",
+     "note": "기간을 나타냅니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-013",
+   "sentence": "The effect diminishes with age.",
+   "sentenceKo": "그 효과는 나이가 들수록 줄어듭니다.",
+   "idioms": [
+    {
+     "en": "diminish",
+     "ko": "줄어들다",
+     "note": "점차 작아지는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-014",
+   "sentence": "His work laid the groundwork for later studies.",
+   "sentenceKo": "그의 연구는 후속 연구의 토대를 놓았습니다.",
+   "idioms": [
+    {
+     "en": "lay the groundwork",
+     "ko": "토대를 놓다",
+     "note": "기초를 마련하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-015",
+   "sentence": "The conclusion is tentative at best.",
+   "sentenceKo": "그 결론은 기껏해야 잠정적입니다.",
+   "idioms": [
+    {
+     "en": "at best",
+     "ko": "기껏해야",
+     "note": "최대치를 낮춰 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-016",
+   "sentence": "These factors interact in complex ways.",
+   "sentenceKo": "이 요인들은 복잡하게 상호작용합니다.",
+   "idioms": [
+    {
+     "en": "interact",
+     "ko": "상호작용하다",
+     "note": "서로 영향을 주고받는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-017",
+   "sentence": "The study was conducted under controlled conditions.",
+   "sentenceKo": "그 연구는 통제된 조건에서 수행되었습니다.",
+   "idioms": [
+    {
+     "en": "conduct a study",
+     "ko": "연구를 수행하다",
+     "note": "실험을 진행하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-018",
+   "sentence": "Findings should be interpreted with care.",
+   "sentenceKo": "결과는 조심스럽게 해석해야 합니다.",
+   "idioms": [
+    {
+     "en": "interpret",
+     "ko": "해석하다",
+     "note": "의미를 읽어내는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-019",
+   "sentence": "The trend is consistent across cultures.",
+   "sentenceKo": "그 경향은 문화권 전반에서 일관됩니다.",
+   "idioms": [
+    {
+     "en": "across",
+     "ko": "~전반에 걸쳐",
+     "note": "범위를 나타냅니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-020",
+   "sentence": "This distinction is often overlooked.",
+   "sentenceKo": "이 구분은 종종 간과됩니다.",
+   "idioms": [
+    {
+     "en": "overlook",
+     "ko": "간과하다",
+     "note": "중요한데 놓치는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-021",
+   "sentence": "The framework was adapted from earlier work.",
+   "sentenceKo": "그 틀은 기존 연구에서 변형되었습니다.",
+   "idioms": [
+    {
+     "en": "adapt from",
+     "ko": "~에서 변형하다",
+     "note": "맞게 고치는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-022",
+   "sentence": "Evidence accumulated gradually over decades.",
+   "sentenceKo": "증거는 수십 년에 걸쳐 축적되었습니다.",
+   "idioms": [
+    {
+     "en": "accumulate",
+     "ko": "축적되다",
+     "note": "조금씩 쌓이는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-023",
+   "sentence": "The argument is inherently circular.",
+   "sentenceKo": "그 주장은 본질적으로 순환논리입니다.",
+   "idioms": [
+    {
+     "en": "inherently",
+     "ko": "본질적으로",
+     "note": "성질 자체가 그렇다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-024",
+   "sentence": "Certain assumptions were left unstated.",
+   "sentenceKo": "일부 가정은 명시되지 않았습니다.",
+   "idioms": [
+    {
+     "en": "leave unstated",
+     "ko": "명시하지 않다",
+     "note": "말하지 않고 넘어가는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-025",
+   "sentence": "The outcome varied considerably among groups.",
+   "sentenceKo": "결과는 집단마다 상당히 달랐습니다.",
+   "idioms": [
+    {
+     "en": "vary",
+     "ko": "다르다",
+     "note": "차이가 나는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-026",
+   "sentence": "This approach yields more reliable results.",
+   "sentenceKo": "이 방법이 더 신뢰할 만한 결과를 냅니다.",
+   "idioms": [
+    {
+     "en": "yield",
+     "ko": "산출하다",
+     "note": "결과를 내놓는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-027",
+   "sentence": "Her thesis challenges conventional wisdom.",
+   "sentenceKo": "그녀의 논지는 통념에 도전합니다.",
+   "idioms": [
+    {
+     "en": "conventional wisdom",
+     "ko": "통념",
+     "note": "널리 믿어지는 생각입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-028",
+   "sentence": "The variables are confounded in this design.",
+   "sentenceKo": "이 설계에서는 변수들이 뒤섞여 있습니다.",
+   "idioms": [
+    {
+     "en": "confound",
+     "ko": "혼동시키다",
+     "note": "영향을 구분할 수 없게 만드는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-029",
+   "sentence": "This paper builds on previous findings.",
+   "sentenceKo": "이 논문은 기존 결과를 토대로 합니다.",
+   "idioms": [
+    {
+     "en": "build on",
+     "ko": "~을 토대로 하다",
+     "note": "이어서 발전시키는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-030",
+   "sentence": "The pattern held true in every trial.",
+   "sentenceKo": "그 패턴은 모든 시행에서 유지되었습니다.",
+   "idioms": [
+    {
+     "en": "hold true",
+     "ko": "들어맞다",
+     "note": "계속 유효한 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-031",
+   "sentence": "Critics contend that the method is flawed.",
+   "sentenceKo": "비판자들은 그 방법에 결함이 있다고 주장합니다.",
+   "idioms": [
+    {
+     "en": "contend",
+     "ko": "주장하다",
+     "note": "논쟁적으로 말하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-032",
+   "sentence": "The concept is difficult to operationalize.",
+   "sentenceKo": "그 개념은 조작적으로 정의하기 어렵습니다.",
+   "idioms": [
+    {
+     "en": "operationalize",
+     "ko": "측정 가능하게 정의하다",
+     "note": "추상 개념을 재는 방법입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-033",
+   "sentence": "Findings were replicated in a larger sample.",
+   "sentenceKo": "결과는 더 큰 표본에서 재현되었습니다.",
+   "idioms": [
+    {
+     "en": "in a larger sample",
+     "ko": "더 큰 표본에서",
+     "note": "일반화 가능성을 높입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-034",
+   "sentence": "The literature offers mixed evidence.",
+   "sentenceKo": "선행 연구는 엇갈린 증거를 제시합니다.",
+   "idioms": [
+    {
+     "en": "mixed evidence",
+     "ko": "엇갈린 증거",
+     "note": "결론이 갈리는 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-035",
+   "sentence": "This variable serves as a proxy for income.",
+   "sentenceKo": "이 변수는 소득의 대리 지표로 쓰입니다.",
+   "idioms": [
+    {
+     "en": "serve as",
+     "ko": "~역할을 하다",
+     "note": "대신 기능하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-036",
+   "sentence": "The effect was statistically significant.",
+   "sentenceKo": "그 효과는 통계적으로 유의했습니다.",
+   "idioms": [
+    {
+     "en": "statistically significant",
+     "ko": "통계적으로 유의한",
+     "note": "우연이 아닐 가능성이 높다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-037",
+   "sentence": "Alternative explanations must be ruled out.",
+   "sentenceKo": "대안적 설명을 배제해야 합니다.",
+   "idioms": [
+    {
+     "en": "rule out",
+     "ko": "배제하다",
+     "note": "가능성을 제거하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-038",
+   "sentence": "The author draws on a wide range of sources.",
+   "sentenceKo": "저자는 폭넓은 자료를 활용합니다.",
+   "idioms": [
+    {
+     "en": "draw on",
+     "ko": "활용하다",
+     "note": "자원을 끌어다 쓰는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-039",
+   "sentence": "This limitation warrants further study.",
+   "sentenceKo": "이 한계는 추가 연구가 필요합니다.",
+   "idioms": [
+    {
+     "en": "warrant",
+     "ko": "~할 만하다",
+     "note": "정당화한다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-040",
+   "sentence": "The two accounts are largely compatible.",
+   "sentenceKo": "두 설명은 대체로 양립합니다.",
+   "idioms": [
+    {
+     "en": "compatible",
+     "ko": "양립하는",
+     "note": "서로 모순되지 않는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-041",
+   "sentence": "Participants underwent a brief training session.",
+   "sentenceKo": "참가자들은 짧은 훈련을 거쳤습니다.",
+   "idioms": [
+    {
+     "en": "undergo",
+     "ko": "거치다",
+     "note": "과정을 겪는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-042",
+   "sentence": "The findings generalize beyond the lab.",
+   "sentenceKo": "그 결과는 실험실 밖에도 적용됩니다.",
+   "idioms": [
+    {
+     "en": "generalize",
+     "ko": "일반화되다",
+     "note": "넓게 적용되는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-043",
+   "sentence": "His reasoning is sound but incomplete.",
+   "sentenceKo": "그의 논증은 타당하지만 불완전합니다.",
+   "idioms": [
+    {
+     "en": "sound",
+     "ko": "타당한",
+     "note": "논리에 결함이 없다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-044",
+   "sentence": "The measure lacks construct validity.",
+   "sentenceKo": "그 척도는 구성 타당도가 부족합니다.",
+   "idioms": [
+    {
+     "en": "validity",
+     "ko": "타당도",
+     "note": "재려는 것을 제대로 재는가입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-045",
+   "sentence": "This effect emerged only under stress.",
+   "sentenceKo": "이 효과는 스트레스 상황에서만 나타났습니다.",
+   "idioms": [
+    {
+     "en": "emerge",
+     "ko": "나타나다",
+     "note": "드러나는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-046",
+   "sentence": "Prior studies have reported similar results.",
+   "sentenceKo": "선행 연구도 유사한 결과를 보고했습니다.",
+   "idioms": [
+    {
+     "en": "prior",
+     "ko": "이전의",
+     "note": "앞선 것을 뜻합니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-047",
+   "sentence": "The relationship is mediated by motivation.",
+   "sentenceKo": "그 관계는 동기에 의해 매개됩니다.",
+   "idioms": [
+    {
+     "en": "be mediated by",
+     "ko": "~에 의해 매개되다",
+     "note": "중간 다리 역할입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-048",
+   "sentence": "We must guard against selection bias.",
+   "sentenceKo": "선택 편향을 경계해야 합니다.",
+   "idioms": [
+    {
+     "en": "guard against",
+     "ko": "경계하다",
+     "note": "미리 막는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-049",
+   "sentence": "The theory has considerable explanatory power.",
+   "sentenceKo": "그 이론은 상당한 설명력을 지닙니다.",
+   "idioms": [
+    {
+     "en": "explanatory power",
+     "ko": "설명력",
+     "note": "현상을 얼마나 설명하는가입니다."
+    }
+   ]
+  },
+  {
+   "id": "high2-050",
+   "sentence": "These results should be viewed as preliminary.",
+   "sentenceKo": "이 결과는 예비적인 것으로 보아야 합니다.",
+   "idioms": [
+    {
+     "en": "preliminary",
+     "ko": "예비적인",
+     "note": "확정 전 단계입니다."
+    }
+   ]
+  }
+ ],
+ "contentHash": "80da6985179c6e90"
+}

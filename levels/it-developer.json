@@ -1,0 +1,258 @@
+{
+ "id": "it-developer",
+ "name": "IT 개발자",
+ "order": 9,
+ "description": "개발 실무 · 코드 리뷰, 티켓, 배포",
+ "cards": [
+  [
+   "Can you take a look at my pull request?",
+   "제 PR 좀 봐 주시겠어요?",
+   "take a look at|살펴보다|리뷰를 부탁할 때 씁니다."
+  ],
+  [
+   "I left a few comments on the diff.",
+   "변경분에 코멘트를 몇 개 남겼어요.",
+   "leave a comment|코멘트를 남기다|코드 리뷰에서 씁니다."
+  ],
+  [
+   "This change is not backward compatible.",
+   "이 변경은 하위 호환되지 않습니다.",
+   "backward compatible|하위 호환되는|기존 버전과 함께 동작하는 것입니다."
+  ],
+  [
+   "Let's roll back the deployment.",
+   "배포를 되돌립시다.",
+   "roll back|되돌리다|이전 버전으로 복구하는 것입니다."
+  ],
+  [
+   "The build is failing on the CI pipeline.",
+   "CI 파이프라인에서 빌드가 깨지고 있어요.",
+   "fail on|~에서 실패하다|어디서 깨지는지 말합니다."
+  ],
+  [
+   "I could not reproduce the bug locally.",
+   "로컬에서 버그를 재현하지 못했어요.",
+   "reproduce|재현하다|같은 문제를 다시 일으키는 것입니다."
+  ],
+  [
+   "We should refactor this before it grows.",
+   "커지기 전에 이걸 리팩터링해야 해요.",
+   "refactor|리팩터링하다|동작은 그대로 두고 구조를 개선하는 것입니다."
+  ],
+  [
+   "This function has a side effect.",
+   "이 함수에는 부수 효과가 있어요.",
+   "side effect|부수 효과|의도 밖의 상태 변화입니다."
+  ],
+  [
+   "Let's ship it behind a feature flag.",
+   "기능 플래그 뒤에 두고 배포하죠.",
+   "feature flag|기능 플래그|켜고 끌 수 있는 스위치입니다."
+  ],
+  [
+   "The endpoint is returning a 500 error.",
+   "그 엔드포인트가 500 에러를 반환하고 있어요.",
+   "return an error|에러를 반환하다|서버 응답을 말합니다."
+  ],
+  [
+   "I am blocked on the API spec.",
+   "API 명세 때문에 막혀 있어요.",
+   "be blocked on|~때문에 막히다|스탠드업에서 자주 씁니다."
+  ],
+  [
+   "Let's break this ticket into smaller ones.",
+   "이 티켓을 더 잘게 쪼갭시다.",
+   "break into smaller ones|잘게 쪼개다|작업 단위를 줄이는 것입니다."
+  ],
+  [
+   "This query is hitting the database too often.",
+   "이 쿼리가 DB 를 너무 자주 호출해요.",
+   "hit the database|DB 를 호출하다|조회가 일어나는 것입니다."
+  ],
+  [
+   "We need to add a null check here.",
+   "여기에 널 체크를 추가해야 해요.",
+   "null check|널 체크|값이 비었는지 확인하는 것입니다."
+  ],
+  [
+   "The test suite is flaky.",
+   "테스트가 간헐적으로 실패해요.",
+   "flaky|간헐적으로 실패하는|같은 코드인데 결과가 들쭉날쭉한 상태입니다."
+  ],
+  [
+   "Let's merge this after the review passes.",
+   "리뷰 통과되면 머지하죠.",
+   "merge|병합하다|브랜치를 합치는 것입니다."
+  ],
+  [
+   "This is a breaking change for clients.",
+   "이건 클라이언트에 파괴적 변경이에요.",
+   "breaking change|파괴적 변경|기존 사용자를 깨뜨리는 변경입니다."
+  ],
+  [
+   "I will bump the version to 2.1.0.",
+   "버전을 2.1.0 으로 올릴게요.",
+   "bump the version|버전을 올리다|숫자를 증가시키는 것입니다."
+  ],
+  [
+   "The service is timing out under load.",
+   "부하가 걸리면 서비스가 타임아웃됩니다.",
+   "time out|시간 초과되다|응답이 늦어 끊기는 것입니다."
+  ],
+  [
+   "Let's cache the result to reduce latency.",
+   "지연을 줄이려면 결과를 캐시합시다.",
+   "reduce latency|지연을 줄이다|응답 시간을 단축하는 것입니다."
+  ],
+  [
+   "This dependency is deprecated.",
+   "이 의존성은 더 이상 권장되지 않아요.",
+   "deprecated|사용 중단 예정인|앞으로 없어질 예정임을 뜻합니다."
+  ],
+  [
+   "I pushed a hotfix to production.",
+   "운영에 핫픽스를 배포했어요.",
+   "hotfix|긴급 수정|급하게 내보내는 수정입니다."
+  ],
+  [
+   "We should add logging around this call.",
+   "이 호출 주변에 로그를 넣어야 해요.",
+   "add logging|로그를 추가하다|추적을 위해 기록을 남기는 것입니다."
+  ],
+  [
+   "The migration needs to run before the deploy.",
+   "배포 전에 마이그레이션이 돌아야 해요.",
+   "run a migration|마이그레이션을 실행하다|DB 스키마를 바꾸는 것입니다."
+  ],
+  [
+   "Let's pair on this tricky part.",
+   "이 까다로운 부분은 같이 붙어서 하죠.",
+   "pair on|둘이서 함께 작업하다|페어 프로그래밍입니다."
+  ],
+  [
+   "This edge case is not covered by tests.",
+   "이 예외 상황은 테스트가 없어요.",
+   "edge case|예외 상황|드물지만 깨지는 경우입니다."
+  ],
+  [
+   "I am going to spike on this approach.",
+   "이 방식을 짧게 검증해 볼게요.",
+   "spike|기술 검증|가능성을 빠르게 확인하는 작업입니다."
+  ],
+  [
+   "The stack trace points to line 42.",
+   "스택 트레이스가 42행을 가리켜요.",
+   "stack trace|스택 트레이스|오류 발생 경로 기록입니다."
+  ],
+  [
+   "We have technical debt in this module.",
+   "이 모듈에 기술 부채가 있어요.",
+   "technical debt|기술 부채|나중에 갚아야 할 코드 빚입니다."
+  ],
+  [
+   "Let's stub the external service in tests.",
+   "테스트에서는 외부 서비스를 스텁으로 대체하죠.",
+   "stub|스텁으로 대체하다|가짜 구현을 쓰는 것입니다."
+  ],
+  [
+   "This code path is never exercised.",
+   "이 코드 경로는 전혀 실행되지 않아요.",
+   "code path|코드 경로|실행이 지나가는 길입니다."
+  ],
+  [
+   "I rebased onto main to resolve conflicts.",
+   "충돌 해결하려고 main 위로 리베이스했어요.",
+   "rebase onto|~위로 리베이스하다|커밋 기반을 옮기는 것입니다."
+  ],
+  [
+   "The memory usage keeps climbing.",
+   "메모리 사용량이 계속 오르고 있어요.",
+   "keep climbing|계속 오르다|누수를 의심할 상황입니다."
+  ],
+  [
+   "Let's set up an alert for this metric.",
+   "이 지표에 알림을 걸어 둡시다.",
+   "set up an alert|알림을 설정하다|임계치를 넘으면 알리는 것입니다."
+  ],
+  [
+   "This PR is ready for another pass.",
+   "이 PR 다시 봐 주셔도 됩니다.",
+   "another pass|한 번 더 검토|재리뷰를 요청하는 표현입니다."
+  ],
+  [
+   "We should validate the input on the server.",
+   "입력값은 서버에서 검증해야 해요.",
+   "validate input|입력을 검증하다|잘못된 값을 걸러내는 것입니다."
+  ],
+  [
+   "The job is stuck in the queue.",
+   "작업이 큐에 걸려 있어요.",
+   "stuck in the queue|큐에 걸린|처리되지 않고 대기 중인 상태입니다."
+  ],
+  [
+   "Let's document this in the README.",
+   "이건 README 에 적어 둡시다.",
+   "document|문서화하다|나중을 위해 기록하는 것입니다."
+  ],
+  [
+   "I will squash the commits before merging.",
+   "머지 전에 커밋을 합칠게요.",
+   "squash commits|커밋을 합치다|여러 커밋을 하나로 만드는 것입니다."
+  ],
+  [
+   "This behavior is by design.",
+   "이 동작은 의도된 것입니다.",
+   "by design|의도된|버그가 아니라는 뜻입니다."
+  ],
+  [
+   "The config differs between environments.",
+   "환경마다 설정이 달라요.",
+   "differ between|~간에 다르다|환경 차이를 말합니다."
+  ],
+  [
+   "Let's add a retry with exponential backoff.",
+   "지수 백오프 재시도를 넣읍시다.",
+   "exponential backoff|지수 백오프|간격을 늘려 가며 재시도하는 방식입니다."
+  ],
+  [
+   "I am on call this week.",
+   "이번 주는 제가 온콜이에요.",
+   "be on call|당직이다|장애 대응 대기 상태입니다."
+  ],
+  [
+   "This race condition is hard to catch.",
+   "이 경쟁 상태는 잡기 어려워요.",
+   "race condition|경쟁 상태|실행 순서에 따라 결과가 달라지는 버그입니다."
+  ],
+  [
+   "Let's benchmark before optimizing.",
+   "최적화 전에 성능을 측정합시다.",
+   "benchmark|성능을 측정하다|숫자로 비교하는 것입니다."
+  ],
+  [
+   "The schema change requires a backfill.",
+   "스키마 변경에는 백필이 필요해요.",
+   "backfill|과거 데이터 채우기|기존 행을 새 컬럼에 맞추는 작업입니다."
+  ],
+  [
+   "I will cherry-pick that fix to the release branch.",
+   "그 수정을 릴리스 브랜치로 체리픽할게요.",
+   "cherry-pick|특정 커밋만 골라 적용하다|일부만 옮기는 것입니다."
+  ],
+  [
+   "This warning is safe to ignore for now.",
+   "이 경고는 당장은 무시해도 됩니다.",
+   "safe to ignore|무시해도 되는|당장 문제되지 않는다는 뜻입니다."
+  ],
+  [
+   "Let's gate this behind an admin role.",
+   "이건 관리자 권한 뒤에 두죠.",
+   "gate behind|~뒤에 두다|접근을 제한하는 것입니다."
+  ],
+  [
+   "The incident postmortem is due Friday.",
+   "장애 회고는 금요일까지예요.",
+   "postmortem|사후 분석|원인을 정리하는 문서입니다."
+  ]
+ ]
+}

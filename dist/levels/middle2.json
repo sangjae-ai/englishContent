@@ -1,0 +1,613 @@
+{
+ "schema": 3,
+ "level": "middle2",
+ "name": "중2",
+ "cards": [
+  {
+   "id": "middle2-001",
+   "sentence": "I would rather stay home than go out tonight.",
+   "sentenceKo": "오늘 밤은 나가느니 집에 있는 게 나아.",
+   "idioms": [
+    {
+     "en": "would rather A than B",
+     "ko": "B 보다 A 하는 게 낫다",
+     "note": "둘 중 선호를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-002",
+   "sentence": "He is not as tall as his older brother.",
+   "sentenceKo": "그는 형만큼 크지 않아.",
+   "idioms": [
+    {
+     "en": "not as ~ as",
+     "ko": "~만큼 ...하지 않다",
+     "note": "같지 않음을 비교합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-003",
+   "sentence": "The more I practice, the better I get.",
+   "sentenceKo": "연습할수록 더 나아져.",
+   "idioms": [
+    {
+     "en": "the more ~ the more",
+     "ko": "~할수록 더 ...하다",
+     "note": "비례 관계를 나타냅니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-004",
+   "sentence": "I am fed up with this rainy weather.",
+   "sentenceKo": "이 비 오는 날씨에 질렸어.",
+   "idioms": [
+    {
+     "en": "be fed up with",
+     "ko": "질리다",
+     "note": "지겨워서 못 참겠다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-005",
+   "sentence": "She takes her studies seriously.",
+   "sentenceKo": "그 애는 공부를 진지하게 해.",
+   "idioms": [
+    {
+     "en": "take ~ seriously",
+     "ko": "진지하게 받아들이다",
+     "note": "가볍게 여기지 않는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-006",
+   "sentence": "We had better leave before it gets dark.",
+   "sentenceKo": "어두워지기 전에 출발하는 게 좋겠어.",
+   "idioms": [
+    {
+     "en": "had better",
+     "ko": "~하는 게 좋겠다",
+     "note": "충고나 경고에 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-007",
+   "sentence": "I can't help laughing at his jokes.",
+   "sentenceKo": "그의 농담에 안 웃을 수가 없어.",
+   "idioms": [
+    {
+     "en": "can't help",
+     "ko": "~하지 않을 수 없다",
+     "note": "뒤에 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-008",
+   "sentence": "He is likely to win the contest.",
+   "sentenceKo": "그가 대회에서 이길 것 같아.",
+   "idioms": [
+    {
+     "en": "be likely to",
+     "ko": "~할 것 같다",
+     "note": "가능성이 높다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-009",
+   "sentence": "Let's make the most of this weekend.",
+   "sentenceKo": "이번 주말을 최대한 활용하자.",
+   "idioms": [
+    {
+     "en": "make the most of",
+     "ko": "최대한 활용하다",
+     "note": "주어진 것을 잘 쓰는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-010",
+   "sentence": "I have nothing to do with that problem.",
+   "sentenceKo": "나는 그 문제와 아무 상관 없어.",
+   "idioms": [
+    {
+     "en": "have nothing to do with",
+     "ko": "~와 상관없다",
+     "note": "관련이 없다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-011",
+   "sentence": "She is in charge of the class newsletter.",
+   "sentenceKo": "그 애가 학급 소식지를 맡고 있어.",
+   "idioms": [
+    {
+     "en": "be in charge of",
+     "ko": "맡다, 책임지다",
+     "note": "담당자를 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-012",
+   "sentence": "We ended up getting along really well.",
+   "sentenceKo": "결국 우리는 정말 잘 지내게 됐어.",
+   "idioms": [
+    {
+     "en": "end up",
+     "ko": "결국 ~하게 되다",
+     "note": "예상과 다른 결말입니다."
+    },
+    {
+     "en": "get along",
+     "ko": "잘 지내다",
+     "note": "사이가 좋다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-013",
+   "sentence": "It is up to you to decide.",
+   "sentenceKo": "결정은 너에게 달렸어.",
+   "idioms": [
+    {
+     "en": "be up to",
+     "ko": "~에게 달려 있다",
+     "note": "선택권이 있다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-014",
+   "sentence": "I ran out of patience with him.",
+   "sentenceKo": "그에게 인내심이 바닥났어.",
+   "idioms": [
+    {
+     "en": "run out of",
+     "ko": "다 떨어지다",
+     "note": "patience 처럼 추상적인 것에도 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-015",
+   "sentence": "He made a fool of himself on stage.",
+   "sentenceKo": "그는 무대에서 망신을 당했어.",
+   "idioms": [
+    {
+     "en": "make a fool of oneself",
+     "ko": "망신당하다",
+     "note": "스스로 우습게 되는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-016",
+   "sentence": "Let's keep this between us.",
+   "sentenceKo": "이건 우리끼리만 알자.",
+   "idioms": [
+    {
+     "en": "between us",
+     "ko": "우리끼리",
+     "note": "비밀로 하자는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-017",
+   "sentence": "She is bound to succeed with that effort.",
+   "sentenceKo": "그 정도 노력이면 반드시 성공할 거야.",
+   "idioms": [
+    {
+     "en": "be bound to",
+     "ko": "반드시 ~하다",
+     "note": "거의 확실할 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-018",
+   "sentence": "I look up to my science teacher.",
+   "sentenceKo": "나는 과학 선생님을 존경해.",
+   "idioms": [
+    {
+     "en": "look up to",
+     "ko": "존경하다",
+     "note": "본받고 싶은 사람에게 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-019",
+   "sentence": "Don't look down on people who try.",
+   "sentenceKo": "노력하는 사람을 무시하지 마.",
+   "idioms": [
+    {
+     "en": "look down on",
+     "ko": "무시하다",
+     "note": "look up to 의 반대입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-020",
+   "sentence": "We are running short of chairs.",
+   "sentenceKo": "의자가 모자라.",
+   "idioms": [
+    {
+     "en": "run short of",
+     "ko": "모자라다",
+     "note": "양이 부족한 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-021",
+   "sentence": "He got carried away and spent too much.",
+   "sentenceKo": "그는 흥분해서 너무 많이 썼어.",
+   "idioms": [
+    {
+     "en": "get carried away",
+     "ko": "흥분해서 지나치다",
+     "note": "자제력을 잃는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-022",
+   "sentence": "I take it for granted that she will help.",
+   "sentenceKo": "그 애가 도와주는 걸 당연하게 여겼어.",
+   "idioms": [
+    {
+     "en": "take ~ for granted",
+     "ko": "당연하게 여기다",
+     "note": "고마움을 잊는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-023",
+   "sentence": "Let's put ourselves in her shoes.",
+   "sentenceKo": "그 애 입장에서 생각해 보자.",
+   "idioms": [
+    {
+     "en": "put oneself in someone's shoes",
+     "ko": "입장을 바꿔 생각하다",
+     "note": "공감할 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-024",
+   "sentence": "The test was a piece of cake.",
+   "sentenceKo": "시험은 아주 쉬웠어.",
+   "idioms": [
+    {
+     "en": "a piece of cake",
+     "ko": "아주 쉬운 일",
+     "note": "식은 죽 먹기라는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-025",
+   "sentence": "He is second to none in swimming.",
+   "sentenceKo": "수영에서는 그가 최고야.",
+   "idioms": [
+    {
+     "en": "second to none",
+     "ko": "누구에게도 뒤지지 않는",
+     "note": "최고라는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-026",
+   "sentence": "I ran into trouble halfway through.",
+   "sentenceKo": "중간에 문제가 생겼어.",
+   "idioms": [
+    {
+     "en": "run into trouble",
+     "ko": "문제에 부딪히다",
+     "note": "어려움을 만나는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-027",
+   "sentence": "She is capable of doing much better.",
+   "sentenceKo": "그 애는 훨씬 더 잘할 수 있어.",
+   "idioms": [
+    {
+     "en": "be capable of",
+     "ko": "~할 능력이 있다",
+     "note": "뒤에 -ing 가 옵니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-028",
+   "sentence": "We should look on the bright side.",
+   "sentenceKo": "긍정적인 면을 보자.",
+   "idioms": [
+    {
+     "en": "look on the bright side",
+     "ko": "긍정적으로 보다",
+     "note": "좋은 쪽을 보는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-029",
+   "sentence": "He turned a deaf ear to my advice.",
+   "sentenceKo": "그는 내 조언을 못 들은 척했어.",
+   "idioms": [
+    {
+     "en": "turn a deaf ear to",
+     "ko": "귀 기울이지 않다",
+     "note": "일부러 무시하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-030",
+   "sentence": "Let's break the ice with a game.",
+   "sentenceKo": "게임으로 어색함을 깨자.",
+   "idioms": [
+    {
+     "en": "break the ice",
+     "ko": "어색함을 깨다",
+     "note": "첫 만남에서 자주 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-031",
+   "sentence": "I am on good terms with my neighbors.",
+   "sentenceKo": "이웃들과 사이가 좋아.",
+   "idioms": [
+    {
+     "en": "be on good terms with",
+     "ko": "사이가 좋다",
+     "note": "관계가 원만하다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-032",
+   "sentence": "She kept her word about the secret.",
+   "sentenceKo": "그 애는 비밀에 대한 약속을 지켰어.",
+   "idioms": [
+    {
+     "en": "keep one's word",
+     "ko": "약속을 지키다",
+     "note": "말한 대로 하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-033",
+   "sentence": "We are better off leaving early.",
+   "sentenceKo": "일찍 떠나는 게 나아.",
+   "idioms": [
+    {
+     "en": "be better off",
+     "ko": "~하는 편이 낫다",
+     "note": "더 나은 선택을 말합니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-034",
+   "sentence": "He caught on to the rules quickly.",
+   "sentenceKo": "그는 규칙을 빨리 이해했어.",
+   "idioms": [
+    {
+     "en": "catch on",
+     "ko": "이해하다",
+     "note": "감을 잡는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-035",
+   "sentence": "I have mixed feelings about moving.",
+   "sentenceKo": "이사에 대해 마음이 복잡해.",
+   "idioms": [
+    {
+     "en": "have mixed feelings",
+     "ko": "마음이 복잡하다",
+     "note": "좋기도 싫기도 한 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-036",
+   "sentence": "She stands out in every group photo.",
+   "sentenceKo": "그 애는 단체 사진에서 늘 눈에 띄어.",
+   "idioms": [
+    {
+     "en": "stand out",
+     "ko": "눈에 띄다",
+     "note": "두드러지는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-037",
+   "sentence": "Let's get down to business.",
+   "sentenceKo": "본론으로 들어가자.",
+   "idioms": [
+    {
+     "en": "get down to business",
+     "ko": "본론에 들어가다",
+     "note": "잡담을 끝내는 표현입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-038",
+   "sentence": "He is all ears when you talk about games.",
+   "sentenceKo": "게임 얘기만 하면 그는 귀를 쫑긋해.",
+   "idioms": [
+    {
+     "en": "be all ears",
+     "ko": "열심히 듣다",
+     "note": "관심이 많다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-039",
+   "sentence": "I made up with my friend yesterday.",
+   "sentenceKo": "어제 친구와 화해했어.",
+   "idioms": [
+    {
+     "en": "make up with",
+     "ko": "화해하다",
+     "note": "싸운 뒤 다시 친해지는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-040",
+   "sentence": "That story doesn't add up.",
+   "sentenceKo": "그 이야기는 앞뒤가 안 맞아.",
+   "idioms": [
+    {
+     "en": "add up",
+     "ko": "말이 되다",
+     "note": "논리가 맞는지 말할 때 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-041",
+   "sentence": "We are counting on you tomorrow.",
+   "sentenceKo": "내일 너만 믿을게.",
+   "idioms": [
+    {
+     "en": "count on",
+     "ko": "믿다, 의지하다",
+     "note": "기대를 거는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-042",
+   "sentence": "She let me down when she cancelled.",
+   "sentenceKo": "그 애가 취소해서 실망했어.",
+   "idioms": [
+    {
+     "en": "let down",
+     "ko": "실망시키다",
+     "note": "기대를 저버리는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-043",
+   "sentence": "He came up with a clever idea.",
+   "sentenceKo": "그가 기발한 아이디어를 떠올렸어.",
+   "idioms": [
+    {
+     "en": "come up with",
+     "ko": "떠올리다",
+     "note": "생각해 내는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-044",
+   "sentence": "I can't put up with this noise anymore.",
+   "sentenceKo": "이 소음을 더는 못 참겠어.",
+   "idioms": [
+    {
+     "en": "put up with",
+     "ko": "참다",
+     "note": "견디는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-045",
+   "sentence": "Let's play it by ear tomorrow.",
+   "sentenceKo": "내일은 상황 봐서 하자.",
+   "idioms": [
+    {
+     "en": "play it by ear",
+     "ko": "상황 봐서 하다",
+     "note": "계획 없이 유연하게 하는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-046",
+   "sentence": "That is easier said than done.",
+   "sentenceKo": "말이야 쉽지.",
+   "idioms": [
+    {
+     "en": "easier said than done",
+     "ko": "말은 쉽다",
+     "note": "실행이 어렵다는 뜻입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-047",
+   "sentence": "He has a lot on his mind these days.",
+   "sentenceKo": "그는 요즘 고민이 많아.",
+   "idioms": [
+    {
+     "en": "have a lot on one's mind",
+     "ko": "고민이 많다",
+     "note": "생각할 게 많은 상태입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-048",
+   "sentence": "We hit it off right away.",
+   "sentenceKo": "우리는 바로 잘 통했어.",
+   "idioms": [
+    {
+     "en": "hit it off",
+     "ko": "죽이 잘 맞다",
+     "note": "처음부터 친해지는 것입니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-049",
+   "sentence": "She is under the weather today.",
+   "sentenceKo": "그 애는 오늘 몸이 안 좋아.",
+   "idioms": [
+    {
+     "en": "be under the weather",
+     "ko": "몸이 안 좋다",
+     "note": "가벼운 병에 씁니다."
+    }
+   ]
+  },
+  {
+   "id": "middle2-050",
+   "sentence": "Let's call it a day.",
+   "sentenceKo": "오늘은 여기까지 하자.",
+   "idioms": [
+    {
+     "en": "call it a day",
+     "ko": "오늘 일을 마치다",
+     "note": "일을 끝낼 때 씁니다."
+    }
+   ]
+  }
+ ],
+ "contentHash": "fc5be7890d6ce017"
+}
