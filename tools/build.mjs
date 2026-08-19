@@ -68,7 +68,8 @@ for (const file of files) {
     description: src.description ?? '',
     cards: cards.length,
     contentHash,
-    path: `dist/levels/${src.id}.json`,
+    // 매니페스트 파일 위치 기준 상대경로. 앱이 URI.resolve 로 그대로 풀 수 있다.
+    path: `levels/${src.id}.json`,
   });
 }
 

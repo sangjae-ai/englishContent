@@ -9,7 +9,7 @@
    "description": "초등 고학년 · 집과 학교의 하루",
    "cards": 50,
    "contentHash": "890d6359e6b1ea61",
-   "path": "dist/levels/elementary.json"
+   "path": "levels/elementary.json"
   },
   {
    "id": "middle1",
@@ -18,7 +18,7 @@
    "description": "중학교 1학년 · 과거형과 학교 생활",
    "cards": 50,
    "contentHash": "c2948b5895e9df7a",
-   "path": "dist/levels/middle1.json"
+   "path": "levels/middle1.json"
   },
   {
    "id": "middle2",
@@ -27,7 +27,7 @@
    "description": "중학교 2학년 · 비교와 감정 표현",
    "cards": 50,
    "contentHash": "fc5be7890d6ce017",
-   "path": "dist/levels/middle2.json"
+   "path": "levels/middle2.json"
   },
   {
    "id": "middle3",
@@ -36,7 +36,7 @@
    "description": "중학교 3학년 · 가정법과 현재완료",
    "cards": 50,
    "contentHash": "b79d003830c64dd0",
-   "path": "dist/levels/middle3.json"
+   "path": "levels/middle3.json"
   },
   {
    "id": "high1",
@@ -45,7 +45,7 @@
    "description": "고등학교 1학년 · 의견과 논리 전개",
    "cards": 50,
    "contentHash": "87f9df659080c5b1",
-   "path": "dist/levels/high1.json"
+   "path": "levels/high1.json"
   },
   {
    "id": "high2",
@@ -54,7 +54,7 @@
    "description": "고등학교 2학년 · 학술 어휘와 수동 구문",
    "cards": 50,
    "contentHash": "80da6985179c6e90",
-   "path": "dist/levels/high2.json"
+   "path": "levels/high2.json"
   },
   {
    "id": "high3",
@@ -63,7 +63,7 @@
    "description": "고등학교 3학년 · 수능 수준의 복합 구문",
    "cards": 50,
    "contentHash": "b37a44b3ba78412f",
-   "path": "dist/levels/high3.json"
+   "path": "levels/high3.json"
   },
   {
    "id": "adult",
@@ -72,7 +72,7 @@
    "description": "성인 일반 · 직장과 일상, 여행",
    "cards": 50,
    "contentHash": "7135861bef1fbe8c",
-   "path": "dist/levels/adult.json"
+   "path": "levels/adult.json"
   },
   {
    "id": "it-developer",
@@ -81,7 +81,7 @@
    "description": "개발 실무 · 코드 리뷰, 티켓, 배포",
    "cards": 50,
    "contentHash": "1ef01ffbe46a8240",
-   "path": "dist/levels/it-developer.json"
+   "path": "levels/it-developer.json"
   },
   {
    "id": "sv-engineer",
@@ -90,8 +90,8 @@
    "description": "미국 테크 기업 · 제품, 협업, 커리어",
    "cards": 50,
    "contentHash": "ff05531c42e31a6b",
-   "path": "dist/levels/sv-engineer.json"
+   "path": "levels/sv-engineer.json"
   }
  ],
- "manifestHash": "43c4d053637ed70e"
+ "manifestHash": "cef791df6f9c38a8"
 }

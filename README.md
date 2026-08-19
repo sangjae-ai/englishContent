@@ -26,7 +26,7 @@
 
 ```
 dist/manifest.json                 ← 앱이 가장 먼저 받는 파일
-dist/levels/<레벨id>.json           ← 해시가 달라진 레벨만 받는다
+dist/levels/<레벨id>.json           ← 해시가 달라진 레벨만 받는다 (manifest 기준 상대경로)
 ```
 
 앱 설정에 넣는 주소는 매니페스트의 raw URL 하나뿐이다.
@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/sangjae-ai/englishContent/main/dist/manifest.j
    "description": "초등 고학년 · 집과 학교의 하루",
    "cards": 50,
    "contentHash": "890d6359e6b1ea61",
-   "path": "dist/levels/elementary.json"
+   "path": "levels/elementary.json"
   }
  ]
 }
