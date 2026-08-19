@@ -7,8 +7,8 @@
    "name": "초등",
    "order": 1,
    "description": "초등 고학년 · 집과 학교의 하루",
-   "cards": 50,
-   "contentHash": "890d6359e6b1ea61",
+   "cards": 51,
+   "contentHash": "7f9654a6237a12e2",
    "path": "levels/elementary.json"
   },
   {
@@ -93,5 +93,5 @@
    "path": "levels/sv-engineer.json"
   }
  ],
- "manifestHash": "cef791df6f9c38a8"
+ "manifestHash": "f78ffcbc795b067f"
 }
